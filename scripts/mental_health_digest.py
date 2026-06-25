@@ -276,7 +276,7 @@ def fetch_doi_content(doi: str) -> str:
         headers = {
             "User-Agent": (
                 "Mozilla/5.0 (compatible; research-digest-bot/1.0; "
-                "+https://github.com/Meggers1982/aging-longevity-digest)"
+                "+https://github.com/Meggers1982/mental-health-digest)"
             ),
             "Accept": "text/html,application/xhtml+xml",
         }
