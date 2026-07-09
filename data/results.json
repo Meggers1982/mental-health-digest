@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-09T13:56:53.377716+00:00",
-  "total_studies": 250,
+  "total_studies": 200,
   "new_this_run": 22,
   "studies": [
     {
@@ -310,33 +310,6 @@
       "status": "new"
     },
     {
-      "pmid": "42411111",
-      "headline": "Traumatic brain injury damages major brain veins more often than CT scans reveal, review warns",
-      "journal": "The Neuroradiology Journal",
-      "pubdate": "2026 Jul 7",
-      "doi": "10.1177/19714009261467323",
-      "groundbreaking": "None identified",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This narrative review synthesizes current knowledge on dural venous sinus injuries (DVSI) following traumatic brain injury, highlighting that modern imaging reveals these injuries occur far more frequently than the reported 1\u20134% incidence of severe head injury suggests \u2014 particularly when skull fractures cross major venous sinuses. The authors evaluate the strengths and limitations of CT venography, MR venography, and digital subtraction angiography for detecting and characterizing these injuries. No new patient data were collected; the review also covers management strategies including surgical decompression and anticoagulation considerations.",
-      "why_it_matters": "Underrecognized venous sinus injuries after head trauma can lead to venous infarction; a more systematic imaging approach could reduce serious complications in TBI patients.",
-      "caveats": "observational design, no active control group",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Neuroradiology/TBI focus with minimal direct mental health or behavioral relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Brain scans may be missing a dangerous type of vein damage after head trauma, review finds",
-          "hook": "Standard CT scans after traumatic brain injury frequently miss injuries to the brain's major venous drainage channels \u2014 damage that can silently progress to life-threatening venous stroke.",
-          "pitch_angle": "A review of imaging techniques finds that venous sinus injuries are more common than reported rates suggest, and that current imaging protocols have meaningful limitations in detecting them \u2014 an important finding for emergency and trauma medicine."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Neurology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42412047",
       "headline": "Children with epilepsy face sharply unequal risks of death and suicide depending on race, income, and geography \u2014 but research on why is nearly absent",
       "journal": "Journal of Child Neurology",
@@ -397,33 +370,6 @@
       "status": "new"
     },
     {
-      "pmid": "42413647",
-      "headline": "A diabetes drug compound protects retinal nerve cells in mice by calming brain immune cells \u2014 suggesting a new angle on diabetic vision loss",
-      "journal": "Neuroscience Letters",
-      "pubdate": "2026 Jul 7",
-      "doi": "10.1016/j.neulet.2026.138680",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers tested whether DAla2-GIP-Glu-PAL, an analogue of the hormone GIP (glucose-dependent insulinotropic polypeptide), could protect retinal nerve cells in Type 2 diabetic db/db mice. The compound was injected directly into the eyes of diabetic mice, and researchers measured changes in retinal structure, ganglion cell survival, neuroinflammation markers, and oxidative stress. They found that the treatment reversed excessive microglial activation, reduced inflammatory and oxidative markers, and promoted recovery of retinal neural structure and function.",
-      "why_it_matters": "Diabetic retinopathy is a leading cause of blindness with limited neuroprotective treatment options, and findings suggesting that GIP analogues may protect retinal neurons could eventually inform new approaches to preserving vision in people with diabetes.",
-      "caveats": "animal or cell study, small sample (N<100), observational design",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Animal study only; no direct mental health or behavioral outcome relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A Diabetes Drug Compound May Help Protect the Eyes From Within \u2014 At Least in Mice",
-          "hook": "A hormone-based compound already studied for diabetes treatment appears to shield retinal nerve cells from the inflammation and damage that drives diabetic blindness \u2014 in a mouse model.",
-          "pitch_angle": "The study found that a GIP hormone analogue injected into the eyes of diabetic mice calmed overactive immune cells in the retina and reversed early signs of neurodegeneration, suggesting an anti-inflammatory mechanism that may be worth pursuing in human research. Diabetic retinopathy affects millions globally and causes significant psychological burden alongside vision loss, making any new protective approach scientifically relevant \u2014 though human evidence is still absent."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Neurology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42414182",
       "headline": "Two teenagers share a rare genetic mutation that causes rapid-onset Parkinson's \u2014 with a dangerous twist from standard treatment",
       "journal": "Movement Disorders Clinical Practice",
@@ -443,60 +389,6 @@
           "headline": "A Rare Gene Mutation Is Giving Teenagers Parkinson's \u2014 and Standard Treatment Can Make It Worse",
           "hook": "Two Brazilian siblings with a newly discovered genetic variant are developing severe Parkinson's disease in their teens, and the drug normally used to treat it triggered a dangerous reaction in one of them.",
           "pitch_angle": "The case highlights how rare juvenile-onset neurogenetic disorders often blend movement symptoms with psychiatric and cognitive decline, and why levodopa \u2014 the cornerstone of adult Parkinson's treatment \u2014 may not be safe or effective in all genetic subtypes."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Neurology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42410071",
-      "headline": "A berberine-derived compound reduces brain inflammation and tau buildup in mice \u2014 but human tests are far off",
-      "journal": "Neurochemical Research",
-      "pubdate": "2026 Jul 7",
-      "doi": "10.1007/s11064-026-04834-3",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers tested compound 0242, derived from berberine, in LPS-stimulated mouse microglia cells and in P301S tau transgenic mice \u2014 an Alzheimer's disease model. In cell studies, 0242 reduced inflammatory markers including IL-1\u03b2 and TNF-\u03b1 without cytotoxicity; in living mice, oral administration reduced hippocampal glial activation, improved locomotion and recognition memory, and lowered tau protein levels in the prefrontal cortex. The study was conducted entirely in animal and cell models with no human data.",
-      "why_it_matters": "If the anti-inflammatory and tau-reducing effects of this compound translate to humans, it could represent a new multi-target approach to slowing Alzheimer's disease progression.",
-      "caveats": "animal or cell study, small sample (N<100), single-center",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Alzheimer's relevance, but animal/cell study only with no human data.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A compound derived from a traditional herb shows early promise against Alzheimer's hallmarks \u2014 in mice",
-          "hook": "A small-molecule derivative of berberine \u2014 a compound found in traditional medicine \u2014 reduced both brain inflammation and the toxic tau protein buildup central to Alzheimer's disease in animal models.",
-          "pitch_angle": "The study is early-stage animal research, but it adds to growing interest in multi-target compounds that hit both neuroinflammation and tau pathology simultaneously, two processes that drive Alzheimer's progression and have proven difficult to treat separately."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Neurology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42412998",
-      "headline": "The eye's first synapse is far more dynamic than scientists realized \u2014 and it may reveal how the whole brain rewires itself",
-      "journal": "Annual Review of Vision Science",
-      "pubdate": "2026 Jul 7",
-      "doi": "10.1146/annurev-vision-110325-011000",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This review synthesizes structural, functional, and computational research on electrical coupling between rod and cone photoreceptors in the retina, focusing on gap junctions \u2014 direct neuron-to-neuron connections long thought to be relatively fixed. The author argues these synapses are highly plastic, changing in strength on timescales from milliseconds to days. The findings suggest principles of electrical synapse plasticity discovered in the retina may apply broadly to neural circuits throughout the brain.",
-      "why_it_matters": "Understanding how electrical synapses dynamically regulate signal transmission could eventually inform research on sensory processing disorders and brain circuit dysfunction more broadly.",
-      "caveats": "review article, no original human data, no behavioral outcome measured, animal or cell study",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Basic visual neuroscience review; no direct mental health or behavioral relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / science",
-          "headline": "The Brain's Electrical Connections Are Far More Flexible Than We Thought",
-          "hook": "The synapse connecting your eye's rod and cone cells rewires itself on timescales from milliseconds to days \u2014 challenging a long-held assumption about how fixed neural connections are.",
-          "pitch_angle": "New research suggests that electrical synapses, once considered static infrastructure, are as dynamic as chemical ones, potentially reframing how scientists understand circuit-level brain plasticity across all neural systems."
         }
       ],
       "run_date": "2026-07-09",
@@ -592,33 +484,6 @@
       "status": "new"
     },
     {
-      "pmid": "42406907",
-      "headline": "Experts push back on stroke guidelines that may undervalue newer brain aneurysm treatments",
-      "journal": "European Stroke Journal",
-      "pubdate": "2026 Jul 6",
-      "doi": "10.1093/esj/aakag075",
-      "groundbreaking": "Major mental health or behavioral implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This is a response letter \u2014 not an original research study \u2014 in which two neurosurgeons critique the evidence standards applied to novel endovascular techniques in the ESO/EANS/ESMINT guideline on aneurysmal subarachnoid haemorrhage. No new patient data or empirical findings are presented. The letter raises concerns about how emerging procedural evidence was evaluated in the guideline development process.",
-      "why_it_matters": "Guideline debates shape which treatments clinicians offer to patients with life-threatening brain aneurysms, but this letter contains no new research findings relevant to mental health or behavioral science.",
-      "caveats": "observational design, no active control group, small sample (N<100), single-center",
-      "fact_check_note": "This is a response letter, not an original research article. It contains no new empirical data. Relevance to mental health or psychiatry is negligible.",
-      "relevance_score": 1,
-      "relevance_score_reason": "Neurosurgical guideline commentary; no mental health, behavioral, or psychiatric relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A debate over brain aneurysm treatment guidelines has little to say about mental health \u2014 yet",
-          "hook": "When experts argue over stroke treatment standards, the mental health consequences of surviving a brain aneurysm rarely enter the room.",
-          "pitch_angle": "This is a procedural guideline dispute with no direct mental health findings, but it gestures toward a broader gap: the psychiatric and cognitive aftermath of subarachnoid haemorrhage is frequently undertreated and underrepresented in clinical guidelines."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Neurology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42402479",
       "headline": "Disagreeing with peers \u2014 not just agreeing \u2014 may be how children actually learn to think for themselves",
       "journal": "Behavioral and Brain Sciences",
@@ -670,60 +535,6 @@
       "run_date": "2026-07-09",
       "category": "Neurology",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42418304",
-      "headline": "New European guidelines weigh in on emerging endovascular treatments for brain aneurysm rupture",
-      "journal": "European Stroke Journal",
-      "pubdate": "2026 Jul 6",
-      "doi": "10.1093/esj/aakag074",
-      "groundbreaking": "None identified",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This appears to be a commentary or guideline summary article from the ESO/EANS/ESMINT guideline on aneurysmal subarachnoid hemorrhage, addressing evidence for novel endovascular techniques. No abstract text beyond the title and authorship was available for review. The piece originates from the Department of Neuroradiology at Heidelberg University Hospital.",
-      "why_it_matters": "Updated clinical guidelines on endovascular techniques for ruptured brain aneurysms could influence how neurosurgical teams approach a life-threatening emergency with limited treatment windows.",
-      "caveats": "observational design, no active control group",
-      "fact_check_note": "No abstract text was provided for this study; summary is based solely on title, authors, and journal context. All claims should be independently verified against the full text.",
-      "relevance_score": 3,
-      "relevance_score_reason": "Neurovascular clinical guideline with minimal mental health or behavioral relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "European stroke societies update guidance on new tools for treating ruptured brain aneurysms",
-          "hook": "New European guidelines for aneurysmal subarachnoid hemorrhage now address novel endovascular techniques that have emerged since prior recommendations.",
-          "pitch_angle": "The update reflects a rapidly evolving toolkit for treating one of the most deadly forms of stroke, with implications for how neurovascular teams make real-time decisions in emergency settings."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Neurology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42402308",
-      "headline": "New gene-mapping technologies are revealing what actually happens inside the brain during a stroke \u2014 cell by cell",
-      "journal": "Experimental Neurology",
-      "pubdate": "2026 Jul 5",
-      "doi": "10.1016/j.expneurol.2026.115901",
-      "groundbreaking": "Major mental health or behavioral implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This review systematically summarizes the application of single-cell RNA sequencing and spatial transcriptomics to ischemic stroke research, focusing on how these technologies have revealed cellular and molecular changes following brain injury. The review covers key findings including the LGALS9-CD44 repair signaling axis, improvements in cell transplantation strategies, and early diagnostic biomarker discovery. Authors also identify major translational challenges, including low brain cell capture efficiency, limited human sample availability, and difficulties moving findings from animal models to clinical use.",
-      "why_it_matters": "Understanding stroke-induced brain changes at the single-cell level could eventually improve post-stroke cognitive and psychiatric recovery, a major but often overlooked consequence of stroke.",
-      "caveats": "review article (no primary data), animal or cell study (predominantly preclinical data reviewed), translational gaps explicitly noted by authors",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Highly technical preclinical review; minimal direct mental health or behavioral relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "Scientists Can Now Map a Stroke's Damage Brain Cell by Brain Cell \u2014 But Turning That Into Treatments Is Hard",
-          "hook": "Powerful new gene-sequencing tools are producing the most detailed picture ever of what goes wrong in the brain during a stroke, but a new review finds that translating those discoveries into clinical treatments remains deeply challenging.",
-          "pitch_angle": "Single-cell RNA sequencing and spatial transcriptomics are revealing cellular heterogeneity in stroke-damaged brain tissue that older techniques missed entirely. The review highlights both the scientific promise and the significant gap between mechanistic insights in mouse models and what will actually help human stroke patients."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Neurology",
-      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -877,60 +688,6 @@
       "run_date": "2026-07-09",
       "category": "Psychology",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42396716",
-      "headline": "How children learn to navigate the world depends heavily on where they grow up \u2014 and science has barely studied this",
-      "journal": "Behavioral and Brain Sciences",
-      "pubdate": "2026 Jul 3",
-      "doi": "10.1017/S0140525X25104056",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This is a theoretical commentary \u2014 not an empirical study \u2014 responding to a call for more globally diverse developmental psychology research. The authors review the state of research on how children develop spatial navigation and wayfinding abilities, arguing that the field has been dominated by WEIRD (Western, Educated, Industrialized, Rich, Democratic) samples and that real-world, locally embedded studies produce meaningfully different findings. They outline both the promise and practical challenges of conducting cross-cultural navigation research in diverse, non-WEIRD populations.",
-      "why_it_matters": "If foundational findings about how children develop spatial and navigational cognition are based almost entirely on Western samples, the field may be drawing universal conclusions from a narrow slice of human experience.",
-      "caveats": "theoretical commentary only, no empirical data, no sample, WEIRD sample critique (meta-level)",
-      "fact_check_note": "This is a commentary/response piece, not an original empirical study. No participant data or statistical findings are reported.",
-      "relevance_score": 3,
-      "relevance_score_reason": "Theoretical commentary, no new data, narrow cognitive domain with limited mental health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Almost everything science thinks it knows about how kids learn to navigate space comes from the same narrow slice of humanity",
-          "hook": "A commentary in Behavioral and Brain Sciences argues that developmental research on spatial cognition in children has been so dominated by Western, educated populations that its conclusions may not apply to most of the world's children.",
-          "pitch_angle": "Researchers argue that how children develop the ability to navigate and understand physical space varies significantly across cultures and environments \u2014 and that the field has barely begun to study this outside of WEIRD populations. The critique has implications for how broadly developmental psychology can claim to describe universal human cognitive growth."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Psychology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42396696",
-      "headline": "Child development science can't claim to be universal when its researchers all come from the same corners of the world",
-      "journal": "Behavioral and Brain Sciences",
-      "pubdate": "2026 Jul 3",
-      "doi": "10.1017/S0140525X2510410X",
-      "groundbreaking": "Major mental health or behavioral implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This is a theoretical commentary \u2014 not an empirical study \u2014 arguing that genuinely global theories of child development require researchers from underrepresented regions to lead projects in their own communities, not merely serve as data collectors for Western-led teams. The authors, including researchers from Stanford, Kenya, and an international education nonprofit, contend that capacity-building for local researchers is essential to generating accurate and equitable developmental science. No original data are reported.",
-      "why_it_matters": "If the researchers designing and interpreting child development studies come overwhelmingly from wealthy Western institutions, the resulting science may systematically misrepresent how children develop across the full range of human environments.",
-      "caveats": "theoretical commentary only, no empirical data, no sample",
-      "fact_check_note": "This is a commentary/response piece, not an original empirical study. No participant data or statistical findings are reported.",
-      "relevance_score": 3,
-      "relevance_score_reason": "Theoretical commentary, no new data, methodological argument with limited direct mental health application.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Who gets to study how children develop \u2014 and why it shapes everything we think we know",
-          "hook": "A commentary by researchers from Stanford and Kenya argues that child development science will remain fundamentally incomplete until researchers from Africa, Asia, and Latin America are leading studies, not just participating in them.",
-          "pitch_angle": "The piece makes the case that 'global' developmental science is largely a fiction as long as study design, data interpretation, and publication are controlled by Western institutions \u2014 a problem that shapes what gets studied, what gets published, and what gets turned into policy. The authors argue for structural investment in research capacity outside wealthy democracies as a scientific, not merely ethical, necessity."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Psychology",
-      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -1195,33 +952,6 @@
       "status": "new"
     },
     {
-      "pmid": "42392344",
-      "headline": "Lab memory tests for rats may be giving wrong results because the equipment is sized for adults, not juveniles",
-      "journal": "Physiology & Behavior",
-      "pubdate": "2026 Jul 2",
-      "doi": "10.1016/j.physbeh.2026.115436",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers tested whether standard-sized novel object recognition arenas designed for adult rats produce reliable memory test results in younger, smaller juvenile rats. Using postnatal day 24\u201325 juvenile and 90\u201391-day-old adult rats, they found that adult-sized apparatus reliably demonstrated memory performance in adults but not in juveniles, and that scaling equipment to body size improved consistency in juveniles. Sex differences also emerged: adult females needed a larger apparatus than adult males to show reliable performance.",
-      "why_it_matters": "Methodological flaws in rodent memory research could mean that findings about early-life cognitive development and the effects of early-life adversity on the brain may be less reliable than assumed.",
-      "caveats": "animal or cell study, small sample (N<100)",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Animal methodology study; minimal direct mental health or behavioral relevance for this audience.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "A Flaw in Classic Rat Memory Tests Could Be Skewing Decades of Brain Development Research",
-          "hook": "A new study suggests that standard lab equipment for testing rat memory was never properly sized for young or female animals \u2014 potentially undermining a large body of research on early-life brain development.",
-          "pitch_angle": "Researchers found that juvenile rats show no memory preference in adult-sized arenas, but perform reliably when equipment is scaled to their body size, raising questions about the validity of prior developmental neuroscience studies. If foundational animal research on early-life cognition has a built-in equipment bias, upstream studies informing human childhood and adolescent mental health research may need re-examination."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Neurology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42388160",
       "headline": "Nearly 1 in 5 male prisoners in Paraguay show suicide risk, yet mental health care is nearly absent",
       "journal": "Journal of Mental Health",
@@ -1251,33 +981,6 @@
       ],
       "run_date": "2026-07-09",
       "category": "Psychology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42391148",
-      "headline": "Childhood stroke rates have held steady for 40 years despite better detection tools",
-      "journal": "Neuroepidemiology",
-      "pubdate": "2026 Jul 2",
-      "doi": "10.1159/000553348",
-      "groundbreaking": "Major mental health or behavioral implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used the population-based Dijon Stroke Registry in France to track first-ever arterial stroke incidence in children aged 28 days to 18 years over a 40-year period (1985\u20132025). Among 1,037,746 person-years of follow-up, 26 children experienced a first-ever stroke, yielding an overall incidence of 2.5 per 100,000 children per year. Despite advances in neuroimaging and diagnostic awareness, incidence rates showed no significant change over four decades, with national extrapolations suggesting roughly 373 pediatric strokes occur annually in France.",
-      "why_it_matters": "The finding that childhood stroke rates have not risen despite improved detection may reassure clinicians and families, while also underscoring that prevention strategies have yet to show measurable population-level impact.",
-      "caveats": "small sample (N<100), single-center, observational design, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic)",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Pediatric neurology study; minimal direct mental health or behavioral relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Childhood Stroke Is Rare \u2014 and Its Rate Hasn't Budged in 40 Years",
-          "hook": "Despite dramatically better brain imaging and diagnostic tools, the rate of stroke in children looks almost identical today to what it was in 1985.",
-          "pitch_angle": "A French registry spanning four decades found no significant change in childhood stroke incidence, suggesting neither modern diagnostics nor current prevention efforts have shifted population-level risk. For parents and pediatricians, the takeaway is that stroke in children remains rare but stubbornly persistent."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Neurology",
       "chunk": "1/2",
       "status": "new"
     },
@@ -1365,33 +1068,6 @@
       ],
       "run_date": "2026-07-09",
       "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42390621",
-      "headline": "Combining two diabetes drugs may sharply improve memory loss tied to diabetic brain disease \u2014 in rats",
-      "journal": "Metabolic Brain Disease",
-      "pubdate": "2026 Jul 2",
-      "doi": "10.1007/s11011-026-01910-z",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used a diabetic rat model (streptozotocin-nicotinamide) to test whether combining berberine and metformin produces synergistic neuroprotective effects beyond what either drug achieves alone. Using validated Chou-Talalay synergy analysis, the combination (100+200 mg/kg) restored novel object recognition memory nearly to healthy-control levels (67.1% vs. 68.4%) with a combination index of 0.65, indicating synergism. The study found neuroinflammatory suppression as the most statistically robust correlate, though direct causal involvement of the AMPK-Nrf2 axis remains unconfirmed.",
-      "why_it_matters": "With diabetes strongly linked to accelerated cognitive decline, early evidence that a widely available supplement combined with a common diabetes medication may synergistically protect the brain warrants attention \u2014 though findings are in animals only and do not yet apply to humans.",
-      "caveats": "animal or cell study, small sample (N<100), single-center, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic)",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Animal study only; cognitive decline link is relevant but no human data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Psychology Today",
-          "headline": "Could a Common Diabetes Drug Combo Protect the Brain? Early Animal Research Says Maybe",
-          "hook": "A rat study suggests that pairing berberine \u2014 a popular supplement \u2014 with metformin may do far more to protect memory in diabetes than either compound alone.",
-          "pitch_angle": "Diabetic encephalopathy causes real cognitive decline in millions of people, and this early animal research uses rigorous synergy analysis to show the combination outperforms monotherapy; the findings are hypothesis-generating, not practice-changing, but they open a door worth watching."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Neurology",
       "chunk": "2/2",
       "status": "new"
     },
@@ -1540,33 +1216,6 @@
       "run_date": "2026-07-08",
       "category": "Psychology",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42385866",
-      "headline": "Blocking a little-known brain receptor after a memory is recalled may sharpen how well that memory sticks",
-      "journal": "Physiology & Behavior",
-      "pubdate": "2026 Jul 1",
-      "doi": "10.1016/j.physbeh.2026.115434",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers tested the APJ receptor antagonist ML221 in rodents using a novel object recognition task to probe memory reconsolidation \u2014 the window after a memory is reactivated when it becomes temporarily editable. They found that ML221 administered immediately after memory reactivation at doses of 0.1 and 0.3 mg/kg enhanced memory performance, but only when given within a critical time window after reactivation and not in the absence of reactivation. No changes in locomotion or exploratory behavior were observed, suggesting the effect was specific to memory reconsolidation.",
-      "why_it_matters": "Understanding how blocking the APJ receptor affects memory reconsolidation windows could eventually have relevance for conditions involving unwanted or maladaptive memories, such as PTSD \u2014 though this research is currently limited to animals.",
-      "caveats": "animal or cell study, no active control group, single-center, WEIRD sample not applicable (animal study), limited translational basis established",
-      "fact_check_note": "The abstract describes this as 'first evidence' that APJ antagonism enhances NOR memory reconsolidation \u2014 this refers to a first-of-its-kind animal finding, not a human study. Headline and summary have been framed accordingly.",
-      "relevance_score": 3,
-      "relevance_score_reason": "Animal study only; potential PTSD relevance but highly preliminary and no human data.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Scientists Find a New Brain Target That May Influence How Memories Are Strengthened After Recall",
-          "hook": "A newly identified brain receptor pathway may help regulate the window during which a recalled memory can be strengthened \u2014 an early finding with potential long-term relevance for trauma and memory disorders.",
-          "pitch_angle": "Animal research suggests that blocking the APJ receptor immediately after a memory is recalled enhances how well that memory consolidates, and only within a narrow time window. While the work is early-stage and conducted in rodents, it adds to a growing body of science exploring how the reconsolidation process might one day be targeted in conditions like PTSD."
-        }
-      ],
-      "run_date": "2026-07-08",
-      "category": "Behavioral Sciences",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -1767,33 +1416,6 @@
       ],
       "run_date": "2026-07-08",
       "category": "Behavioral Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "41190758",
-      "headline": "Commentary questions whether current theories fully explain how humans think with and through technology",
-      "journal": "Cognitive Neuroscience",
-      "pubdate": "2026 Jul",
-      "doi": "10.1080/17588928.2025.2585995",
-      "groundbreaking": "",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This is a brief commentary piece responding to an integrated theoretical account of technological cognition \u2014 how humans incorporate tools and devices into cognitive processes. The author discusses strengths and unresolved challenges in the proposed framework. No original empirical data are presented.",
-      "why_it_matters": "Understanding how humans cognitively integrate technology is foundational to studying smartphone use, digital dependency, and human-AI interaction as they relate to mental health and attention.",
-      "caveats": "observational design, secondary analysis, small sample (N<100)",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Theoretical commentary, no empirical data, indirect mental health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Psychology Today",
-          "headline": "How do we really think with our phones? Science is still working it out.",
-          "hook": "A new commentary highlights the unresolved gaps in how researchers understand the way technology shapes \u2014 and becomes part of \u2014 human thinking.",
-          "pitch_angle": "As debates intensify over smartphones and cognitive health, foundational theories about how tools extend the mind remain contested; resolving them could sharpen how researchers study digital technology's effects on attention, memory, and mental well-being."
-        }
-      ],
-      "run_date": "2026-07-08",
-      "category": "Psychology",
       "chunk": "2/2",
       "status": "new"
     },
@@ -2050,33 +1672,6 @@
       "status": "new"
     },
     {
-      "pmid": "41518842",
-      "headline": "A smarter motion algorithm cuts motion sickness in self-driving cars by prioritizing how passengers' heads actually move",
-      "journal": "Applied Ergonomics",
-      "pubdate": "2026 Jul",
-      "doi": "10.1016/j.apergo.2026.104732",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers designed two trajectory-planning algorithms for an automated vehicle \u2014 one optimized for vehicle motion metrics alone and one that incorporated real-time occupant head-motion dynamics \u2014 and tested them in on-road conditions with 23 participants using a within-subject design. The 'head-motion-first' algorithm produced significantly lower objective motion sickness dose values and reduced self-reported nausea severity on the Misery Scale compared to the standard approach. The study is among the first real-road validations showing that factoring human body dynamics into autonomous vehicle planning can meaningfully reduce motion sickness.",
-      "why_it_matters": "Motion sickness is a significant barrier to the adoption of autonomous vehicles and affects passengers' comfort and wellbeing during travel, and this approach suggests a software-level path to reducing it without requiring changes to vehicle hardware.",
-      "caveats": "small sample (N<100), single-center, short follow-up, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic)",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Peripheral to mental health; addresses physical discomfort/nausea in a transportation engineering context.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Self-Driving Cars Make People Sick \u2014 This Algorithm Fix Could Change That",
-          "hook": "One of the biggest unresolved complaints about autonomous vehicles is motion sickness, and a new on-road study suggests the fix may lie in how the car anticipates your head movement.",
-          "pitch_angle": "By building passenger head-motion dynamics into the vehicle's route-planning software, researchers significantly reduced nausea in real-world driving \u2014 suggesting that the next wave of autonomous vehicle design may need to treat human biology, not just road geometry, as the primary input."
-        }
-      ],
-      "run_date": "2026-07-08",
-      "category": "Psychology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "41592849",
       "headline": "Nearly half of boys fall into low neurodevelopment trajectories in their first three years \u2014 far more than girls",
       "journal": "Child Neuropsychology",
@@ -2263,33 +1858,6 @@
       "status": "new"
     },
     {
-      "pmid": "42379871",
-      "headline": "Clot removal technique for brainstem strokes may affect how quickly arteries clear on the first try",
-      "journal": "Journal of Neurointerventional Surgery",
-      "pubdate": "2026 Jun 30",
-      "doi": "10.1136/jnis-2026-025360",
-      "groundbreaking": "Major mental health or behavioral implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used the Italian Registry of Endovascular Treatment in Acute Stroke (IRETAS) to compare mechanical thrombectomy techniques in patients with acute basilar artery occlusion, examining which approach achieved complete clot removal in a single pass. The study analyzed real-world registry data from multiple Italian centers. Results focused on how technique choice relates to the 'first-pass effect,' a marker associated with better stroke outcomes.",
-      "why_it_matters": "Basilar artery occlusions carry high mortality and disability rates, and understanding which clot-removal techniques work best on the first attempt could inform procedural decisions in one of stroke medicine's most urgent scenarios.",
-      "caveats": "observational design, single-country registry, no active control group",
-      "fact_check_note": "Abstract is truncated before results are reported; specific outcome data cannot be verified from the available text.",
-      "relevance_score": 3,
-      "relevance_score_reason": "Procedural neurology study; minimal direct mental health or behavioral relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "When a brainstem stroke strikes, the first pass at clot removal may be the only one that matters",
-          "hook": "For patients with blocked basilar arteries \u2014 one of the deadliest stroke subtypes \u2014 getting the clot out on the first attempt is critical, and new registry data suggest technique matters.",
-          "pitch_angle": "A large Italian stroke registry compared mechanical thrombectomy approaches in basilar artery occlusion, asking whether device choice affects single-pass clot clearance. The findings have implications for how interventionalists approach a condition where minutes and method both count."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Neurology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42380610",
       "headline": "Scientists find two previously unknown genes living in the shadow of BDNF \u2014 and they're linked to schizophrenia risk",
       "journal": "Molecular Psychiatry",
@@ -2314,33 +1882,6 @@
       "run_date": "2026-07-07",
       "category": "Psychiatry",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42378008",
-      "headline": "Most occupational therapists value sustainability but say they lack the training and support to actually practice it",
-      "journal": "OTJR: Occupation, Participation and Health",
-      "pubdate": "2026 Jun 30",
-      "doi": "10.1177/15394492261464102",
-      "groundbreaking": "Major mental health or behavioral implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers surveyed 111 Israeli occupational therapists using an online cross-sectional questionnaire to assess their knowledge, attitudes, and barriers related to sustainable practice. Social equity was the most highly rated sustainability principle (78.4%), but participants widely reported gaps in education and organizational support as key barriers. The findings suggest a disconnect between valuing sustainability and being equipped to implement it in practice.",
-      "why_it_matters": "As healthcare systems face growing pressure to operate sustainably and equitably, this study highlights a systemic gap between professional values and on-the-ground capacity that likely extends well beyond Israel.",
-      "caveats": "small sample (N<100 is not met here but N=111 is modest), observational design, self-reported outcomes, single-center, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic)",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Low mental health relevance; occupational therapy workforce survey, limited behavioral science fit.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Healthcare Workers Say They Want to Practice Sustainably \u2014 But No One Is Training Them How",
-          "hook": "A new survey finds that even clinicians who deeply value sustainability lack the knowledge and institutional support to act on it.",
-          "pitch_angle": "Israeli occupational therapists overwhelmingly prioritized social equity as a sustainability principle, yet cited education gaps and time constraints as major barriers to change. The findings point to a systemic failure to translate professional values into sustainable healthcare practice."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Psychiatry",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -2509,114 +2050,6 @@
       "run_date": "2026-07-07",
       "category": "Neurology",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42387879",
-      "headline": "Myasthenia gravis is increasingly a disease of older adults, and current treatments weren't designed for them",
-      "journal": "Muscle & Nerve",
-      "pubdate": "2026 Jul 1",
-      "doi": "10.1002/mus.70193",
-      "groundbreaking": "Major mental health or behavioral implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This review examines late-onset myasthenia gravis (LOMG), defined as symptom onset after age 50, which now represents the most prevalent subgroup of myasthenia gravis. The authors describe its clinical profile \u2014 including male predominance, frequent oculo-bulbar onset, and higher risk of life-threatening events at disease onset \u2014 alongside a generally favorable long-term prognosis. They highlight critical evidence gaps, including the uncertain benefit of thymectomy and the optimal use of immunosuppressive and emerging targeted therapies in older patients.",
-      "why_it_matters": "As late-onset myasthenia gravis becomes the most common form of the disease, the lack of age-specific treatment evidence means a growing population of older patients may be managed with protocols not designed for them.",
-      "caveats": "observational design, secondary analysis",
-      "fact_check_note": "This study has limited relevance to mental health and behavior; included for completeness.",
-      "relevance_score": 3,
-      "relevance_score_reason": "Neuromuscular disease; minimal direct mental health or behavioral relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A Muscle Disease Striking Older Adults Is on the Rise \u2014 and Medicine Isn't Ready",
-          "hook": "The most common form of myasthenia gravis now affects people over 50, but most clinical evidence comes from younger patients.",
-          "pitch_angle": "A new review finds that late-onset myasthenia gravis is now the dominant form of the disease, yet treatment protocols remain poorly validated for older adults who face distinct risks and comorbidities. The gap highlights a broader problem in medicine: evidence generated in younger populations routinely guides care for aging ones."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Neurology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42386491",
-      "headline": "Trainees miss the target muscle nearly 86% of the time without ultrasound guidance during nerve testing",
-      "journal": "Muscle & Nerve",
-      "pubdate": "2026 Jul 1",
-      "doi": "10.1002/mus.70333",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers compared palpation-guided versus ultrasound-guided electromyography (EMG) needle placement in two wrist extensor muscles (ECRL and ECRB) by seven trainees using a cadaveric specimen, totaling 28 placements. Palpation-guided accuracy was strikingly poor \u2014 no trainee correctly placed a needle in the ECRL without ultrasound \u2014 while first-attempt ultrasound guidance achieved 64.3% overall accuracy. The study suggests that ultrasound guidance may be essential for accurate EMG assessment of these muscles, particularly before reconstructive surgery in patients with tetraplegia.",
-      "why_it_matters": "For patients with tetraplegia considering surgery to restore hand function, inaccurate muscle assessment during pre-operative nerve testing could lead to poor surgical decision-making with lasting functional consequences.",
-      "caveats": "small sample (N<100), single-center, cadaveric (non-living) specimen, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic)",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Procedural/technical neurology study; minimal direct mental health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "Without Ultrasound, Trainees Miss Target Muscles in Nerve Testing Nearly Every Time",
-          "hook": "A small but striking cadaver study found that trainee physicians using touch alone to guide diagnostic nerve-testing needles hit the correct wrist muscle less than 15% of the time.",
-          "pitch_angle": "The findings suggest that standard tactile-guided EMG needle placement \u2014 still widely practiced \u2014 may be inadequate for key wrist muscles, with implications for surgical planning in patients with paralysis. The study adds to growing pressure on training programs to adopt ultrasound guidance as a default, not an optional skill."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Neurology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "41943191",
-      "headline": "Surgeon Discovers Hidden Ear Tumor Mid-Operation \u2014 and Has to Decide Whether to Implant Anyway",
-      "journal": "Otology & Neurotology",
-      "pubdate": "2026 Jul 1",
-      "doi": "10.1097/MAO.0000000000004902",
-      "groundbreaking": "None identified",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This appears to be a single case report describing the intraoperative discovery of an intracanalicular cochlear schwannoma during cochlear implantation surgery, and the decision-making challenges it posed. No abstract text beyond the title and publication details was available for full verification. As a single case report, it describes a rare surgical scenario rather than generating generalizable findings.",
-      "why_it_matters": "Unexpected intraoperative findings during cochlear implantation are rare but consequential, and case reports like this inform surgical decision-making protocols for hearing restoration procedures.",
-      "caveats": "small sample (N<100), single-center, observational design",
-      "fact_check_note": "No abstract text was available beyond the title and author information; summary is based solely on title and publication metadata. Content claims cannot be fully verified.",
-      "relevance_score": 2,
-      "relevance_score_reason": "Single case report with no mental health or behavioral relevance; no abstract available.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A Rare Tumor Found Mid-Surgery Forces Doctors to Make a Split-Second Decision About a Patient's Hearing",
-          "hook": "When surgeons discovered an unexpected tumor inside a patient's cochlear canal during an implant operation, they faced an immediate and high-stakes choice about whether to proceed.",
-          "pitch_angle": "This single case report highlights the rare but real scenario where pre-operative imaging misses a small tumor, leaving surgical teams to improvise decisions that could determine a patient's future hearing and quality of life."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Neurology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "41654327",
-      "headline": "How deep a brain artery embolization goes may predict how fast a chronic blood clot resolves",
-      "journal": "AJNR. American Journal of Neuroradiology",
-      "pubdate": "2026 Jul 1",
-      "doi": "10.3174/ajnr.A9198",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers at Mount Sinai developed a 4-point angiographic grading system to measure how deeply liquid embolic material penetrates during middle meningeal artery embolization for chronic subdural hematoma. In 73 consecutive patients treated between 2019 and 2023, each step up in penetration grade was associated with 1.61 months faster hematoma resolution and nearly a fivefold higher likelihood of resolution within 3 months.",
-      "why_it_matters": "A standardized intraprocedural grading tool could help neurosurgeons optimize embolization technique in real time, potentially reducing the burden of chronic subdural hematoma recurrence in an aging population.",
-      "caveats": "small sample (N<100), single-center, observational design, short follow-up, retrospective analysis",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Neurosurgical procedure study; no direct mental health or behavioral relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "A new grading scale for a common brain procedure could help doctors predict recovery in real time",
-          "hook": "For older adults prone to chronic blood pooling under the skull, how thoroughly surgeons block a key artery may determine how quickly they recover.",
-          "pitch_angle": "Mount Sinai researchers found that deeper liquid embolic penetration during middle meningeal artery embolization was associated with significantly faster resolution of chronic subdural hematoma. The novel grading system offers a potential intraprocedural benchmark, though validation in larger prospective studies is needed."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Neurology",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -2866,60 +2299,6 @@
       "status": "new"
     },
     {
-      "pmid": "42330131",
-      "headline": "A rare mitochondrial disease mimics stroke in ways that can confuse even advanced brain imaging",
-      "journal": "Stroke",
-      "pubdate": "2026 Jul",
-      "doi": "10.1161/STROKEAHA.126.055745",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This is a brief case report (letter format) describing multimodal imaging findings in a patient with MELAS (mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes), a rare mitochondrial disorder. The report documents a paradoxical co-occurrence of reversible cerebral vasoconstriction and stroke-like lesions, documented through a sequence of imaging modalities. No sample size, controlled comparison, or primary data analysis is provided.",
-      "why_it_matters": "Understanding how MELAS can produce stroke-like brain lesions through vascular mechanisms distinct from typical stroke may prevent misdiagnosis and guide more appropriate management in rare-disease neurology.",
-      "caveats": "small sample (N<100), observational design, single-center",
-      "fact_check_note": "This is a letter/case report, not a primary research study; no abstract text was provided beyond title and metadata. Summary reflects available information only.",
-      "relevance_score": 2,
-      "relevance_score_reason": "Case report, rare neurological disease, no mental health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "A Rare Genetic Disease Can Trigger Stroke-Like Brain Damage Through a Mechanism Doctors Are Still Unraveling",
-          "hook": "A new case report captures a puzzling overlap of two brain phenomena \u2014 reversible blood vessel spasm and stroke-like tissue damage \u2014 in a patient with a rare mitochondrial disorder.",
-          "pitch_angle": "The imaging sequence documented in this MELAS case highlights how mitochondrial disease can masquerade as conventional stroke while involving entirely different vascular mechanisms, raising diagnostic and treatment challenges for clinicians. For the rare-disease neurology community, the case adds nuance to debates about what actually drives brain injury in MELAS."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Neurology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42330128",
-      "headline": "A rare clotting disorder turned a routine stroke treatment into a dangerous dilemma for neurologists",
-      "journal": "Stroke",
-      "pubdate": "2026 Jul",
-      "doi": "10.1161/STROKEAHA.126.055219",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This is a case report describing the management of cerebral venous sinus thrombosis (CVST) complicated by hemorrhage in a patient with congenital dysfibrinogenemia, a rare inherited disorder affecting blood clotting. The report is from a single neurology center in China. No sample size beyond a single case is reported; the piece highlights the contradictory clinical challenge of anticoagulating a patient who simultaneously has clotting and bleeding risk.",
-      "why_it_matters": "Rare clotting disorders can make standard stroke protocols potentially harmful, underscoring the need for individualized neurological care in complex cases.",
-      "caveats": "small sample (N<100), single-center, observational design",
-      "fact_check_note": "This is a single case report; no group-level findings or statistics are reported.",
-      "relevance_score": 2,
-      "relevance_score_reason": "Rare neurological case report; no mental health or behavioral relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "A Patient With a Rare Blood Disorder Showed Why Stroke Treatment Can't Be One-Size-Fits-All",
-          "hook": "When a patient with a rare clotting disorder developed both a brain clot and a brain bleed simultaneously, neurologists faced a treatment paradox with no clear protocol.",
-          "pitch_angle": "A case report from China illustrates how congenital dysfibrinogenemia can turn standard cerebral venous thrombosis management into a clinical minefield, highlighting gaps in evidence for rare disease intersections. The case underscores the limits of guideline-based medicine when patients fall outside the studied population."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Neurology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42155545",
       "headline": "A single seizure leaves a detectable brain-network fingerprint \u2014 and it looks different in people who go on to develop epilepsy",
       "journal": "Seizure",
@@ -3028,33 +2407,6 @@
       "status": "new"
     },
     {
-      "pmid": "41895391",
-      "headline": "A synthetic molecule mimicking a natural nerve-growth protein helps paralyzed mice walk better after spinal cord injury",
-      "journal": "Experimental Neurology",
-      "pubdate": "2026 Jul",
-      "doi": "10.1016/j.expneurol.2026.115746",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers developed a synthetic small-molecule peptidomimetic (5c(i)/NC101) designed to mimic the activity of Neurotrophin-3, a protein that supports nerve survival and regeneration, and tested it in mice with severe spinal cord injuries. Mice treated with the compound after injury showed improved locomotor function and better long-term memory compared to untreated animals, with no significant adverse effects observed. Analysis of spinal cord tissue suggested the compound promoted nerve regeneration, synapse formation, myelination, and reduced inflammation.",
-      "why_it_matters": "Improved mobility and cognitive function after spinal cord injury could dramatically affect mental health outcomes for the roughly 500,000 people paralyzed by such injuries annually worldwide, though human studies are needed.",
-      "caveats": "animal or cell study, industry funding [NeuroCreis, Inc. \u2014 co-founders are study authors with patent interests in the compound]",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Animal study with significant industry conflict; no human data or behavioral mental health outcome.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "A synthetic nerve-growth mimic helped paralyzed mice walk again \u2014 but the path to patients is long",
-          "hook": "A lab-designed molecule that mimics a natural nerve-growth protein improved mobility and memory in mice with severe spinal cord injuries \u2014 and the researchers behind it have a company ready to develop it.",
-          "pitch_angle": "With no FDA-approved drugs that reliably restore movement after spinal cord injury, early animal results for this compound are generating interest, but heavy conflicts of interest among the inventors warrant caution before reading too much into the findings."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Neurology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42024161",
       "headline": "Up to 9 in 10 people with Prader-Willi syndrome have a psychiatric disorder \u2014 and the psychosis looks nothing like schizophrenia",
       "journal": "Der Nervenarzt",
@@ -3101,33 +2453,6 @@
           "headline": "Visiting New Places Won't Sharpen Your Memory Unless You Actually Explore Them",
           "hook": "A new EEG study found that simply being in a novel environment does not boost memory \u2014 but actively wandering and exploring one does.",
           "pitch_angle": "The research challenges the popular belief that novelty itself is the memory booster, showing instead that the benefit hinges on individual exploration behavior, a nuance that matters for anyone hoping to use new experiences as a cognitive tool."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Neurology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "40840540",
-      "headline": "Dead rabbits may offer a cheaper, ethical alternative to live animals for training microsurgeons",
-      "journal": "Journal of Reconstructive Microsurgery",
-      "pubdate": "2026 Jul",
-      "doi": "10.1055/a-2687-0380",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers dissected 10 ex vivo rabbit specimens to characterize the caliber and length of major vascular pedicles, comparing them to vessels used in human reconstructive surgery. The study proposed a progressive training curriculum using the cadaveric rabbit model. Findings suggest the ex vivo rabbit offers a wide range of vessel sizes (0.4\u20132.8 mm) that closely mirror human reconstructive targets, at lower cost and without the ethical concerns of live-animal models.",
-      "why_it_matters": "Accessible, low-cost surgical training models could help more reconstructive surgeons worldwide develop the precision microsurgical skills needed to restore function after cancer, trauma, or limb loss.",
-      "caveats": "animal or cell study, small sample (N<100), single-center, observational design",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Surgical training model study; no mental health or behavioral relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Could Cadaver Rabbits Replace Live Animals in Surgical Training?",
-          "hook": "A new study suggests dead rabbits may offer surgeons a surprisingly realistic \u2014 and more ethical \u2014 way to practice the world's most delicate operations.",
-          "pitch_angle": "Researchers found that vessels in ex vivo rabbits closely match the size of human blood vessels used in reconstructive microsurgery, suggesting cadaveric animals could replace live ones in training. This matters for patients who depend on highly skilled microsurgeons after cancer, trauma, or limb loss."
         }
       ],
       "run_date": "2026-07-07",
@@ -3223,33 +2548,6 @@
       "status": "new"
     },
     {
-      "pmid": "40840541",
-      "headline": "Scientists Built a Better Rat Model of Lymphedema \u2014 and It May Help Develop Future Treatments",
-      "journal": "Journal of Reconstructive Microsurgery",
-      "pubdate": "2026 Jul",
-      "doi": "10.1055/a-2687-0506",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers developed a new rat tail lymphedema model combining skin resection, deep lymphatic vessel disruption, and gluteal lymph node excision to better replicate the chronic, progressive nature of secondary lymphedema in humans. Using ICG lymphography, histology, and RNA sequencing, they confirmed sustained swelling, fibrosis, and lymphatic disruption in the combined model. The study found that lymph node removal drove the most severe and persistent changes, and RNA sequencing revealed key inflammatory and fibrotic pathways involved.",
-      "why_it_matters": "Lymphedema causes significant physical and psychological burden for cancer survivors, and a more accurate preclinical model could accelerate the development of effective therapies.",
-      "caveats": "animal or cell study, single-center",
-      "fact_check_note": "The 'groundbreaking' field is technically inapplicable (animal study); labeled conservatively. This study has no direct mental health relevance.",
-      "relevance_score": 2,
-      "relevance_score_reason": "Animal model study with no direct mental health or behavioral relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A Better Lab Model of Lymphedema Could Speed Up the Search for Treatments",
-          "hook": "A new rat model more accurately mimics the chronic swelling and scarring of human lymphedema, potentially giving researchers a better tool to test therapies.",
-          "pitch_angle": "The combined model \u2014 which removes lymph nodes and disrupts multiple lymphatic structures \u2014 produced lasting swelling and fibrosis that prior models couldn't replicate, addressing a key bottleneck in lymphedema research that affects millions of cancer survivors worldwide."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Neurology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42167046",
       "headline": "Most pediatric neurologists believe in compassionate care \u2014 but fewer than half consistently practice it",
       "journal": "Pediatric Neurology",
@@ -3306,33 +2604,6 @@
       ],
       "run_date": "2026-07-07",
       "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "41691828",
-      "headline": "A computer science paper on geometric machine learning has no relevance to mental health or behavioral science",
-      "journal": "Neural Networks",
-      "pubdate": "2026 Jul",
-      "doi": "10.1016/j.neunet.2026.108658",
-      "groundbreaking": "None",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers proposed a hierarchical ranking framework using hyperbolic geometry to improve deep metric learning for image classification tasks, outperforming existing methods on two benchmark datasets (CUB-200-2011 and Cars-196). The study involves no human participants, no behavioral or psychological constructs, and no mental health relevance. Despite appearing in a journal titled 'Neural Networks,' this is a computer science/machine learning study with no neuroscience or mental health content.",
-      "why_it_matters": "This study has no direct relevance to mental health, psychiatry, psychology, or behavioral neuroscience.",
-      "caveats": "animal or cell study \u2014 not applicable; this is a computer science study with no mental health relevance",
-      "fact_check_note": "This study is entirely outside the scope of mental health, psychiatry, or behavioral science coverage. The journal 'Neural Networks' refers to artificial neural networks, not biological ones.",
-      "relevance_score": 1,
-      "relevance_score_reason": "Zero mental health or behavioral relevance; computer science/ML study only.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Not pitchable \u2014 outside scope of mental health and behavioral science coverage",
-          "hook": "This study addresses machine learning architecture and has no mental health, psychological, or behavioral science angle.",
-          "pitch_angle": "This study is not suitable for any of the target publications. It should be excluded from this digest."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Neurology",
       "chunk": "2/2",
       "status": "new"
     },
@@ -3457,33 +2728,6 @@
       "status": "new"
     },
     {
-      "pmid": "41342650",
-      "headline": "Experts say Duchenne muscular dystrophy drug trials keep failing for fixable design reasons",
-      "journal": "Journal of Neuromuscular Diseases",
-      "pubdate": "2026 Jul",
-      "doi": "10.1177/22143602251399511",
-      "groundbreaking": "Major mental health or behavioral implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "A multistakeholder round table convened by the World Duchenne Organization in May 2025 reviewed why clinical trials for Duchenne muscular dystrophy (DMD) therapies have repeatedly struggled to demonstrate benefit. Discussions involving researchers, clinicians, patient advocates, and industry identified poor trial design, inconsistent glucocorticoid dosing as an uncontrolled variable, premature gene therapy trials, and insufficient real-world data infrastructure as key obstacles.",
-      "why_it_matters": "DMD is a fatal childhood muscle-wasting disease with no cure, and the persistent failure to demonstrate clinical benefit in trials prolongs suffering for patients and families while delaying regulatory approval of potentially useful treatments.",
-      "caveats": "observational design, industry funding [multiple \u2014 Sarepta, BioMarin, PTC Therapeutics, Entrada, Dyne, Lilly, Eisai, Takeda, AstraZeneca, Galapagos, Italfarmaco, Regenxbio, Pfizer, Alnylam]",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Neuromuscular disease policy discussion; minimal direct mental health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "DMD drug trials keep failing \u2014 and experts say the problem is how the trials are designed, not just the drugs",
-          "hook": "A global roundtable on Duchenne muscular dystrophy found that inconsistent steroid dosing and flawed trial design \u2014 not just ineffective drugs \u2014 may be masking real therapeutic benefit.",
-          "pitch_angle": "Multistakeholder experts concluded that DMD trials must account for glucocorticoid variability as a stratification factor and that gene therapy trials moved forward before proper design standards were established. The recommendations, if adopted, could reshape how one of medicine's most intractable childhood diseases is studied."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Neurology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42105684",
       "headline": "A smartphone app catches childhood absence seizures as accurately as hospital EEG labs",
       "journal": "Pediatric Neurology",
@@ -3571,33 +2815,6 @@
       "status": "new"
     },
     {
-      "pmid": "42190895",
-      "headline": "Brain immune receptors that respond to bacterial signals may be a new target for treating neurological diseases",
-      "journal": "Brain Research Bulletin",
-      "pubdate": "2026 Jul",
-      "doi": "10.1016/j.brainresbull.2026.111964",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This review paper synthesizes emerging research on formyl peptide receptors (FPRs) \u2014 immune-signaling proteins expressed on microglia, astrocytes, and neurons \u2014 and their role in driving and resolving neuroinflammation across CNS disorders. No original data were collected; the authors reviewed existing preclinical and mechanistic studies to propose FPRs as therapeutic targets. The paper argues that aberrant FPR activation or silencing is linked to the progression of neuroinflammation-related diseases and outlines potential drug strategies.",
-      "why_it_matters": "Neuroinflammation is increasingly implicated in depression, PTSD, and other psychiatric conditions, and identifying novel molecular targets in brain immune signaling could eventually broaden the toolkit for treatment-resistant cases.",
-      "caveats": "animal or cell study, observational design",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Review of preclinical data; no human subjects; limited direct mental health applicability.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "The Brain's Own Bacterial Sensors May Hold Clues to Treating Inflammation-Linked Psychiatric Disorders",
-          "hook": "Receptors originally known for detecting bacterial invaders are now emerging as key regulators of brain inflammation \u2014 and potentially, of conditions like depression and neurodegeneration.",
-          "pitch_angle": "A new review argues that formyl peptide receptors expressed in brain immune cells represent an underexplored drug target, with implications for a range of CNS disorders where neuroinflammation plays a central role \u2014 though all current evidence comes from animal and cell studies."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Neurology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42394631",
       "headline": "Blood inflammation markers may help distinguish two easily confused teen mood disorders",
       "journal": "Developmental Neurobiology",
@@ -3623,87 +2840,6 @@
           "headline": "Inflammation Biomarkers Linked to Irritability in Teen Mood Disorders \u2014 But Can They Distinguish DMDD from Bipolar?",
           "hook": "A small but provocative study finds systemic inflammation indices are elevated in both DMDD and bipolar adolescents compared to healthy peers, and track with how irritable those teens are.",
           "pitch_angle": "The findings add to a growing body of evidence implicating immune dysregulation in pediatric mood disorders, while also highlighting the diagnostic challenge: markers were elevated in both patient groups, leaving the key clinical question \u2014 how to tell DMDD from bipolar \u2014 still unanswered. Larger, multi-site studies will be needed before any clinical utility can be established."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Neurology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "40849231",
-      "headline": "Rare genetic variants in a fat-metabolism gene trigger ALS in children as young as six",
-      "journal": "Journal of Neuromuscular Diseases",
-      "pubdate": "2026 Jul",
-      "doi": "10.1177/22143602251370586",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers characterized two de-novo SPTLC2 gene variants \u2014 one novel, one previously reported \u2014 in two Chinese children (ages 6 and 7) with childhood-onset ALS, using whole-exome sequencing, sphingolipid profiling, and functional cell-line studies. Both children showed elevated and distinct sphingolipid profiles compared to controls, and the novel variant was found to reduce the normal inhibitory regulation of the SPT enzyme, leading to excess sphingolipid production. The findings suggest that unregulated sphingolipid metabolism driven by SPTLC2 gain-of-function mutations is a key mechanism in juvenile ALS.",
-      "why_it_matters": "Understanding the genetic and metabolic basis of childhood-onset ALS may open avenues for targeted therapies aimed at correcting sphingolipid dysregulation in this rare but devastating early-life disease.",
-      "caveats": "small sample (N<100), single-center, observational design",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Pediatric neurodegeneration; minimal mental health relevance; N=2 case series.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / STAT News",
-          "headline": "A Six-Year-Old With ALS and a Clue to What Goes Wrong in the Body's Fat Chemistry",
-          "hook": "Two children, ages six and seven, developed ALS \u2014 and the culprit appears to be a genetic glitch that lets a fat-producing enzyme run completely out of control.",
-          "pitch_angle": "New case reports identify a novel SPTLC2 mutation causing childhood-onset ALS by disabling a key brake on sphingolipid production, producing toxic fat buildup in motor neurons. While the finding is based on only two patients, it points toward sphingolipid metabolism as a potential therapeutic target in one of medicine's most heartbreaking diagnoses."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Neurology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "41949029",
-      "headline": "Targeting five knee nerves instead of three may relieve more osteoarthritis pain \u2014 but the evidence is preliminary",
-      "journal": "Pain Management",
-      "pubdate": "2026 Jul",
-      "doi": "10.1080/17581869.2026.2656279",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This prospective pilot study tested a novel ultrasound-guided radiofrequency ablation protocol targeting five genicular nerves (versus the standard three) in 19 patients with knee osteoarthritis, assessing pain, function, and quality of life at one and three months. Significant improvements were found in pain scores, the WOMAC osteoarthritis index, and quality-of-life measures, with 63.2% of patients classified as responders. No adverse events or motor deficits occurred, though the absence of a control group means improvements cannot be definitively attributed to the procedure.",
-      "why_it_matters": "Chronic knee pain from osteoarthritis is one of the most common causes of disability in adults, and a safe, more comprehensive nerve ablation approach could benefit patients who fail standard treatments \u2014 though randomized trials are needed first.",
-      "caveats": "small sample (N<100), observational design, no active control group, short follow-up, single-center",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Chronic pain procedure study; no mental health relevance; very small pilot with no control group.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / HuffPost Health",
-          "headline": "A New Nerve-Blocking Procedure Eased Knee Pain in Two Thirds of Patients \u2014 But It's Not Ready for Prime Time",
-          "hook": "Targeting five nerves instead of the usual three during a radiofrequency knee procedure helped most patients walk better and hurt less \u2014 with zero side effects in this small pilot.",
-          "pitch_angle": "The study offers early signal that a more comprehensive nerve ablation approach may outperform the standard protocol for knee osteoarthritis, but without a placebo group, the role of the procedure itself versus expectation effects remains unknown. Experts say randomized controlled trials comparing the two protocols are the essential next step."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Neurology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "41186924",
-      "headline": "A camera tool designed to help paralyzed veterans check their own skin works \u2014 but only if motivation and caregiver support are there",
-      "journal": "The Journal of Spinal Cord Medicine",
-      "pubdate": "2026 Jul",
-      "doi": "10.1080/10790268.2025.2576349",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a four-week pilot feasibility study of the Habit Camera \u2014 a skin inspection device designed for veterans with spinal cord injury who cannot perform standard self-inspection \u2014 with five veteran participants using semi-structured interviews and field notes analyzed via rapid qualitative assessment. Three key factors influenced whether the device was actually used: its design features, the learning curve for operation, and users' technical proficiency. Motivation and caregiver support emerged as potential overarching influences on all three factors.",
-      "why_it_matters": "Pressure injuries are a leading cause of hospitalization and reduced quality of life in people with spinal cord injury, and understanding what drives real-world adoption of assistive inspection tools could inform better device design and support strategies.",
-      "caveats": "small sample (N<100), single-center, self-reported outcomes, observational design",
-      "fact_check_note": "Two listed authors (Goldish and Hansen) hold patents on the Habit Camera technology and receive royalties; this potential conflict of interest should be noted despite their non-involvement in data collection or analysis.",
-      "relevance_score": 2,
-      "relevance_score_reason": "Rehabilitation device feasibility; no mental health relevance; N=5 qualitative pilot.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A Camera Built for Paralyzed Veterans to Check Their Own Skin Faces a Familiar Hurdle: Getting People to Actually Use It",
-          "hook": "A device designed to help veterans with spinal cord injuries inspect their skin for dangerous pressure wounds works on paper \u2014 but a tiny pilot study reveals that motivation and caregiver support may matter more than the technology itself.",
-          "pitch_angle": "The Habit Camera aims to replace unwieldy long-handled mirrors for veterans with limited mobility, letting them photograph and share skin images with clinicians \u2014 but with only five participants, the study is more a roadmap of adoption barriers than a proof of effectiveness. The finding that caregiver support may underpin all other factors echoes a broader truth in assistive technology: the human context around a device often determines whether it gets used at all."
         }
       ],
       "run_date": "2026-07-07",
@@ -4480,107 +3616,6 @@
       "status": "new"
     },
     {
-      "pmid": "42364607",
-      "headline": "Researchers tested a hospital observation tool at a coffee shop \u2014 and it worked",
-      "journal": "Applied Ergonomics",
-      "pubdate": "2026 Jun 27",
-      "doi": "10.1016/j.apergo.2026.104844",
-      "groundbreaking": "None",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "A multidisciplinary team developed and iteratively refined a digital observational data collection tool (SSPOT) designed for use in clinical settings, using a human factors framework called SEIPS 2.0. Development took 99 hours over nine weeks, including piloting in a coffee shop as a low-stakes sociotechnical environment before moving to adult and pediatric emergency departments. The final tool was subsequently used in three observational studies totaling nearly 400 hours of data collection.",
-      "why_it_matters": "Better clinical observation tools could improve our understanding of how healthcare environments contribute to patient safety and care quality, with downstream implications for mental health settings as well as general medicine.",
-      "caveats": "small sample (N<100), single-center, observational design",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Healthcare systems methodology study; minimal direct mental health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Hospitals Need Better Ways to Watch Themselves. This Team Built One at a Coffee Shop First.",
-          "hook": "A team of human factors researchers designed a clinical observation tool by first stress-testing it in a coffee shop \u2014 a surprisingly effective proxy for the chaos of an emergency department.",
-          "pitch_angle": "The study documents an underreported challenge in healthcare research: building reliable tools to observe what actually happens in clinical settings. Their creative, iterative approach offers a practical model for other teams trying to understand \u2014 and improve \u2014 hospital workflows."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Psychology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42340304",
-      "headline": "Not all blood pressure drugs boost spinal cord blood flow equally \u2014 and one common type may actually limit it",
-      "journal": "Neurosurgery",
-      "pubdate": "2026 Jun 26",
-      "doi": "10.1227/neu.0000000000004112",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Using a novel Doppler ultrasound platform, researchers at Johns Hopkins measured real-time blood flow in the spinal cord arteries of eight pigs during controlled blood pressure changes and infusions of four different vasopressor drugs. While all four drugs raised blood pressure, dobutamine (a beta-agonist) produced significantly greater increases in spinal cord blood flow than the alpha-agonist and mixed-agent drugs. The results suggest that raising blood pressure after spinal cord injury does not uniformly translate into better spinal cord perfusion, and drug choice may matter.",
-      "why_it_matters": "Current spinal cord injury treatment protocols prioritize raising blood pressure to protect the cord, but this study suggests that the specific drug used could make a meaningful difference in how much blood actually reaches the injured tissue.",
-      "caveats": "animal or cell study, small sample (N<100)",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Animal study only; no direct mental health relevance despite neuroscience framing.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "For Spinal Cord Injuries, Which Blood Pressure Drug You Use May Matter as Much as Whether You Use One",
-          "hook": "A first-of-its-kind experiment measuring spinal cord blood flow in real time found that raising blood pressure with the wrong drug class may do far less to protect the injured cord than previously assumed.",
-          "pitch_angle": "Johns Hopkins researchers showed in pigs that dobutamine outperformed standard vasopressors at actually perfusing spinal cord tissue \u2014 even when all drugs raised blood pressure equally \u2014 a finding that could reshape vasopressor selection in acute spinal cord injury care if replicated in humans."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Neurology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42340322",
-      "headline": "A three-dose adaptive radiation approach shows promise for brain tumors that resisted prior treatment",
-      "journal": "Neurosurgery",
-      "pubdate": "2026 Jun 26",
-      "doi": "10.1227/neu.0000000000004142",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers at Sunnybrook Odette Cancer Centre in Toronto treated 50 patients (89 brain metastases) with a staged, adaptive frameless stereotactic radiosurgery regimen of three fractions delivered every two weeks as salvage therapy for lesions that had failed prior radiosurgery. The study found radiation necrosis rates of 12.4% at 12 months and local failure rates of 28% at one year, with 63\u201375% of lesions showing tumor volume reduction between fractions. The regimen was described as effective and well-tolerated, with a favorable safety profile compared to prior reirradiation approaches.",
-      "why_it_matters": "For patients with brain metastases who have exhausted standard radiosurgery options, a staged adaptive approach may offer a viable salvage strategy with manageable side effects.",
-      "caveats": "small sample (N<100), observational design, single-center, short follow-up",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Oncology/neurosurgery procedure; no mental health or behavioral relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "When brain tumor radiation fails, a pulsed three-dose approach may offer a second chance",
-          "hook": "A Toronto cancer center reports early success with a staged reirradiation strategy for brain metastases that stopped responding to standard radiosurgery.",
-          "pitch_angle": "The first reported series of a three-fraction adaptive radiosurgery approach found that tumors shrank between doses in the majority of patients, with radiation injury rates lower than historical benchmarks for reirradiation. The findings suggest a potential new option for a patient population with very limited alternatives."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Neurology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42359936",
-      "headline": "A rare genetic fusion drives a pediatric brain tumor \u2014 and may point toward targeted treatment",
-      "journal": "Journal of Neuropathology and Experimental Neurology",
-      "pubdate": "2026 Jun 26",
-      "doi": "10.1093/jnen/nlag065",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers in Zurich report the identification of a novel YWHAE-NTRK3 gene fusion in a pediatric glioma case, representing a previously undescribed molecular alteration in pediatric brain tumors. This appears to be a single case report with no defined study population. The finding may have implications for targeted oncology treatment given that NTRK fusions are actionable with approved therapies.",
-      "why_it_matters": "Identifying novel genetic fusions in pediatric brain tumors may expand eligibility for targeted therapies in a patient population with limited treatment options.",
-      "caveats": "single case report, small sample (N<100), single-center, no mental health relevance",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Pediatric neurology interest but no mental health or behavioral relevance.",
-      "pitch_angles": [],
-      "run_date": "2026-06-29",
-      "category": "Neurology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42362108",
       "headline": "AI model predicts whether a single pass of a clot-removal device will clear a stroke patient's blocked artery",
       "journal": "Journal of Neuroradiology",
@@ -4600,33 +3635,6 @@
           "headline": "An AI Tool May Help Stroke Surgeons Decide in Real Time Whether One Pass Is Enough",
           "hook": "A machine learning model trained on 204 stroke patients could tell surgeons \u2014 before they finish \u2014 whether their first attempt at removing a clot is likely to succeed.",
           "pitch_angle": "The explainable AI framework identified blood pressure and collateral circulation as the strongest predictors of single-pass success in clot-removal surgery, offering a roadmap for smarter intra-procedural decisions. Though still preliminary and unvalidated externally, the approach signals where AI-assisted stroke care may be heading."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Neurology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42360631",
-      "headline": "The U.S. is training far fewer brain critical care specialists than it was just three years ago",
-      "journal": "Neurocritical Care",
-      "pubdate": "2026 Jun 26",
-      "doi": "10.1007/s12028-026-02574-4",
-      "groundbreaking": "Major mental health or behavioral implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers analyzed publicly available annual reports from UCNS-accredited neurocritical care fellowship programs from 2008 to 2024, comparing trends against vascular and endovascular neurology programs. The number of accredited neurocritical care fellowship programs dropped from 76 in 2021 to 66 in 2024, with a 17% reduction in graduates and an 89% drop in UCNS certifications. Contributing factors include a contested transition to ACGME accreditation, reduced applicant interest, and inconsistent training standards.",
-      "why_it_matters": "A shrinking pipeline of neurocritical care specialists could affect access to expert care for patients with strokes, brain injuries, and other acute neurological emergencies.",
-      "caveats": "observational design, secondary analysis",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Medical workforce policy topic; minimal direct mental health or behavioral relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "A quiet workforce crisis is draining the pipeline of specialists who treat the most devastating brain emergencies",
-          "hook": "An 89% drop in neurocritical care certifications in just a few years signals a looming shortage of specialists who manage strokes and traumatic brain injuries.",
-          "pitch_angle": "New data show the U.S. is certifying far fewer neurocritical care physicians than it was just three years ago, driven by accreditation upheaval and wavering trainee interest. The trend raises questions about whether hospitals will have enough specialists to handle the growing burden of acute neurological illness."
         }
       ],
       "run_date": "2026-06-29",
@@ -4689,33 +3697,6 @@
       "status": "new"
     },
     {
-      "pmid": "42361386",
-      "headline": "A new surgical staging system predicts survival better than the standard for recurrent nasopharyngeal cancer",
-      "journal": "Journal of Neurosurgery",
-      "pubdate": "2026 Jun 26",
-      "doi": "10.3171/2026.1.JNS251258",
-      "groundbreaking": "Overturns prior research",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers at Fudan University conducted a retrospective analysis of 211 patients with recurrent nasopharyngeal carcinoma (rNPC) undergoing endoscopic nasopharyngectomy, developing a new surgical T (sT) staging system based on three anatomical barriers relevant to resectability. The sT system outperformed the standard AJCC staging in discriminating survival outcomes (C-index 0.624 vs. 0.546), with clearer separation of 5-year overall survival rates across four stages. External, multi-institutional validation with longer follow-up is still needed.",
-      "why_it_matters": "A more accurate staging system could improve surgical planning and risk communication for patients facing one of the most challenging cancer recurrences to treat.",
-      "caveats": "single-center, observational design, retrospective analysis, short follow-up",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Oncology/surgical staging study; no mental health or behavioral relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "Surgeons Propose a Better Way to Stage Recurrent Nasopharyngeal Cancer \u2014 and the Survival Data Back Them Up",
-          "hook": "The standard staging system for one of the hardest-to-treat head and neck cancers may be leaving surgeons with an incomplete picture before they operate.",
-          "pitch_angle": "A new anatomically guided staging system developed from 211 surgeries shows meaningfully better discrimination of who will survive recurrent nasopharyngeal carcinoma than the existing AJCC standard. If validated externally, it could reshape how surgeons assess and communicate risk before endoscopic resection."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Neurology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42362925",
       "headline": "Speaking multiple languages may not protect the aging brain as much as scientists thought",
       "journal": "Memory & Cognition",
@@ -4746,60 +3727,6 @@
       "run_date": "2026-06-29",
       "category": "Psychology",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42342598",
-      "headline": "Smell, not sight, may have been the original spark of conscious experience in animals",
-      "journal": "Behavioral and Brain Sciences",
-      "pubdate": "2026 Jun 25",
-      "doi": "10.1017/S0140525X25102860",
-      "groundbreaking": "Counterintuitive finding / Overturns prior research",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "In a theoretical commentary, philosopher Jonathan Birch proposes an 'olfaction-first' account of the evolution of consciousness, arguing that the integrative neural mechanisms underlying conscious experience likely first evolved to model the causes of olfactory stimuli \u2014 rather than visual ones, as is more commonly assumed. The argument draws on the distinctive temporal integration properties of olfactory processing (approximately 400ms windows) that align with broader theories linking consciousness to holistic neural integration. This is a theoretical paper, not an empirical study, and presents no new experimental data.",
-      "why_it_matters": "Rethinking which sensory system consciousness evolved around could reshape scientific and philosophical frameworks for understanding animal sentience and the basis of subjective experience.",
-      "caveats": "animal or cell study, no empirical data \u2014 theoretical/philosophical commentary only, single author perspective",
-      "fact_check_note": "This is a theoretical commentary, not an empirical study. There are no human or animal participants and no experimental findings. The summary and framing reflect this accurately.",
-      "relevance_score": 3,
-      "relevance_score_reason": "Theoretically interesting but no empirical data and minimal direct mental health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic",
-          "headline": "What If Consciousness Didn't Begin With Sight \u2014 But With Smell?",
-          "hook": "A philosopher argues that the ancient ability to track the source of an odor, not to see the world, may have been the evolutionary cradle of conscious experience.",
-          "pitch_angle": "The provocative 'olfaction-first' theory inverts the dominant vision-centric story of how minds came to be, suggesting that the most primal form of inner experience may have roots in something as visceral as smell. For readers of consciousness science and philosophy of mind, it opens a genuinely fresh window onto what it means to have a subjective experience at all."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Psychology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "41444113",
-      "headline": "A new needle technique makes dangerous neck spine biopsies safer and more accessible",
-      "journal": "AJNR. American Journal of Neuroradiology",
-      "pubdate": "2026 Jun 25",
-      "doi": "10.3174/ajnr.A9150",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Radiologists at the University of British Columbia described a percutaneous port-creation technique for cervical spine biopsy across 8 cases, using small-gauge needle access followed by a tract sheath to allow safer passage of larger biopsy devices. The approach targets the anterior-lateral approach, which typically requires complex surgical dissection due to critical neck structures. The technique allowed multiple biopsy passes while protecting adjacent nerves, vessels, and airways.",
-      "why_it_matters": "Safer access to cervical spine tissue could streamline diagnosis of spinal tumors and infections without requiring open surgery.",
-      "caveats": "small sample (N<100), single-center, observational design, no active control group",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Procedural radiology study; no mental health or behavioral relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A New Minimally Invasive Technique Could Make Neck Spine Biopsies Far Less Risky",
-          "hook": "Biopsying the cervical spine has long meant navigating a minefield of arteries, nerves, and airways \u2014 a new port-creation method may offer a safer path.",
-          "pitch_angle": "Canadian radiologists report a sheath-guided technique that allows multiple biopsy passes in the neck without the need for open surgical dissection. Though tested in only 8 cases so far, it could widen access to cervical spine diagnosis for patients with tumors or infections."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Neurology",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -5043,33 +3970,6 @@
       "status": "new"
     },
     {
-      "pmid": "42358068",
-      "headline": "Scientists map the roadblocks slowing LRRK2-targeted Parkinson's treatments from lab to clinic",
-      "journal": "Movement Disorders",
-      "pubdate": "2026 Jun 25",
-      "doi": "10.1002/mds.70397",
-      "groundbreaking": "Major mental health or behavioral implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers from a multi-institution initiative convened by the Michael J. Fox Foundation reviewed the scientific and translational barriers preventing LRRK2-targeted therapies from advancing into disease-modifying treatments for Parkinson's disease. This is a review/initiative paper rather than an original human study, with no primary patient cohort reported. The authors identify key gaps in biomarker development, trial design, and mechanistic understanding that must be addressed before LRRK2 inhibitors can demonstrate clinical efficacy.",
-      "why_it_matters": "LRRK2 mutations represent one of the most common known genetic causes of Parkinson's disease, and understanding what is blocking effective therapies could eventually shape treatment development for millions of patients.",
-      "caveats": "no active control group, no primary human data reported, review/consensus paper, single disease focus with no direct behavioral or psychiatric outcome",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Movement disorder drug development review; minimal direct mental health or behavioral relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "The science of Parkinson's genetics is outpacing the drugs \u2014 here's why",
-          "hook": "One of the most promising genetic targets in Parkinson's disease has yet to yield a single disease-modifying therapy, and a new initiative is trying to figure out why.",
-          "pitch_angle": "The LRRK2 Investigative Therapeutics Exchange Initiative lays out the scientific bottlenecks \u2014 from biomarker gaps to flawed trial designs \u2014 that have stalled a decade of promising laboratory work. For science journalists covering neurodegenerative disease, this offers a rare inside view of how the gap between genetic discovery and clinical treatment remains frustratingly wide."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Neurology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42342595",
       "headline": "Consciousness may be 'slow' because the brain tags only one version of reality at a time",
       "journal": "Behavioral and Brain Sciences",
@@ -5143,33 +4043,6 @@
           "headline": "A Rat Study Cracks a Core Assumption About Addiction \u2014 and Complicates the Field",
           "hook": "For decades, researchers have used escalating drug use in animals as a stand-in for poor decision-making in addiction \u2014 but a new study finds the two can come apart entirely.",
           "pitch_angle": "Rats that dramatically escalated cocaine or fentanyl intake showed no impairment on a probabilistic decision-making task, suggesting that escalation and decision-making deficits are dissociable phenomena. This finding calls into question a foundational preclinical model used to study substance use disorder, with potential implications for how the field interprets animal addiction research."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Behavioral Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "41846006",
-      "headline": "Brain receptor pathway explains how stress can temporarily blunt pain \u2014 in rats",
-      "journal": "Behavioural Brain Research",
-      "pubdate": "2026 Jun 25",
-      "doi": "10.1016/j.bbr.2026.116164",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers tested whether orexin receptors in the ventral tegmental area (VTA) contribute to stress-induced analgesia in 113 male rats with persistent inflammatory pain, using a restraint stress paradigm and the formalin pain test. Blocking either orexin 1 or orexin 2 receptors in the VTA reduced the pain-relieving effect of restraint stress without affecting baseline pain thresholds or locomotor activity. The findings indicate that both receptor subtypes in the VTA are involved in stress-induced pain suppression in this inflammatory pain model.",
-      "why_it_matters": "Understanding the neural circuits behind stress-induced analgesia may eventually inform research on how chronic stress interacts with chronic pain conditions in humans.",
-      "caveats": "animal or cell study, single-center",
-      "fact_check_note": "The 'First-in-class human study' groundbreaking tag does not apply \u2014 this is an animal study. Groundbreaking tag corrected to reflect mechanistic animal finding only.",
-      "relevance_score": 3,
-      "relevance_score_reason": "Animal study with limited direct mental health relevance; stress-pain connection has some behavioral interest.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "The Brain Chemical That Helps Stress Kill Pain \u2014 And What It Might Mean for Chronic Pain Research",
-          "hook": "Scientists have pinpointed a brain receptor pathway through which stress temporarily suppresses pain \u2014 a finding that could eventually shed light on why chronic stress and chronic pain so often intertwine.",
-          "pitch_angle": "A rat study identifies orexin receptors in the brain's reward center as key players in stress-induced pain relief, adding detail to a poorly understood phenomenon with potential relevance to human pain and stress disorders. The research is early-stage and animal-only, but points toward a neurochemical mechanism worth tracking."
         }
       ],
       "run_date": "2026-06-29",
@@ -5565,33 +4438,6 @@
       "status": "new"
     },
     {
-      "pmid": "42337614",
-      "headline": "Scientists identify new protein markers of muscle damage in rare metabolic disease Pompe",
-      "journal": "Acta Neuropathologica Communications",
-      "pubdate": "2026 Jun 23",
-      "doi": "10.1186/s40478-026-02348-1",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Using a Pompe disease mouse model and muscle biopsies from patients with late-onset Pompe disease, researchers identified abnormal accumulation and mislocation of membrane repair proteins \u2014 dysferlin, annexin A2, and AHNAK2 \u2014 alongside persistent dysregulation of myostatin, a key negative regulator of muscle growth. Longitudinal transcriptomic and protein analyses in mice showed these changes appeared early and persisted throughout disease progression, with similar but stage-dependent patterns observed in human biopsy samples. The findings suggest disrupted membrane repair and myostatin signaling may contribute to the muscle degeneration and failed regeneration characteristic of Pompe disease.",
-      "why_it_matters": "Identifying novel biomarkers of muscle pathology in Pompe disease could eventually improve disease monitoring and reveal new therapeutic targets for this currently undertreated rare condition.",
-      "caveats": "animal or cell study, small sample (N<100), observational design",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Rare muscle disease; primarily animal model; no mental health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Researchers Find New Clues to Why Muscles Fail to Repair Themselves in a Rare Genetic Disease",
-          "hook": "A study in mice and human tissue has identified abnormal protein accumulation that may explain why muscles in Pompe disease progressively weaken despite the body's attempts at self-repair.",
-          "pitch_angle": "Pompe disease, caused by a single enzyme deficiency, leads to relentless muscle wasting that current enzyme replacement therapies only partially address; the newly identified membrane repair and myostatin abnormalities could point toward combination treatment strategies. For the estimated 1 in 40,000 people living with this diagnosis, new molecular targets represent a meaningful step toward better therapies."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Neurology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42334687",
       "headline": "Combining surgery, radiation, and chemo at glioblastoma recurrence may double survival time over chemo alone",
       "journal": "Journal of Neuro-Oncology",
@@ -5652,60 +4498,6 @@
       "status": "new"
     },
     {
-      "pmid": "42214039",
-      "headline": "Neurology residents now have a dedicated digital flashcard system built specifically for their training",
-      "journal": "Neurology",
-      "pubdate": "2026 Jun 23",
-      "doi": "10.1212/WNL.0000000000218207",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This conference abstract describes the development of NeurAnki, the first Anki-based flashcard deck designed specifically for neurology resident education. The project was created collaboratively by neurology educators and residents to address gaps in standardized, accessible study tools. No empirical outcome data are reported in the abstract.",
-      "why_it_matters": "Improved, accessible study tools for medical trainees may support better preparation and reduce trainee stress during residency.",
-      "caveats": "small sample (N<100), observational design, self-reported outcomes, short follow-up, preprint",
-      "fact_check_note": "This is a conference abstract with no reported empirical data or participant sample. All caveats reflect the preliminary nature of the work.",
-      "relevance_score": 2,
-      "relevance_score_reason": "Medical education tool; no mental health or behavioral science relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Neurology residents get their own bespoke flashcard system to cut through the specialty's notoriously steep learning curve",
-          "hook": "A team of neurology educators has built the first Anki deck tailored specifically to resident training, targeting one of medicine's most demanding specialties.",
-          "pitch_angle": "NeurAnki aims to standardize and democratize study resources for neurology trainees, who have historically lacked dedicated digital learning tools. The initiative reflects growing interest in using evidence-based memory techniques to ease the cognitive burden of medical training."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Neurology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42333544",
-      "headline": "Essay on Montaigne's approach to the body's particularity in palliative care contexts",
-      "journal": "Palliative & Supportive Care",
-      "pubdate": "2026 Jun 23",
-      "doi": "10.1017/S1478951526102995",
-      "groundbreaking": "",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This is a brief essay or commentary published in Palliative & Supportive Care drawing on the philosophy of Michel de Montaigne as it relates to the body's particularity; no empirical study, participant data, or research methodology is described in the available abstract.",
-      "why_it_matters": "Humanistic perspectives on embodiment and individuality may enrich clinical conversations about patient experience in palliative settings.",
-      "caveats": "Not an empirical study \u2014 no research design, sample, or findings; opinion/essay format",
-      "fact_check_note": "No empirical claims to verify. The entry appears to be a philosophical essay, not a research study.",
-      "relevance_score": 2,
-      "relevance_score_reason": "Non-empirical essay; no data, sample, or findings relevant to mental health research coverage.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "What a 16th-Century Philosopher Understood About the Body That Modern Medicine Still Struggles With",
-          "hook": "A physician-authored essay in a palliative care journal argues that Montaigne's radical attentiveness to bodily particularity has something to teach contemporary clinicians.",
-          "pitch_angle": "The piece invites clinicians and readers to consider how Montaigne's introspective, individual-centered view of the body anticipates modern calls for personalized, patient-centered care at the end of life. It is an essay, not a study, and is best suited to reflective or narrative-driven health journalism."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Psychology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42334063",
       "headline": "Trusting the government more made people want harsher COVID rule-breaker punishments \u2014 the opposite of what crime research predicts",
       "journal": "International Journal of Offender Therapy and Comparative Criminology",
@@ -5757,33 +4549,6 @@
       "run_date": "2026-06-29",
       "category": "Psychiatry",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "41999934",
-      "headline": "Plant compound may protect brain cells from Parkinson's-linked cell death in lab and mouse models",
-      "journal": "Neuroscience",
-      "pubdate": "2026 Jun 22",
-      "doi": "10.1016/j.neuroscience.2026.04.009",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers tested biochanin A, a plant-derived compound, in LPS/TNF-\u03b1-induced Parkinson's disease models using mice and SH-SY5Y cells to investigate whether it could protect neurons by inhibiting ferroptosis, a form of iron-dependent cell death. Using behavioral tests, electron microscopy, and protein analysis, the study found that biochanin A activated the Sirt1/Nrf2/GPX4 signaling pathway, restoring antioxidant balance and reducing lipid peroxidation. The findings suggest biochanin A may protect dopaminergic neurons from ferroptosis, though the research was conducted entirely in animal and cell models.",
-      "why_it_matters": "Identifying the ferroptosis pathway as a therapeutic target in Parkinson's disease could eventually point toward new treatment strategies for a condition with limited disease-modifying options.",
-      "caveats": "animal or cell study",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Animal/cell study only; no human subjects; limited mental health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A Plant Compound May Help Stop the Brain Cell Death Linked to Parkinson's \u2014 In Mice",
-          "hook": "A naturally occurring compound found in red clover and chickpeas appears to block a form of iron-driven brain cell death associated with Parkinson's disease \u2014 at least in mice and lab cells.",
-          "pitch_angle": "Early animal research suggests biochanin A activates a cellular defense pathway that prevents the type of oxidative neuron death implicated in Parkinson's progression. While far from human trials, the findings add to growing scientific interest in ferroptosis as a druggable target in neurodegenerative disease."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Neurology",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -6085,33 +4850,6 @@
           "headline": "Why Moral Disagreements From COVID Haven't Healed \u2014 and Psychology Explains Why They Won't",
           "hook": "A new philosophical argument challenges the optimistic idea that people naturally renegotiate moral disagreements toward consensus \u2014 COVID-19, it argues, proves the opposite.",
           "pitch_angle": "Fu and Mei contend that social identity, confirmation bias, and emotional entrenchment prevent moral flexibility from producing agreement, offering a psychologically grounded explanation for why pandemic-era divisions have calcified rather than resolved."
-        }
-      ],
-      "run_date": "2026-06-28",
-      "category": "Behavioral Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42342616",
-      "headline": "A new theory suggests we make moral deals with our future selves \u2014 just as we do with other people",
-      "journal": "Behavioral and Brain Sciences",
-      "pubdate": "2026 Jun 25",
-      "doi": "10.1017/S0140525X25101672",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Cognitive scientists at IIT Kanpur extend an existing moral psychology framework \u2014 resource-rational contractualism \u2014 to argue that personal virtues, not just interpersonal moral judgments, can be explained through a contractualist lens applied to one's relationship with one's future self. The piece is a theoretical commentary with no empirical data or participant sample. The authors propose that people implicitly negotiate behavioral commitments with anticipated future versions of themselves, similar to how they negotiate obligations with others.",
-      "why_it_matters": "If moral self-regulation can be framed as a form of intra-individual bargaining, this could open new cognitive-behavioral angles for understanding self-control failures, addiction, and identity-based behavior change.",
-      "caveats": "theoretical/opinion piece, no empirical data, no human subjects, speculative extension of existing model",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Interesting cognitive framework but purely theoretical; indirect and minimal mental health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Psychology Today",
-          "headline": "You're Constantly Making Moral Deals With Your Future Self \u2014 Whether You Know It or Not",
-          "hook": "A new theoretical framework suggests that personal virtues and self-discipline may operate like a negotiation between who you are today and who you expect to be tomorrow.",
-          "pitch_angle": "By extending moral contractualism inward, researchers propose a novel cognitive lens on self-regulation \u2014 with potential implications for understanding why people break promises to themselves and how identity shapes behavioral commitments over time."
         }
       ],
       "run_date": "2026-06-28",
@@ -6621,36 +5359,6 @@
       "status": "new"
     },
     {
-      "pmid": "41941944",
-      "headline": "Enriching a pregnant rat's environment permanently changes how she mothers \u2014 making her bolder and more aggressive in protecting her pups",
-      "journal": "Behavioural Brain Research",
-      "pubdate": "2026 Jun 25",
-      "doi": "10.1016/j.bbr.2026.116207",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers housed nulliparous female rats in either standard or environmentally enriched conditions exclusively during pregnancy, then tested their maternal behavior after birth. Rats from enriched gestational environments showed increased maternal aggression, enhanced sexual motivation, faster and more reliable pup retrieval under risky conditions, and less passive pup-care behavior compared to standard-housed controls. The study suggests that environmental conditions during pregnancy alone \u2014 without postnatal enrichment \u2014 are sufficient to produce lasting changes in motivational strategies after birth.",
-      "why_it_matters": "While these findings are in rats and cannot be directly applied to humans, they add to a body of evidence suggesting that prenatal environmental conditions shape postnatal behavioral priorities, a concept with potential relevance to understanding how maternal stress or enrichment during human pregnancy might influence postpartum behavior and bonding.",
-      "caveats": "animal or cell study, rodent model only, no human subjects, single-center, findings may not translate to human maternal behavior",
-      "fact_check_note": "All findings accurately reflect the abstract: EE dams showed increased maternal aggression, proceptive behaviors, sexual receptivity, faster pup retrieval to safe locations, and less passive care \u2014 all consistent with stated results.",
-      "excluded": false,
-      "relevance_score": 3,
-      "relevance_score_reason": "Purely animal study with limited direct mental health journalism relevance; peripheral connection to postpartum behavior research does not overcome the absence of human data.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "What a Pregnant Rat's Environment Does to Her Mothering Instincts \u2014 and What It Might Mean for Humans",
-          "hook": "Enriching a rat's environment only during pregnancy \u2014 not after birth \u2014 permanently changed how aggressively and actively she protected her pups.",
-          "why_it_fits": "General health readers interested in maternal mental health and prenatal wellbeing would find the concept that pregnancy-period environment shapes postpartum behavior intriguing, with appropriate caveats about animal-to-human translation.",
-          "pitch_angle": "A new rodent study finds that environmental enrichment during pregnancy alone \u2014 without any postnatal changes \u2014 reshapes how mother rats respond to their offspring after birth, making them more active, risk-taking, and protective. The research suggests pregnancy is a critical window during which environmental conditions can durably alter motivational brain systems. While the findings are in rats and cannot be directly applied to humans, they point toward questions worth exploring about how prenatal stress or enrichment might shape human postpartum behavior and maternal bonding.",
-          "caveats_to_flag": "This is a rat study; the behaviors measured (maternal aggression, pup retrieval on an elevated maze) have no direct human equivalent. Journalists should be explicit that translating these findings to human pregnancy and postpartum experience requires substantial additional research."
-        }
-      ],
-      "run_date": "2026-06-26",
-      "category": "Behavioral Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "41974259",
       "headline": "A brain stimulation technique used in depression treatment may also protect the brain after stroke \u2014 through a previously unknown molecular pathway",
       "journal": "Behavioural Brain Research",
@@ -6779,36 +5487,6 @@
           "why_it_fits": "General health readers living with OCD or caring for someone who does will find the depression-as-predictor finding immediately personally relevant and accessible without requiring technical neuroscience knowledge.",
           "pitch_angle": "Obsessive-compulsive disorder is notoriously difficult to treat when standard therapies fail, and deep transcranial magnetic stimulation \u2014 a non-invasive brain stimulation technique \u2014 has offered hope for some of those patients. But a new study suggests that patients who also have depression may be less likely to benefit, raising the possibility that treating the depression first, or alongside, could improve outcomes. The study is small and conducted at a single center in Turkey, so the findings are early, but they point toward a clinically practical question: should depression be a routine treatment target in OCD patients being evaluated for brain stimulation?",
           "caveats_to_flag": "Small sample (N=60); single center; brain wave biomarker findings are statistically unreliable at this stage; causal direction cannot be established from this design; findings need replication."
-        }
-      ],
-      "run_date": "2026-06-26",
-      "category": "Behavioral Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42349730",
-      "headline": "Animal behavior research may be missing hidden patterns in time \u2014 a new analytical framework aims to fix that",
-      "journal": "Behavioural Processes",
-      "pubdate": "2026 Jun 25",
-      "doi": "10.1016/j.beproc.2026.105406",
-      "groundbreaking": "Major mental health or behavioral implication \u2014 methodological advance for preclinical behavioral research in addiction, autism, and anxiety models",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This perspective/methods paper from Brazilian researchers proposes that standard statistical approaches used to analyze animal behavior in neuroscience \u2014 which focus on frequencies, durations, and correlations \u2014 systematically miss the temporal structure and sequential organization of behavioral events. The authors advocate for integrating time-series tools (specifically THEME for detecting hierarchically organized behavioral sequences and Tigramite for estimating directed, time-lagged dependencies) into preclinical behavioral research. No primary experimental data or animal participants are reported; the paper is a conceptual and methodological argument aimed at researchers using animal models of addiction, autism spectrum disorder, anxiety, and Alzheimer's disease.",
-      "why_it_matters": "If animal models of psychiatric conditions are analyzed with tools that cannot detect how behaviors unfold and influence each other over time, key patterns relevant to human pathology may be systematically overlooked \u2014 meaning preclinical findings that fail to replicate in humans could partly reflect a measurement problem rather than a species problem. Better behavioral analytics in animal models could strengthen the translational pipeline for psychiatric drug and intervention development.",
-      "caveats": "animal or cell study, no human participants, no primary data presented, perspective/methods paper only, single-center",
-      "fact_check_note": "Confirmed this is a perspective/methods paper with no primary animal or human participant data; described accurately.",
-      "excluded": false,
-      "relevance_score": 3,
-      "relevance_score_reason": "Purely methodological perspective paper with no primary human or animal data; relevance to mental health journalism is indirect and highly technical, making it difficult to pitch to any mainstream health or science publication.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "Are animal models of depression and addiction being analyzed all wrong? Researchers propose a time-series fix",
-          "hook": "A pair of Brazilian neuroscientists argue that standard statistical tools used in animal behavior research are blind to the temporal patterns that may matter most \u2014 a methodological gap that could help explain why so many psychiatric drugs succeed in mice and fail in people.",
-          "why_it_fits": "STAT News covers the translational pipeline and reproducibility crisis in biomedical research; a methodological argument about why preclinical psychiatric research may systematically miss important signals fits its investigative science coverage.",
-          "pitch_angle": "The replication crisis in psychiatric drug development \u2014 where promising animal findings repeatedly fail to translate into human treatments \u2014 may have a partially mundane explanation: the statistical tools researchers use to analyze animal behavior may be structurally blind to the temporal and sequential patterns that define how behavioral symptoms actually unfold. A new perspective paper advocates for adopting time-series analysis tools that can detect ordered, hierarchical behavioral sequences and directed dependencies over time, rather than simply counting how often a behavior occurs. If the argument holds, it suggests that some preclinical failures may reflect a measurement problem as much as a biology problem \u2014 a fixable issue with real implications for psychiatric drug development.",
-          "caveats_to_flag": "This is a perspective paper, not an empirical study; no new data are presented; the proposed tools have not yet been validated against standard methods in a head-to-head comparison in the paper itself; adoption would require significant methodological retraining across the field."
         }
       ],
       "run_date": "2026-06-26",
@@ -7141,36 +5819,6 @@
           "why_it_fits": "Psychology Today readers are interested in accessible explanations of emerging mental health research, including early-stage findings about treatment possibilities, provided caveats are clearly stated.",
           "pitch_angle": "Citicoline \u2014 a naturally occurring compound found in cells and sold over the counter as a brain supplement \u2014 reversed stress-induced behavioral abnormalities in a mouse model of PTSD, according to new research from Cairo University. The study suggests it works not through the brain's familiar chemical messengers, but by repairing stressed and damaged cells in the hippocampus. While this is early animal research that cannot be applied to humans, it highlights cellular stress pathways as a potential new front in PTSD treatment science.",
           "caveats_to_flag": "Conducted entirely in male mice using a stress protocol that approximates but does not replicate human PTSD. No human data. Citicoline is available as a supplement but this study provides no basis for recommending its use for PTSD."
-        }
-      ],
-      "run_date": "2026-06-26",
-      "category": "Neurology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42321003",
-      "headline": "A new catheter system cuts the time to restore blood flow in stroke by nearly 40% \u2014 but long-term patient outcomes didn't change",
-      "journal": "Journal of Neurointerventional Surgery",
-      "pubdate": "2026 Jun 19",
-      "doi": "10.1136/jnis-2025-024700",
-      "groundbreaking": "Major mental health or behavioral implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a multicenter retrospective cohort study across three U.S. comprehensive stroke centers (June 2023\u2013January 2025), comparing combined delivery catheter systems (CDCS) to conventional aspiration systems in mechanical thrombectomy for ischemic stroke. Among 66 CDCS cases versus conventional cases, CDCS was associated with significantly faster groin-to-reperfusion time (26 vs. 41 minutes), fewer procedural passes, higher first-pass reperfusion rates, and shorter fluoroscopy time. However, 90-day functional outcomes did not differ significantly between groups, and the difference in symptomatic intracranial hemorrhage rates (4.6% vs. 12.8%) did not reach statistical significance.",
-      "why_it_matters": "Faster stroke reperfusion is a major goal in emergency neurology because brain tissue is lost rapidly during ischemia \u2014 but the absence of a difference in 90-day functional outcomes raises important questions about whether procedural speed alone translates to meaningful recovery.",
-      "caveats": "observational design, retrospective cohort, small sample (N=66 CDCS cases), multicenter but only three U.S. centers, industry conflicts of interest (multiple authors report device company consultancy), no significant difference in patient-level outcomes at 90 days, WEIRD sample",
-      "fact_check_note": "This study has minimal direct mental health relevance \u2014 it concerns mechanical thrombectomy technique in stroke neurology. Post-stroke depression and cognitive impairment are mental health sequelae of stroke, but the study does not measure or report on these outcomes. Relevance score adjusted accordingly. The 90-day functional outcome finding (no significant difference) is accurately reported from the abstract.",
-      "excluded": false,
-      "relevance_score": 3,
-      "relevance_score_reason": "Stroke interventional technique study with no mental health outcomes measured; although post-stroke mental health is a real concern, this paper does not address it, making it a poor fit for mental health journalism without significant editorial reframing.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "A Faster Stroke Procedure Looks Promising in Early Data \u2014 But Hasn't Yet Moved the Needle on Recovery",
-          "hook": "A new catheter system can restore blood flow to the brain nearly 15 minutes faster during stroke intervention \u2014 but 90-day patient outcomes were no better than with older tools.",
-          "why_it_fits": "STAT News covers clinical neurology and medical device science for a sophisticated audience that can parse the gap between procedural metrics and patient-centered outcomes.",
-          "pitch_angle": "In stroke care, minutes matter \u2014 which is why a multicenter study finding that new combined delivery catheter systems cut reperfusion time by nearly 40% is generating interest. But the same study found no significant difference in how patients were actually functioning 90 days later, raising the question of whether faster procedures translate to better lives. With multiple authors holding financial ties to device manufacturers, the findings warrant independent replication before changing practice.",
-          "caveats_to_flag": "Retrospective design; small CDCS sample (N=66); no significant difference in 90-day functional outcomes; multiple author conflicts of interest with device companies; three U.S. centers only."
         }
       ],
       "run_date": "2026-06-26",
