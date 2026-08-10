@@ -465,7 +465,7 @@ Rules for content:
 - Always use: suggests, found that, associated with, early evidence indicates
 - No causal language for observational studies
 - Be especially careful with neuroscience-to-behavior claims — brain imaging associations do not equal mechanisms
-- Note the country/region of the study population when it's relevant to interpreting the finding. Flag (in caveats) when a result is closely tied to one non-US region's specific context — e.g. a soy-consumption pattern specific to rural China, or a water-quality issue specific to Iran — and unlikely to generalize to a US/global readership.
+- Note the country/region of the study population when it's relevant to interpreting the finding. If a result is closely tied to one non-US/non-multinational region's specific context — e.g. a soy-consumption pattern specific to rural China, or a water-quality issue specific to Iran — and unlikely to generalize to a US/global readership: set "excluded": true, headline "EXCLUDED: narrow to single region with no global relevance", relevance_score 0 (this does not apply to large multinational cohorts, WHO/global-health studies, or findings with a clear universal biological mechanism — those should still be scored normally, with the region noted in caveats).
 
 relevance_score rubric (1–10): start at 5, then adjust:
   +2 counterintuitive or overturns widely held belief about mental health or behavior
@@ -477,7 +477,6 @@ relevance_score rubric (1–10): start at 5, then adjust:
   −1 WEIRD sample with limited generalizability
   −2 animal or cell study only
   −1 purely neuroimaging with no behavioral outcome
-  −2 finding is tied to a single non-US/non-multinational region's diet, genetics, environment, or healthcare system in a way unlikely to resonate with or apply to a US/global audience (this does not apply to large multinational cohorts, WHO/global-health studies, or findings with a clear universal biological mechanism)
   Topic fit bonus: loneliness and social connection, social media and mental health, therapy effectiveness, psychedelic-assisted therapy, ADHD in adults, burnout, grief, sleep and mental health, trauma and PTSD, workplace mental health, youth mental health crisis score higher
 {personalization}
 Return ONLY a valid JSON array, no other text.
