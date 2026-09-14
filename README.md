@@ -33,12 +33,47 @@ Can also be triggered manually via **Actions -> Mental Health & Psychiatry Resea
 
 | Category | Journals | Jobs |
 |---|---:|---|
-| Psychiatry | 216 | 2 (chunks 1-2) |
-| Behavioral Sciences | 89 | 2 (chunks 1-2) |
+| Psychiatry | 222 | 2 (chunks 1-2) |
+| Behavioral Sciences | 93 | 2 (chunks 1-2) |
 | Neurology | 384 | 2 (chunks 1-2) |
-| Psychology | 196 | 2 (chunks 1-2) |
+| Psychology | 197 | 2 (chunks 1-2) |
 
 Large categories are split into chunks to keep run times under 20 minutes.
+
+The category CSVs in `data/` are now hand-maintained. `scripts/extract_journals.py` originally generated them from `PubMed_Journals_Categorized.xlsx`, but that workbook no longer exists, and re-running the script would wipe hand-added rows.
+
+## Journal list audit (2026-09-14)
+
+**Method:** Pulled OpenAlex's top sources for this digest's subject areas over the prior year, diffed them against every CSV by ISSN and title, and kept only titles that NCBI lists and that PubMed indexed at least 20 articles from in the past 12 months. Every row in a category CSV is searched with no topic filter, so a journal's entire output has to fit the beat.
+
+**Added (11):**
+
+| Journal | ISSN | CSV | PubMed articles/yr |
+|---|---|---|---:|
+| BJPsych Open | 2056-4724 | Psychiatry | 309 |
+| Child and Adolescent Psychiatry and Mental Health | 1753-2000 | Psychiatry | 188 |
+| PLOS Mental Health | 2837-8156 | Psychiatry | 266 |
+| Schizophrenia (formerly npj Schizophrenia) | 2754-6993 | Psychiatry | 125 |
+| Borderline Personality Disorder and Emotion Dysregulation | 2051-6673 | Psychiatry | 49 |
+| Schizophrenia Research: Cognition | 2215-0013 | Psychiatry | 87 |
+| Journal of Eating Disorders | 2050-2974 | Behavioral Sciences | 334 |
+| European Eating Disorders Review | 1099-0968 | Behavioral Sciences | 173 |
+| Eating Disorders | 1532-530X | Behavioral Sciences | 109 |
+| Eating and Weight Disorders | 1590-1262 | Behavioral Sciences | 108 |
+| Journal of Child & Adolescent Trauma | 1936-153X | Psychology | 169 |
+
+The eating disorder titles go in Behavioral Sciences alongside the *International Journal of Eating Disorders*, and the trauma title goes in Psychology with the other trauma journals. No category grew enough to need new workflow chunks.
+
+**Notable exclusions:**
+
+- **Mega-journal:** *Frontiers in Psychiatry* (about 2,800 PubMed articles/yr) would take over the 30 candidate slots.
+- **Off-beat (OpenAlex classifier noise):** sexual medicine and urology (*Journal of Sexual Medicine*, *Sexual Medicine*, *Sexual Medicine Reviews*, *International Journal of Impotence Research*), *Innovation in Aging*, *Toxicon*, *Mediastinum*, *Chronobiology International*, *Journal of Dance Medicine & Science*, *Journal of Immigrant and Minority Health*, and *Gerontology & Geriatrics Education*.
+- **Speech and linguistics:** *Journal of Fluency Disorders*, *Language and Speech*, and *Phonetica*. Basic language research rarely makes a mental health pitch.
+- **Neurology-heavy, weak mental health angle:** *npj Parkinson's Disease*, *Neurology and Therapy*, *Clinical Parkinsonism & Related Disorders*, the Alzheimer's & Dementia companion journals, *npj Dementia*, *Frontiers in Dementia*, *Neuroscience Applied*, and the smaller sleep titles (*SLEEP Advances*, *Sleep Medicine: X*, *Frontiers in Sleep*, *Clocks & Sleep*, *Sleep and Biological Rhythms*). The Neurology list already carries the core dementia and sleep journals.
+- **Child welfare scope, not mental health research specifically:** *Child Abuse & Neglect* (529/yr, already in the pediatric-health digest) and *Child Maltreatment*. *OMEGA* was also left out because its grief and end-of-life coverage is uneven and *Death Studies* already covers that niche.
+- **Case reports:** *Case Reports in Neurology* and *Epilepsy & Behavior Reports*.
+- **Barely in PubMed (fewer than 20 articles/yr) despite high OpenAlex volume:** *Mindfulness*, *Personality and Individual Differences*, *Cognitive Therapy and Research*, *Clinical Psychology: Science and Practice*, *Journal of Child and Family Studies*, *Journal of Aggression, Maltreatment & Trauma*, *Child Abuse Review*, *European Journal of Trauma & Dissociation*, and *Creativity Research Journal*.
+- **Not in PubMed at all:** *Psychoanalytic Inquiry*, *Thinking Skills and Creativity*, *Counselling and Psychotherapy Research*, *Journal of Creative Behavior*, and several non-English titles (*Psiquiatría Biológica*, *Revue française de psychanalyse*).
 
 ## Manual Trigger
 
