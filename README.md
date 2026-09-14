@@ -17,7 +17,7 @@ A GitHub Actions workflow that searches curated psychiatry, psychology, behavior
 
 Features:
 - Card view per study with headline, summary, caveats, fact-check notes
-- Expandable pitch angles section for publications such as Psychology Today, Verywell Mind, Self, The Cut, STAT, MedPage Today, and general health outlets
+- Expandable pitch angles section for publications such as Psychology Today, Verywell Mind, The Cut, STAT, MedPage Today, and general health outlets
 - Filter by category, groundbreaking type, status, date range, and score
 - Search across all study text and pitches
 - Status tracking (New / Saved / Pitched / Passed) saved to localStorage
