@@ -40,7 +40,7 @@ Can also be triggered manually via **Actions -> Mental Health & Psychiatry Resea
 
 Large categories are split into chunks to keep run times under 20 minutes.
 
-The category CSVs in `data/` are now hand-maintained. `scripts/extract_journals.py` originally generated them from `PubMed_Journals_Categorized.xlsx`, but that workbook no longer exists, and re-running the script would wipe hand-added rows.
+The category CSVs in `data/` are now hand-maintained. They were originally generated from `PubMed_Journals_Categorized.xlsx` by `scripts/extract_journals.py`, but that workbook no longer exists, so the script has been deleted.
 
 ## Journal list audit (2026-09-14)
 
@@ -110,7 +110,6 @@ Add these in **Settings -> Secrets and variables -> Actions**:
 scripts/
   mental_health_digest.py
   merge_results.py
-  extract_journals.py
 data/
   Psychiatry.csv
   Behavioral Sciences.csv
