@@ -1,33 +1,1380 @@
 {
-  "last_updated": "2026-09-29T17:06:33.478860+00:00",
-  "total_studies": 720,
-  "new_this_run": 6,
+  "last_updated": "2026-10-01T17:19:20.009887+00:00",
+  "total_studies": 750,
+  "new_this_run": 30,
   "studies": [
     {
+      "pmid": "42811883",
+      "headline": "A new lab test can reliably sort harmless from harmful gene variants in one of the most common genetic causes of childhood epilepsy",
+      "journal": "Epilepsia",
+      "pubdate": "2026 Sep 30",
+      "doi": "10.1002/epi.70504",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at Children's Hospital of Philadelphia developed a fluorometric assay that simultaneously measures protein stability and binding function for variants in the STXBP1 gene \u2014 one of the most common genetic causes of early-onset epilepsy and developmental delay \u2014 and tested it on 15 variants including benign, pathogenic, and clinically mild cases. A support vector machine classifier trained on the assay's output correctly distinguished benign from pathogenic variants in leave-one-out cross-validation for nearly all tested variants. Classifier scores also correlated significantly with clinical severity, suggesting the tool could resolve the large number of STXBP1 variants currently classified as uncertain significance.",
+      "why_it_matters": "Families facing a child's genetic epilepsy diagnosis often spend years in diagnostic limbo over uncertain gene variants \u2014 a scalable functional test that resolves these ambiguities could accelerate both diagnosis and access to precision therapies.",
+      "caveats": "small sample (N<100), cell study / laboratory assay, limited to 15 variants tested",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Clinically important for rare pediatric epilepsy but primarily a lab/cell study with limited direct mental health angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "STAT News",
+          "headline": "A New Assay Could End Diagnostic Limbo for Families With STXBP1 Epilepsy",
+          "hook": "A scalable lab test can now reliably distinguish disease-causing from harmless gene variants in one of childhood epilepsy's most common genetic culprits \u2014 potentially closing years of uncertainty for families.",
+          "pitch_angle": "STXBP1-related disorders cause severe early-onset epilepsy and developmental delay, but a large proportion of identified variants remain classified as uncertain significance, blocking diagnoses and precision treatment. This new fluorometric assay and accompanying classifier could change that, with implications for how genetic epilepsy is diagnosed and treated."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Neurology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42803096",
+      "headline": "A simple blood test marker may track how disabling migraine is \u2014 but it's not ready for the clinic",
+      "journal": "Ideggy\u00f3gy\u00e1szati Szemle",
+      "pubdate": "2026 Sep 30",
+      "doi": "10.18071/isz.79.0329",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a prospective case-control study enrolling 53 episodic migraine patients and 53 matched healthy controls in Turkey, measuring inflammatory blood markers during both acute attacks and attack-free periods. Overall immature granulocyte (IG) levels did not differ between migraineurs and controls, but lower IG levels were associated with more frequent headaches and greater migraine-related disability. Systemic inflammatory indices shifted significantly during attacks versus the interictal period, suggesting migraine has a measurable immune signature \u2014 though no single marker was clinically precise enough to be diagnostic.",
+      "why_it_matters": "The findings add to growing evidence that migraine involves systemic immune dysregulation, potentially opening avenues for inflammation-based biomarker development in a condition that affects roughly 1 billion people worldwide.",
+      "caveats": "small sample (N<100), observational design, single-center, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic), short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Migraine biomarker; small single-center study, limited clinical utility confirmed.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "Could a Blood Test Reveal How Badly Migraines Are Affecting Your Life?",
+          "hook": "A small but intriguing study found that a type of immune cell in the blood may signal how frequent and disabling someone's migraines are \u2014 not just whether they have the condition.",
+          "pitch_angle": "Researchers found that inflammatory markers in the blood shift measurably during migraine attacks compared to symptom-free periods, and that lower levels of one immune cell type were linked to more frequent and disabling headaches. While no single marker was precise enough for clinical use yet, the findings suggest migraine may be traceable through routine blood work, offering a potential future tool for tracking disease burden."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Neurology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42815105",
+      "headline": "Nearly 1,000 real addiction stories reveal a hidden force blocking recovery: missing ID documents",
+      "journal": "International Journal of Drug Policy",
+      "pubdate": "2026 Sep 30",
+      "doi": "10.1016/j.drugpo.2026.105521",
+      "groundbreaking": "Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed 991 first-person interview transcripts from the Soft White Underbelly YouTube series using grounded theory and large language model-assisted coding, producing a new eight-stage model of substance use disorder (SUD) progression. Participants were severely marginalized adults with long-term substance use histories. A key finding was that structural barriers \u2014 especially lacking identification documents \u2014 combined with stigma and limited access systematically remove people from care regardless of how motivated they are to recover.",
+      "why_it_matters": "The finding suggests that motivational readiness alone is insufficient for SUD recovery if structural barriers like missing IDs remain unaddressed, pointing to a concrete policy lever that has received little attention.",
+      "caveats": "observational design, self-reported outcomes, WEIRD sample (US-centric, highly marginalized YouTube series participants), secondary analysis, no active control group",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large qualitative N, addiction topic, counterintuitive structural finding; limited by observational and secondary design.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "The Bureaucratic Catch-22 Keeping Addicted Americans From Getting Help",
+          "hook": "Nearly 1,000 first-person addiction stories reveal that lacking a government-issued ID \u2014 not a lack of desire to quit \u2014 may be what keeps people trapped in substance use disorder.",
+          "pitch_angle": "An analysis of almost 1,000 addiction narratives found that structural catch-22s, like needing an ID to access treatment but losing your ID to homelessness or incarceration, systematically block recovery independent of motivation; this reframes the addiction debate from individual willpower to policy failure."
+        },
+        {
+          "publication_type": "NPR Health",
+          "headline": "A New Eight-Stage Model of Addiction Is Built From Nearly 1,000 People Who Lived It",
+          "hook": "For the first time, researchers built a comprehensive model of how addiction unfolds \u2014 from early childhood adversity to relapse or stabilization \u2014 entirely from the words of people who experienced it.",
+          "pitch_angle": "By coding nearly 3.9 million words of first-person addiction narratives, researchers identified eight distinct stages of substance use disorder and found that compounding structural barriers, not just psychological ones, determine who gets access to care."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42811250",
+      "headline": "When mothers are hospitalized for mental health after childbirth, their children face more preventable hospitalizations \u2014 but only in Aboriginal families",
+      "journal": "Archives of Women's Mental Health",
+      "pubdate": "2026 Sep 30",
+      "doi": "10.1007/s00737-026-01774-3",
+      "groundbreaking": "Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used 16 years of linked administrative records from 59,159 children born in Australia's Northern Territory to examine whether maternal mental health hospitalization in the first postnatal year was associated with preventable child hospitalizations between ages 1\u20135. Children of Aboriginal mothers who had a mental health hospitalization faced a 24% higher risk of potentially avoidable hospitalization compared to unexposed peers; no such difference was found for children of non-Aboriginal mothers. The study suggests that structural and cultural factors \u2014 not maternal mental illness alone \u2014 shape the link between postnatal psychiatric crisis and child health outcomes.",
+      "why_it_matters": "The finding highlights that addressing preventable child hospitalizations in Indigenous communities requires culturally grounded maternal mental health support, not just clinical treatment.",
+      "caveats": "observational design, single-center, administrative data (no clinical detail on diagnosis or severity), findings specific to Northern Territory Aboriginal population with limited generalizability, short follow-up relative to child development trajectory",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Large cohort, strong design, but findings tightly bound to one regional Indigenous context.",
+      "pitch_angles": [
+        {
+          "publication_type": "NPR Health / General health",
+          "headline": "A Mother's Psychiatric Crisis After Birth Has Lasting Effects \u2014 But Only for Some Children",
+          "hook": "A 16-year study found that when Aboriginal mothers in Australia were hospitalized for mental illness after childbirth, their young children were significantly more likely to end up in the hospital for preventable conditions \u2014 a pattern that did not appear in non-Aboriginal families.",
+          "pitch_angle": "The disparity points to something beyond maternal mental illness itself: structural inequity, cultural disconnection from care, and systemic gaps in Indigenous health services amplify the downstream effects on children. This reframes postnatal mental health as a child health equity issue, not just a maternal one."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42815065",
+      "headline": "Grandparents may be better than teachers at getting young children to ask questions during storytime",
+      "journal": "Acta Psychologica",
+      "pubdate": "2026 Sep 30",
+      "doi": "10.1016/j.actpsy.2026.107931",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers observed 32 preschool children in rural China during shared book reading sessions with teachers, parents, and grandparents, coding adult questioning and scaffolding strategies alongside children's responses. Although grandparents used fewer questions and simpler language than parents or teachers, children asked significantly more questions with grandparents than in any other pairing. The finding challenges the assumption that more structured adult input produces better early language interactions.",
+      "why_it_matters": "It suggests that the quality of early language development may depend as much on children's active participation as on adult instructional technique \u2014 a reframe with implications for how caregiving roles are valued.",
+      "caveats": "small sample (N<100), observational design, single-center, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic) does not apply \u2014 but narrow to rural China low-resource context with limited generalizability to Western settings",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Developmental/educational finding; narrow rural China sample limits generalizability; no direct mental health angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "Psychology Today",
+          "headline": "Why Kids Ask More Questions With Grandparents Than Teachers",
+          "hook": "Children in a new study asked far more questions during storytime with grandparents than with trained teachers \u2014 even though grandparents used simpler language and fewer prompts.",
+          "pitch_angle": "The study suggests that less structured, warmer conversational dynamics may unlock children's natural curiosity in ways that formal scaffolding does not \u2014 a finding that reframes what 'good' early learning looks like."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42809676",
+      "headline": "A leading theory about how people with aphasia understand language may not hold up",
+      "journal": "Cognitive Neuropsychology",
+      "pubdate": "2026 Sep 29",
+      "doi": "10.1080/02643294.2026.2738945",
+      "groundbreaking": "Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers tested rational adaptation (RA) theory \u2014 which predicts that people with aphasia rely more heavily on world knowledge than language-specific cues when comprehending sentences \u2014 using a visual-world eye-tracking paradigm with participants with aphasia and neurologically healthy controls. Contrary to RA predictions, both groups showed similarly strong reliance on world knowledge and verb constraints, with only a modest processing delay in people with aphasia. The authors suggest impaired cognitive control mechanisms, rather than adaptive weighting of knowledge sources, may better explain language comprehension deficits in aphasia.",
+      "why_it_matters": "Understanding what drives language comprehension failures in aphasia could eventually refine how speech-language therapy targets cognitive versus linguistic deficits \u2014 though this study's findings are preliminary and specific to a clinical population.",
+      "caveats": "small sample (N<100), single-center, highly specialized clinical population, no behavioral outcome beyond eye-tracking",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Aphasia neurolinguistics; limited direct mental health or behavioral science relevance for target audience.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Transmitter",
+          "headline": "A Widely Cited Theory About How Aphasia Changes Language Processing Doesn't Hold Up Under Eye-Tracking",
+          "hook": "People with aphasia may not strategically shift toward world knowledge to compensate for language deficits \u2014 contradicting a prominent cognitive theory.",
+          "pitch_angle": "A visual-world eye-tracking study found that people with aphasia showed the same balance of world knowledge and verb-based processing as healthy controls, just slightly slower \u2014 suggesting impaired cognitive control, not rational adaptation, may underlie their comprehension difficulties. The finding challenges a theory that has shaped both research frameworks and clinical assumptions about aphasia."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42811627",
+      "headline": "Firefighters trained in trauma peer support gain real skills \u2014 but rarely use the formal protocol months later",
+      "journal": "Journal of Traumatic Stress",
+      "pubdate": "2026 Sep 29",
+      "doi": "10.1002/jts.70130",
+      "groundbreaking": "Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers evaluated a 3-day Trauma Risk Management (TRiM) peer support training program with 21 first responders from a fire service department who had prior peer support experience. Participants rated the training as highly relevant and helpful, and showed significant pre-to-post improvements in confidence, risk assessment knowledge, and clarity about professional boundaries (effect sizes d = 0.60\u20131.37). However, at 2- and 6-month follow-ups, formal use of TRiM procedures was minimal, suggesting that training alone does not translate into sustained practice.",
+      "why_it_matters": "The gap between training gains and real-world implementation suggests that peer mental health support programs for first responders need structured follow-up and organizational reinforcement to stick.",
+      "caveats": "small sample (N<100), observational design, single-center, self-reported outcomes, short follow-up, no active control group, WEIRD sample",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Relevant first responder mental health topic; small N and no control group limit strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Psychology Today / Monitor on Psychology",
+          "headline": "Teaching Firefighters to Support Each Other After Trauma Works \u2014 Until It Doesn't",
+          "hook": "Firefighters trained in a structured trauma peer support program came away more confident and knowledgeable, but most stopped using the formal protocol within months.",
+          "pitch_angle": "The study reveals a common implementation failure: mental health training produces real short-term gains in skill and confidence, but without organizational support, those gains don't change behavior on the ground \u2014 a challenge that applies far beyond fire departments."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
       "pmid": "42804809",
-      "headline": "The brain's waste-clearance system may malfunction differently depending on whether schizophrenia starts in adolescence or adulthood",
+      "headline": "Early-onset and adult-onset schizophrenia show opposite patterns in the brain's waste-clearance system",
       "journal": "Schizophrenia Research",
       "pubdate": "2026 Sep 28",
       "doi": "10.1016/j.schres.2026.09.024",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "groundbreaking": "Counterintuitive finding / Major mental health or behavioral implication",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used diffusion tensor imaging (DTI-ALPS), an indirect MRI marker of glymphatic fluid dynamics, to compare 195 first-episode schizophrenia patients (103 early-onset, 92 adult-onset) with 191 matched healthy controls. Adult-onset patients showed significantly lower DTI-ALPS indices \u2014 suggesting reduced glymphatic activity \u2014 compared to both early-onset patients and healthy controls, while early-onset patients did not differ significantly from age-matched controls. Lower right-hemisphere ALPS scores in adult-onset patients were associated with greater hallucination severity.",
-      "why_it_matters": "The finding suggests that early-onset and adult-onset schizophrenia may involve biologically distinct brain processes, which could eventually matter for how these subtypes are studied and understood \u2014 though the glymphatic link remains indirect and requires replication.",
-      "caveats": "observational design, cross-sectional, single-center, purely neuroimaging with no behavioral outcome (hallucination association noted but did not survive all corrections), industry funding [LP reports honoraria from Janssen Canada, Bausch Health, BMS, Otsuka Canada]",
-      "fact_check_note": "The abstract notes cognitive associations did not survive multiple comparison correction; headline and summary reflect only the hallucination-ALPS association, which the abstract does report as significant.",
+      "summary": "Researchers used a diffusion MRI technique (DTI-ALPS) to estimate glymphatic system activity \u2014 the brain's fluid-based waste-clearance network \u2014 in 195 first-episode schizophrenia patients and 191 healthy controls, divided by age of onset. Adult-onset patients showed significantly lower glymphatic markers compared to both older healthy controls and early-onset patients, while early-onset patients did not differ markedly from age-matched controls. In adult-onset patients, lower right-hemisphere glymphatic activity was associated with greater hallucination severity.",
+      "why_it_matters": "The finding suggests that adult-onset and early-onset schizophrenia may involve meaningfully different brain mechanisms, which could eventually inform how researchers think about subtyping and studying the disorder.",
+      "caveats": "observational design, single-center, WEIRD sample (Chinese psychiatric hospital cohort), DTI-ALPS is an indirect proxy measure not a direct glymphatic assay, industry funding [Janssen Canada, Otsuka Canada \u2014 co-author LP], no behavioral outcome beyond symptom correlation",
+      "fact_check_note": "",
       "relevance_score": 6,
-      "relevance_score_reason": "Novel glymphatic angle in schizophrenia subtyping; primarily neuroimaging with limited behavioral outcome.",
+      "relevance_score_reason": "Schizophrenia subtyping finding with hallucination link; neuroimaging-only, single-center Chinese sample.",
       "pitch_angles": [
         {
           "publication_type": "STAT News / The Transmitter",
-          "headline": "The Brain's Waste-Clearance System Looks Different in Adult-Onset vs. Teen-Onset Schizophrenia \u2014 and It May Relate to Hallucinations",
-          "hook": "A neuroimaging study of nearly 400 people finds that adults who developed schizophrenia in adulthood show signs of impaired glymphatic function \u2014 the brain's fluid-based waste-clearance system \u2014 while those whose illness began in adolescence do not.",
-          "pitch_angle": "The findings suggest that early-onset and adult-onset schizophrenia are not simply earlier and later versions of the same disease, but may involve meaningfully different brain biology. If the glymphatic link holds up in larger studies, it could help explain why these groups often respond differently to treatment and why onset age matters so much for long-term outcomes."
+          "headline": "The brain's waste system may work differently depending on when schizophrenia begins",
+          "hook": "A new neuroimaging study finds that adults who develop schizophrenia later in life show more disrupted glymphatic activity than those whose illness began in childhood \u2014 and the disruption is tied to hallucination severity.",
+          "pitch_angle": "The study adds to emerging evidence that the glymphatic system \u2014 the brain's fluid-based waste clearance network \u2014 may play a role in psychosis, and suggests that adult-onset schizophrenia is not simply a delayed version of the early-onset form but may involve distinct pathophysiology. If replicated, this could reshape how researchers design studies and classify schizophrenia subtypes."
+        },
+        {
+          "publication_type": "Scientific American / Monitor on Psychology",
+          "headline": "Schizophrenia isn't one disorder \u2014 and a brain-waste-clearance study may show why",
+          "hook": "Researchers studying the brain's recently discovered waste-clearance system found that adults who develop schizophrenia show a very different biological profile than people whose symptoms began in childhood or adolescence.",
+          "pitch_angle": "The finding supports a growing push in psychiatry to treat schizophrenia as a heterogeneous group of conditions rather than a single disease, and raises questions about whether hallucinations in adult-onset patients may be linked to a distinct fluid-dynamics problem in the brain."
         }
       ],
-      "run_date": "2026-09-29",
+      "run_date": "2026-10-01",
       "category": "Psychiatry",
       "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42805779",
+      "headline": "China manufactures over 90% of the world's e-cigarettes \u2014 and its companies are outpacing global regulators",
+      "journal": "Tobacco Control",
+      "pubdate": "2026 Sep 28",
+      "doi": "10.1136/tc-2026-060270",
+      "groundbreaking": "Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using a tobacco industry globalization framework, researchers analyzed publicly available industry reports, government documents, and corporate records to map how China's e-cigarette sector dominates global markets. China produces over 90% of the world's e-cigarettes \u2014 including products sold under major Western brands \u2014 and Chinese firms operate under a fast-moving consumer goods model characterized by rapid product turnover and extensive flavor variation that outpaces regulatory frameworks designed for traditional cigarettes. Domestic Chinese regulations enacted in 2022 appear to have accelerated global expansion rather than curtailing it.",
+      "why_it_matters": "Understanding how Chinese e-cigarette manufacturers structurally evade regulation is essential context for public health advocates and policymakers trying to address vaping's impact on youth mental and physical health.",
+      "caveats": "observational design, no primary data collection, relies on publicly available documents, potential conflicts (expert witness disclosures noted)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Tobacco policy focus; limited direct mental health or behavioral science relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "STAT News",
+          "headline": "The Global Vaping Market Is Essentially a Chinese Export Story \u2014 and Regulators Are Losing",
+          "hook": "More than nine in ten e-cigarettes sold worldwide are made in China, and the companies making them have learned to evolve faster than any government can regulate them.",
+          "pitch_angle": "A new analysis finds that Chinese e-cigarette firms use a fast-moving consumer goods model \u2014 rapid flavors, rapid redesigns, rapid market pivots \u2014 that renders traditional tobacco control frameworks obsolete. With products flooding more than 160 countries, the authors argue that effective regulation requires coordinated, supply-side approaches that target manufacturing and cross-border trade, not just point-of-sale restrictions."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42788798",
+      "headline": "The most widely used tool to assess sexual behavior problems in youth may be fundamentally flawed",
+      "journal": "Journal of Child Sexual Abuse",
+      "pubdate": "2026 Sep 25",
+      "doi": "10.1080/10538712.2026.2736208",
+      "groundbreaking": "Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers applied exploratory factor analysis to the Adolescent Clinical Sexual Behavior Inventory (ACSBI) using data from 236 male youth referred by juvenile courts for treatment of problematic sexual behavior. The analysis revealed significant structural and conceptual shortcomings in the measure, suggesting it may not validly capture the constructs it claims to assess in this clinical population. The authors call for development of psychometrically stronger, developmentally sensitive tools to assess problematic sexual behavior in youth.",
+      "why_it_matters": "If the most commonly used assessment tool for youth with problematic sexual behavior is structurally flawed, treatment decisions and research findings built on that tool may be unreliable.",
+      "caveats": "single-center, small sample (N<100 is not applicable here \u2014 N=236 but single site), male-only sample, observational design, secondary analysis, WEIRD sample",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Niche clinical/forensic topic; limited public audience; methodological commentary.",
+      "pitch_angles": [
+        {
+          "publication_type": "Monitor on Psychology",
+          "headline": "The Go-To Tool for Assessing Sexual Behavior Problems in Youth Has a Measurement Problem",
+          "hook": "A widely used clinical inventory for youth with problematic sexual behavior may not be measuring what researchers and clinicians think it is.",
+          "pitch_angle": "An analysis of 236 court-referred youth found the Adolescent Clinical Sexual Behavior Inventory has structural flaws that call its validity into question. This matters because treatment decisions and juvenile justice outcomes may hinge on a tool that the field hasn't adequately scrutinized."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42790730",
+      "headline": "Two common drugs already in use may quietly dampen a key serotonin receptor \u2014 and no one noticed until now",
+      "journal": "Neuropharmacology",
+      "pubdate": "2026 Sep 25",
+      "doi": "10.1016/j.neuropharm.2026.111196",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers applied a drug-repositioning strategy to screen existing medications against the human 5-HT3A serotonin receptor, a channel implicated in psychiatric, neurological, and gastrointestinal disorders. Using electrophysiology and computational modeling, they found that piperazine (an antiparasitic) and hydroxyzine (a widely used anti-anxiety and antihistamine drug) act as previously unrecognized negative allosteric modulators of this receptor, binding at two distinct sites on the protein. The findings suggest these drugs may be quietly influencing serotonin signaling in patients already taking them, and could potentially be repurposed or serve as templates for new 5-HT3-targeting therapies.",
+      "why_it_matters": "Hydroxyzine is prescribed to millions of people for anxiety and insomnia, and the discovery that it also modulates a serotonin receptor linked to psychiatric conditions could open new questions about its mechanisms and therapeutic potential.",
+      "caveats": "animal or cell study, no active control group",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Mechanistic ion-channel study; no human behavioral or clinical outcomes; indirect psychiatric relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "STAT News",
+          "headline": "A common anti-anxiety drug may be doing more than we thought \u2014 by hitting a serotonin receptor, too",
+          "hook": "Hydroxyzine, prescribed to millions for anxiety and sleep, turns out to quietly suppress a serotonin receptor no one knew it touched.",
+          "pitch_angle": "New lab research finds hydroxyzine and piperazine act as unrecognized modulators of the 5-HT3A serotonin receptor, suggesting these drugs may already be influencing serotonin signaling in patients. The finding raises new questions about how these medications work and whether they could be repurposed for psychiatric or gastrointestinal conditions."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Neurology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42786262",
+      "headline": "Psychiatrists may be missing a treatable immune condition hiding behind schizophrenia and depression diagnoses",
+      "journal": "Molecular Psychiatry",
+      "pubdate": "2026 Sep 25",
+      "doi": "10.1038/s41380-026-03871-2",
+      "groundbreaking": "Major mental health or behavioral implication / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "An expert network of German psychiatrists and neurologists (the GENERATE network) developed clinical recommendations for diagnosing autoimmune encephalitis in psychiatric settings, where the condition is frequently misidentified as primary psychiatric illness such as schizophrenia or severe depression. The consensus paper identifies unresolved diagnostic challenges \u2014 including uncertain antibody test interpretation and atypical presentations \u2014 and outlines a stepwise clinical approach. Autoimmune encephalitis is potentially treatable with immunotherapy, making early and accurate diagnosis in psychiatric patients clinically significant.",
+      "why_it_matters": "Some patients currently living with a psychiatric diagnosis may actually have an immune-driven brain condition that responds to very different treatment \u2014 and better diagnostic guidance could help identify them.",
+      "caveats": "consensus/expert opinion (not primary data), single-country network (Germany), no patient cohort reported",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Clinically significant diagnostic gap; psychosis/depression relevance; expert consensus limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "STAT News",
+          "headline": "Some 'Psychiatric' Patients May Actually Have an Immune Disease \u2014 and a Network of Experts Is Trying to Help Clinicians Spot It",
+          "hook": "Autoimmune encephalitis can look nearly identical to schizophrenia or severe depression \u2014 and without the right tests and clinical suspicion, it's routinely missed.",
+          "pitch_angle": "A large German clinical network has published the first consensus recommendations for diagnosing autoimmune encephalitis within psychiatric settings, where the condition is disproportionately overlooked. Because autoimmune encephalitis is treatable with immunotherapy, identifying it accurately in patients currently carrying psychiatric diagnoses could be life-changing \u2014 and the new guidelines detail the unresolved challenges that still make that diagnosis difficult."
+        },
+        {
+          "publication_type": "The Atlantic",
+          "headline": "What If Your 'Mental Illness' Is Actually Your Immune System Attacking Your Brain?",
+          "hook": "For a subset of patients diagnosed with schizophrenia or severe depression, the real culprit may be an antibody \u2014 and the psychiatric system is not set up to find it.",
+          "pitch_angle": "Autoimmune encephalitis, a condition in which the immune system attacks brain tissue, can produce psychiatric symptoms so closely resembling primary mental illness that it goes undetected for years. A new expert consensus from one of Europe's largest psychiatric-neurological networks offers guidance on how to close that diagnostic gap \u2014 and acknowledges how many questions remain unanswered."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42788222",
+      "headline": "A digital platform designed for first-episode psychosis caregivers reduced their loneliness and distress \u2014 but evidence is still early",
+      "journal": "Journal of Mental Health",
+      "pubdate": "2026 Sep 25",
+      "doi": "10.1080/09638237.2026.2732880",
+      "groundbreaking": "First-in-class human study / Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a 6-month feasibility trial of Altitudes USA, a blended digital intervention combining psychoeducation, therapy content, and social networking, with caregivers of individuals experiencing first-episode psychosis (FEP). The study assessed feasibility, acceptability, and exploratory outcomes including distress, loneliness, self-compassion, and caregiving experience. Caregivers reported high acceptability and retention, along with reductions in distress and loneliness and increases in self-compassion and positive caregiving experiences \u2014 though all effects had wide confidence intervals.",
+      "why_it_matters": "Caregivers of people with first-episode psychosis are a largely underserved group; early evidence that a digital platform can reduce their loneliness and distress suggests scalable support may be feasible \u2014 but a controlled trial is needed before drawing firm conclusions.",
+      "caveats": "small sample (N<100), no active control group, short follow-up, self-reported outcomes, wide confidence intervals, pre-registered feasibility trial only",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "First-episode psychosis caregivers, loneliness, digital mental health \u2014 fits journalist's saved interest in FEP and caregiver support.",
+      "pitch_angles": [
+        {
+          "publication_type": "Psychology Today",
+          "headline": "Caring for Someone With Psychosis Is Isolating. A New App May Help \u2014 a Little.",
+          "hook": "Family members caring for someone after a first psychotic episode are often forgotten by the mental health system \u2014 and a small new study suggests a digital platform designed just for them may ease their loneliness and distress.",
+          "pitch_angle": "A 6-month feasibility trial of a blended digital intervention found that first-episode psychosis caregivers who used the platform reported lower distress, reduced loneliness, and more positive caregiving experiences. The findings are preliminary, but they point to an underserved group who may benefit from technology-delivered support between \u2014 or instead of \u2014 in-person services."
+        },
+        {
+          "publication_type": "HuffPost Health",
+          "headline": "The Hidden Mental Health Crisis in Families Dealing With Psychosis",
+          "hook": "When a family member experiences a first psychotic episode, everyone focuses on the patient \u2014 but a new study shows the caregivers are struggling too, and a digital tool may offer some relief.",
+          "pitch_angle": "Early data from a 6-month trial of the Altitudes digital platform found that caregivers of people with first-episode psychosis experienced meaningful reductions in loneliness and distress after using a platform combining therapy content and peer social networking. Researchers say caregivers' own mental health needs have long been neglected, and digital tools may offer a scalable first step."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42790401",
+      "headline": "A landmark court ruling may have created a logical impossibility in psychiatric law: delusions could make consent to treatment both required and impossible",
+      "journal": "International Journal of Law and Psychiatry",
+      "pubdate": "2026 Sep 25",
+      "doi": "10.1016/j.ijlp.2026.102286",
+      "groundbreaking": "Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This legal-psychiatric analysis revisits Canada's Supreme Court ruling in Starson v. Swayze, the definitive authority on treatment capacity for people with psychosis. The authors argue that the Court's interpretation of the 'appreciation' standard creates a logical paradox: under current law, delusions may simultaneously undermine and preserve a patient's legal capacity to refuse treatment. The piece calls for policy reform relevant to psychiatry and law in Canada and internationally.",
+      "why_it_matters": "The argument suggests current legal frameworks for psychiatric consent may be structurally flawed in ways that could affect how patients with psychosis are treated against \u2014 or in accordance with \u2014 their wishes.",
+      "caveats": "observational design, single-center, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic), no empirical data \u2014 legal-theoretical analysis only",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Legally specific to Canada; theoretical analysis with no empirical data or sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "Monitor on Psychology",
+          "headline": "The Legal Paradox That Could Trap Patients With Psychosis in an Impossible Catch-22",
+          "hook": "A Canadian Supreme Court ruling intended to protect psychiatric patients may have accidentally made it logically impossible to override their refusal of treatment \u2014 even when delusions are driving that refusal.",
+          "pitch_angle": "Psychiatrists and legal scholars are flagging a deep flaw in how the law defines capacity to consent when someone is actively delusional; the analysis has implications for capacity law well beyond Canada's borders."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42785918",
+      "headline": "A new scale captures what existing PTSD tools miss: the racing heart and night sweats that follow trauma",
+      "journal": "Journal of Sleep Research",
+      "pubdate": "2026 Sep 24",
+      "doi": "10.1111/jsr.70439",
+      "groundbreaking": "First-in-class human study / Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers developed and validated an 11-item self-report tool \u2014 the STARSS Scale \u2014 designed to measure trauma-related sleep disturbances that include not just nightmares but also autonomic symptoms like palpitations and sweating, which existing measures largely overlook. The scale was validated in a sample of 830 healthcare workers and first responders who worked during the COVID-19 pandemic. STARSS scores correlated strongly with established measures of PTSD (r=0.76), anxiety (r=0.65), depression (r=0.63), and insomnia (r=0.56), and showed strong internal consistency.",
+      "why_it_matters": "Because autonomic symptoms like night sweats and racing heart are common after trauma but largely invisible in current assessment tools, STARSS may help researchers and clinicians better characterize the full burden of trauma-related sleep disruption \u2014 and track whether treatments are actually working.",
+      "caveats": "observational design, self-reported outcomes, single occupational sample (healthcare workers/first responders), short follow-up, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic), no active control group",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "PTSD and sleep high-prevalence relevance; solid N; occupational sample limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "STAT News / Monitor on Psychology",
+          "headline": "PTSD Sleep Measures Are Missing a Key Symptom \u2014 A New Scale Is Trying to Fix That",
+          "hook": "The racing heart, drenching sweats, and physical thrashing that often accompany trauma nightmares are barely captured by the tools clinicians and researchers currently use.",
+          "pitch_angle": "Validated in 830 pandemic-era healthcare workers and first responders, the STARSS Scale adds a largely neglected dimension \u2014 autonomic dysregulation \u2014 to the assessment of trauma-related sleep disruption, correlating strongly with PTSD, anxiety, and depression scores. If adopted in research settings, it could help scientists better understand why sleep problems often outlast other PTSD symptoms and whether specific treatments are addressing the full picture."
+        },
+        {
+          "publication_type": "NPR Health / Verywell Mind",
+          "headline": "For Trauma Survivors, Nightmares Are Only Part of the Problem. A New Tool Finally Measures the Rest.",
+          "hook": "Waking up drenched in sweat with a pounding heart after a nightmare is a familiar experience for many trauma survivors \u2014 but until now, there's been no standard way to measure it.",
+          "pitch_angle": "A new self-report scale developed at the University of Washington captures the autonomic symptoms \u2014 palpitations, sweating, excessive movement during sleep \u2014 that standard PTSD questionnaires overlook, and it correlates strongly with overall PTSD severity. For the millions of people whose sleep disruption persists long after other trauma symptoms fade, better measurement is a first step toward understanding why."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Neurology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42786065",
+      "headline": "The brain's internal map system may be the engine behind imagination and abstract thought",
+      "journal": "Trends in Cognitive Sciences",
+      "pubdate": "2026 Sep 24",
+      "doi": "10.1016/j.tics.2026.09.002",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This theoretical review by a single researcher proposes that hippocampal place cells \u2014 best known for spatial navigation \u2014 may also scaffold the generation of entirely new mental states by indexing relational structures in the cortex. The paper argues that hippocampal-cortical indexing could explain how the brain constructs novel ideas and abstract concepts from prior experience. No new empirical data are presented; the piece synthesizes existing neuroscience literature into a new theoretical framework.",
+      "why_it_matters": "Understanding how the brain generates novel thought could eventually illuminate why imagination and abstract reasoning break down in conditions like depression, PTSD, and dementia.",
+      "caveats": "No empirical data \u2014 theoretical/review paper, single author, no active control group",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Interesting neuroscience theory; no new data, no behavioral or clinical outcome measured.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Transmitter",
+          "headline": "Could the brain's place cells be the source of imagination itself?",
+          "hook": "A new theoretical framework proposes that hippocampal place cells \u2014 the neurons that map physical space \u2014 may also be responsible for generating novel abstract thoughts.",
+          "pitch_angle": "The hypothesis reframes a well-known navigation circuit as a general engine for creativity and abstraction, with potential implications for understanding how imaginative thinking breaks down in neurological and psychiatric conditions."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42557604",
+      "headline": "Suicide surveillance data may be giving us a false picture \u2014 a statistical illusion is hiding real trends",
+      "journal": "Psychiatric Services",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1176/appi.ps.20240228",
+      "groundbreaking": "Counterintuitive finding / Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This commentary from VA suicide prevention researchers argues that aggregating suicide surveillance data across demographic groups can produce misleading conclusions due to Simpson's Paradox \u2014 a statistical phenomenon where trends in combined data reverse or disappear when groups are examined separately. The authors draw on Veterans Affairs data contexts to illustrate how population-level suicide trends can obscure divergent and more alarming patterns within specific subgroups. They argue that disaggregated surveillance is essential for accurate public health monitoring and targeted intervention.",
+      "why_it_matters": "If suicide trend data are routinely misread due to statistical aggregation errors, public health responses may be misdirected away from the subpopulations at greatest risk.",
+      "caveats": "commentary (not primary research), no new data presented, single-center (VA context)",
+      "fact_check_note": "No primary study data to verify; commentary format confirmed from abstract.",
+      "relevance_score": 6,
+      "relevance_score_reason": "High-stakes public health implication; counterintuitive statistical finding; commentary limits scoring.",
+      "pitch_angles": [
+        {
+          "publication_type": "STAT News",
+          "headline": "A Classic Statistical Trap May Be Distorting What We Know About Suicide Trends",
+          "hook": "The suicide data we rely on to shape national policy may be giving us a fundamentally misleading picture \u2014 and a well-known statistical paradox is why.",
+          "pitch_angle": "VA researchers warn that aggregating suicide surveillance data across demographic groups can cause Simpson's Paradox to kick in, making overall trends look stable or improving even when specific subgroups face worsening risk. The fix \u2014 disaggregating data by race, age, and other factors \u2014 sounds simple but is rarely standard practice in national suicide monitoring."
+        },
+        {
+          "publication_type": "The Atlantic",
+          "headline": "We May Be Reading Suicide Statistics All Wrong",
+          "hook": "A suicide rate that looks flat or declining nationally can mask a crisis unfolding inside specific communities \u2014 and a quirk of statistics is the reason we keep missing it.",
+          "pitch_angle": "Researchers from the VA's suicide prevention office are raising alarms about how population-level surveillance obscures divergent and sometimes worsening trends in subgroups, a problem driven by Simpson's Paradox. It's a methodological argument with high stakes: the groups most at risk may be the ones being overlooked by the very data systems designed to find them."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42415253",
+      "headline": "Brain implants for psychiatric disorders raise a question medicine hasn't answered: who are you when a device shapes your mind?",
+      "journal": "American Journal of Psychiatry",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1176/appi.ajp.20251187",
+      "groundbreaking": "Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This perspective piece in the American Journal of Psychiatry (no original empirical data) examines the concept of 'human fidelity' \u2014 the degree to which implantable neuromodulation devices preserve or alter a patient's authentic sense of self \u2014 and the implementation challenges of deploying such devices in psychiatric care. Authors from Massachusetts General Hospital and Harvard Medical School explore how psychiatric applications differ from neurological ones because they directly target mood, identity, and behavior. The piece outlines ethical and practical barriers including informed consent, device dependence, and identity continuity.",
+      "why_it_matters": "As brain stimulation devices move closer to psychiatric use for conditions like treatment-resistant depression, the field urgently needs frameworks for what it means to change someone's mind with implanted hardware.",
+      "caveats": "no original data, review/perspective article, no active control group",
+      "fact_check_note": "Abstract provided is minimal; summary based on available title, author affiliations, and journal context. No empirical claims to verify.",
+      "relevance_score": 6,
+      "relevance_score_reason": "High-stakes psychiatric ethics angle; perspective piece with no original data limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "If a Brain Implant Lifts Your Depression, Are You Still You?",
+          "hook": "As implantable neuromodulation devices edge toward psychiatric use, Harvard researchers are asking a question that cuts to the core of identity: what happens to the self when a device shapes the mind?",
+          "pitch_angle": "Unlike devices that restore movement or suppress seizures, psychiatric brain implants directly alter mood, motivation, and personality \u2014 raising profound questions about authenticity, consent, and what it means to be changed by a machine. A new analysis in the American Journal of Psychiatry argues the field needs an ethical framework before the technology outpaces our ability to grapple with it."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42128227",
+      "headline": "Making people curious about anything \u2014 even unsolvable riddles \u2014 nudges them to eat insects",
+      "journal": "Appetite",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1016/j.appet.2026.108587",
+      "groundbreaking": "Counterintuitive finding / Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers ran a 2\u00d72 between-subjects experiment (N=210) in which participants attempted unsolvable riddles before sampling either cricket-flour or corn-flour nachos. Those whose curiosity was left unsatisfied \u2014 the riddle answer withheld \u2014 reported higher state curiosity and subsequently ate more of the insect-based snack, mediated by that elevated curiosity state. Food neophobia attenuated the effect, and exploratory analyses suggested the pathway was stronger in men than women.",
+      "why_it_matters": "The finding suggests that curiosity, triggered by entirely unrelated stimuli, may function as a transferable psychological lever that could inform how health communicators or food-system advocates reduce psychological barriers to novel, more sustainable foods.",
+      "caveats": "small sample (N<100 per cell), WEIRD sample (Western, Educated, Industrialized, Rich, Democratic), single-center, observational design for some exploratory claims, sex differences exploratory not pre-registered",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Interesting behavior science but peripheral to mental health; food psychology niche.",
+      "pitch_angles": [
+        {
+          "publication_type": "Psychology Today",
+          "headline": "The Curiosity Trick That Gets People to Eat Bugs",
+          "hook": "Leaving someone's curiosity unsatisfied \u2014 even with a puzzle that has nothing to do with food \u2014 made them eat significantly more cricket-flour snacks in a new experiment.",
+          "pitch_angle": "The study reveals that curiosity functions as a generalizable reward-seeking state that transfers across unrelated domains, lowering psychological barriers like disgust and food neophobia. For behavior-change practitioners, it raises the intriguing possibility that priming curiosity before any aversive or novel experience might make people more open to trying it."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Behavioral Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "41547388",
+      "headline": "A baby's brain response to unexpected sounds at 9 months may predict anxiety risk in the teen years",
+      "journal": "Biological Psychiatry",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1016/j.biopsych.2025.12.010",
+      "groundbreaking": "First-in-class human study / Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers followed 291 children from infancy through adolescence, measuring brain activity (EEG) at 9 and 36 months during an auditory task designed to capture neural responses to unexpected sounds. They found that infants with a stronger neural mismatch response at 9 months \u2014 a marker of heightened sensitivity to surprising stimuli \u2014 were more likely to develop anxiety by age 13, particularly when they already showed early temperamental risk factors like negative reactivity and behavioral inhibition. The association was specific to anxiety and did not extend to attention problems or externalizing behaviors.",
+      "why_it_matters": "Early neural markers measured in infancy may one day help identify which temperamentally anxious children are on a trajectory toward clinical anxiety disorders \u2014 long before symptoms emerge.",
+      "caveats": "observational design, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic), self-reported outcomes (partially), long follow-up with attrition risk",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Longitudinal human study linking infant neuroscience to adolescent anxiety; clean design, high-prevalence condition.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "Your Baby's Brain Is Already Measuring Uncertainty \u2014 and That May Shape Their Mental Health for Years",
+          "hook": "A simple EEG test given to 9-month-old infants can detect a neural signature that predicts whether they'll develop anxiety as teenagers \u2014 even before they can walk or talk.",
+          "pitch_angle": "New longitudinal research suggests that how infant brains respond to surprise \u2014 not just how fussy or shy babies seem \u2014 may be a more precise early indicator of anxiety risk, raising new questions about when and how intervention could matter most."
+        },
+        {
+          "publication_type": "Scientific American",
+          "headline": "Infant Brain Waves May Forecast Adolescent Anxiety \u2014 Years Before Symptoms Appear",
+          "hook": "EEG recordings from babies as young as nine months reveal a neural response to unexpected sounds that predicts anxiety risk in the teen years, independent of behavioral temperament alone.",
+          "pitch_angle": "The study disentangles neural from behavioral markers of anxiety risk in early development, suggesting that predictive biomarkers for anxiety may be detectable in the first year of life and could help clarify why some high-risk children develop anxiety while others do not."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42667920",
+      "headline": "Bilingual kids' brains track their heritage language just as richly as their dominant one",
+      "journal": "Brain and Language",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.bandl.2026.105833",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used fNIRS neuroimaging and a computational measure of word predictability to study how 88 Spanish-English bilingual children (ages 7\u201312) processed naturalistic stories in their heritage language of Spanish. Children's brains successfully tracked word predictability in Spanish, suggesting they form robust linguistic representations even in their less-dominant language. Trends suggested that reading and listening skills in both languages modestly modulated this neural tracking, though no effects were statistically reliable.",
+      "why_it_matters": "The findings suggest bilingual children maintain richer neural engagement with their heritage language than previously recognized, which has implications for how educators and clinicians assess language development in bilingual youth.",
+      "caveats": "small sample (N<100), observational design, single-center, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic), purely neuroimaging with limited behavioral outcome clarity",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Language neuroscience, child development; limited direct mental health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Scientific American / The Transmitter",
+          "headline": "Bilingual Kids' Heritage-Language Brains Are More Active Than We Thought",
+          "hook": "Even when children rarely use their family's native language, their brains are quietly building sophisticated predictive machinery for it.",
+          "pitch_angle": "Using a novel computational neuroimaging approach, researchers found that Spanish-English bilingual children show strong neural tracking of word predictability in Spanish \u2014 their heritage language \u2014 suggesting deeper linguistic processing than behavioral tests alone might reveal. This challenges assumptions that limited exposure to a heritage language produces only shallow neural representations, with implications for how schools and clinicians support bilingual children's cognitive and language development."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Neurology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42537444",
+      "headline": "Early psychosis programs work \u2014 but who gets the best care still depends on social status and citizenship",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.schres.2026.07.017",
+      "groundbreaking": "Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers evaluated a multicomponent early intervention program for first-episode psychosis in Italy's Emilia-Romagna region, following 1,085 patients aged 18\u201335 over a mean of 2.5 years. The program was associated with significant clinical improvement, with the largest gains in the first six months; more than 36 CBT/psychoeducation sessions were linked to nearly double the odds of remission. However, being single, having lower education, or holding foreign citizenship was associated with worse outcomes \u2014 revealing equity gaps even within a structured program.",
+      "why_it_matters": "Even well-designed early psychosis programs may leave behind the most socially marginalized patients, suggesting that equity-focused adaptations are essential to close outcome gaps.",
+      "caveats": "observational design, single-center (regional), non-US/non-global sample (Italy), self-reported outcomes partially, no active control group",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large real-world cohort, high-prevalence condition, equity finding adds counterintuitive layer.",
+      "pitch_angles": [
+        {
+          "publication_type": "STAT News",
+          "headline": "Italy's Early Psychosis Program Shows Real-World Promise \u2014 but Citizenship and Education Still Predict Who Gets Better",
+          "hook": "A large Italian study found that a structured early intervention program for first-episode psychosis improved outcomes across the board \u2014 yet social disparities persisted even inside the program.",
+          "pitch_angle": "Among 1,085 young adults in Emilia-Romagna, more intensive CBT and psychoeducation was associated with nearly twice the odds of remission, but foreign citizens, people with lower education, and single individuals fared significantly worse. The findings suggest that program efficacy and program equity are separate problems \u2014 and both need to be solved."
+        },
+        {
+          "publication_type": "Psychology Today",
+          "headline": "Getting Help Early for Psychosis Matters \u2014 But So Does Who You Are",
+          "hook": "A real-world study of over 1,000 young people with first-episode psychosis found that early, intensive treatment works \u2014 but social disadvantage blunts its benefits.",
+          "pitch_angle": "The research found that patients who received more than 36 sessions of CBT or psychoeducation had significantly higher odds of remission, yet those without a partner, with less education, or without citizenship saw smaller gains. The finding underscores that effective mental health care must account for the social conditions people live in, not just the treatments they receive."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42533557",
+      "headline": "Video game balance training may slow a key Alzheimer's biomarker in people with early memory loss",
+      "journal": "Games for Health Journal",
+      "pubdate": "2026 Oct",
+      "doi": "10.1177/2161783X261461636",
+      "groundbreaking": "First-in-class human study / Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers randomly assigned 97 adults with mild cognitive impairment (MCI) to one of four exergame balance training groups varying in cognitive-motor difficulty, or to a Wii Fit control, for 8 weeks. Higher-difficulty exergame training was associated with increased serum BDNF and reduced p-tau181 \u2014 a phosphorylated tau protein linked to Alzheimer's disease progression \u2014 compared to the control group. Cognitive improvements in attention, abstraction, and visuospatial skills were also observed, with greater effects at moderate and high difficulty levels.",
+      "why_it_matters": "The finding that a non-pharmacological, game-based intervention may shift biological markers associated with Alzheimer's risk in people already showing early cognitive decline could open new avenues for accessible, low-cost preventive approaches.",
+      "caveats": "small sample (N<100), single-center, short follow-up, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic), self-reported outcomes not specified but biomarkers objective",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "MCI/dementia prevention angle, RCT design, biomarker outcomes; limited by small N and single-center.",
+      "pitch_angles": [
+        {
+          "publication_type": "STAT News",
+          "headline": "A video game workout may reduce a key Alzheimer's blood marker in people with mild cognitive impairment",
+          "hook": "A randomized trial found that progressively harder balance-focused exergames were associated with lower p-tau181 \u2014 a blood biomarker tied to Alzheimer's pathology \u2014 in adults already showing early memory decline.",
+          "pitch_angle": "The study tests whether cognitive-motor challenge intensity matters, finding greater neurobiological shifts at higher difficulty levels. If replicated in larger trials, this could inform the design of scalable, low-cost digital interventions for a growing MCI population."
+        },
+        {
+          "publication_type": "Everyday Health",
+          "headline": "Playing balance video games could help protect your brain from early Alzheimer's changes, small study suggests",
+          "hook": "Adults with mild memory problems who played cognitively demanding balance video games showed lower levels of a protein linked to Alzheimer's disease after just eight weeks.",
+          "pitch_angle": "The randomized trial suggests that the mental challenge level of the game \u2014 not just physical movement \u2014 may drive the brain benefits, hinting that harder is better when it comes to exercise-based cognitive protection."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42507372",
+      "headline": "A decade of unpublished experiments rewrites what we know about how the brain names what it sees",
+      "journal": "Journal of Experimental Psychology: Human Perception and Performance",
+      "pubdate": "2026 Oct",
+      "doi": "10.1037/xhp0001443",
+      "groundbreaking": "Overturns prior research / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a meta-analysis of published picture-picture interference studies \u2014 which test how visual distractors affect word production \u2014 and found the estimated semantic interference effect was near zero (2 ms). However, 14 previously unpublished experiments from the same lab, released here as a file-drawer disclosure, showed a consistent 15 ms interference effect, and when combined with published data the pooled estimate was 9 ms. The findings suggest that publication bias has substantially underestimated how much semantically related images slow the brain's ability to name pictures.",
+      "why_it_matters": "The study is a rare real-world demonstration of how publication bias distorts the scientific record in cognitive psychology, with implications for how language and naming deficits \u2014 relevant to aphasia, dementia, and autism \u2014 are studied and modeled.",
+      "caveats": "secondary analysis, laboratory experiment, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic), effect sizes are small (milliseconds)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Compelling publication-bias angle; indirect mental health relevance, small effect sizes.",
+      "pitch_angles": [
+        {
+          "publication_type": "Scientific American",
+          "headline": "A lab opened its file drawer and found the field had been wrong about how the brain handles words and images",
+          "hook": "Fourteen unpublished experiments, released all at once, flipped the scientific consensus on whether seeing a related image slows your brain's ability to name a picture \u2014 turning a near-zero published effect into a robust one.",
+          "pitch_angle": "The study is a vivid case study in how file-drawer bias quietly corrupts cognitive science's foundational models, and it raises questions about how many other 'null' findings in language and perception research are waiting in lab hard drives."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42424747",
+      "headline": "A digital game platform can reliably track cognitive decline \u2014 and may catch early Alzheimer's symptoms at home",
+      "journal": "The Journal of Prevention of Alzheimer's Disease",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.tjpad.2026.100642",
+      "groundbreaking": "First-in-class human study / Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at Massachusetts General Hospital tested the MIND GamePack\u00a9, a digital game platform designed to monitor cognition over time, in 60 participants across two cohorts \u2014 one cognitively healthy, one with subjective complaints, mild cognitive impairment, or mild dementia \u2014 over 3\u20136 months. The platform showed high compliance, excellent test-retest reliability (ICC=0.81\u20130.95), and moderate-to-strong correlations with validated neuropsychological tests including the MoCA and RBANS. Cognitively healthy participants improved on game features over 3 months while impaired participants did not, and baseline scores distinguished the two groups across nearly all cognitive domains.",
+      "why_it_matters": "Easy-to-use digital games that reliably track cognitive change at home could expand access to early Alzheimer's screening and enable denser monitoring between clinical visits.",
+      "caveats": "small sample (N<100), single-center, short follow-up, industry funding [AbbVie], WEIRD sample (Western, Educated, Industrialized, Rich, Democratic)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Promising cognitive-health digital tool; small N and industry funding limit confidence.",
+      "pitch_angles": [
+        {
+          "publication_type": "Everyday Health / Verywell Mind",
+          "headline": "Could Playing Digital Games at Home Help Detect Early Alzheimer's?",
+          "hook": "A smartphone-based game platform distinguished people with early cognitive impairment from healthy adults across nearly every cognitive domain tested.",
+          "pitch_angle": "A small but carefully designed study suggests digital games could serve as a sensitive, low-burden way to monitor brain health over time \u2014 potentially flagging early Alzheimer's changes long before a clinic visit. With cognitive screening notoriously underused, accessible tools like this could matter for the millions of older adults at risk."
+        },
+        {
+          "publication_type": "STAT News",
+          "headline": "Digital Game Platform Shows Early Promise as Home-Based Alzheimer's Biomarker Tool",
+          "hook": "A game-based digital health platform correlated strongly with gold-standard neuropsychological tests and reliably separated cognitively impaired from healthy participants in a feasibility trial.",
+          "pitch_angle": "The MIND GamePack\u00a9 study, conducted by MGH researchers with partial AbbVie funding, represents early feasibility data for passive, longitudinal cognitive monitoring \u2014 a growing priority as the Alzheimer's drug pipeline expands and trial enrollment demands more scalable screening. The industry ties and tiny sample size warrant scrutiny, but the test-retest reliability numbers are unusually strong for a digital biomarker at this stage."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Neurology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42413308",
+      "headline": "Long-acting antipsychotic injections are dramatically underused in Japan's first-episode schizophrenia patients \u2014 even after a hospitalization",
+      "journal": "Schizophrenia Research",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.schres.2026.07.004",
+      "groundbreaking": "Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using a Japanese insurance claims database spanning 2005\u20132024, researchers analyzed long-acting injectable (LAI) antipsychotic initiation patterns among 24,226 patients approximating first-episode schizophrenia. Only 1.8% of patients received at least one LAI dispensing over a median follow-up of 30 months, and the annual rate never exceeded 2% across the nearly two-decade study period. Among those who did switch from oral to injectable treatment, more than a quarter had been hospitalized in the preceding year \u2014 suggesting LAIs are reaching patients late, if at all.",
+      "why_it_matters": "LAIs are designed to improve treatment continuity in schizophrenia, yet even among newly diagnosed patients with documented adherence struggles, uptake remains strikingly low \u2014 a pattern with implications for relapse prevention globally.",
+      "caveats": "observational design, single-country (Japan), claims-based proxy diagnosis, industry funding [AbbVie G.K. \u2014 co-author employed], WEIRD sample (Japanese insured population), no active control group",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Large cohort, schizophrenia treatment relevance; Japan-specific, industry tie, journalist passed on similar LAI angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "STAT News",
+          "headline": "In Japan, Fewer Than 2% of First-Episode Schizophrenia Patients Ever Get the Long-Acting Shots Designed to Keep Them Well",
+          "hook": "A 19-year analysis of Japanese insurance claims found that long-acting injectable antipsychotics \u2014 widely recommended to improve treatment adherence in schizophrenia \u2014 are rarely used even when patients have already been hospitalized.",
+          "pitch_angle": "Among more than 24,000 newly diagnosed schizophrenia patients, less than 2% ever received a long-acting injectable antipsychotic, and rates held flat for nearly two decades. The findings raise questions about prescribing culture, stigma around injections, and whether guideline recommendations are reaching practice in real-world psychiatric care."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42468816",
+      "headline": "A hidden blood vessel response may be quietly sabotaging anorexia recovery",
+      "journal": "Neuroscience and Biobehavioral Reviews",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.neubiorev.2026.106879",
+      "groundbreaking": "Counterintuitive finding / Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This theoretical review proposes that vasoconstriction \u2014 the sympathetically driven narrowing of peripheral blood vessels \u2014 is an underrecognized mechanism driving interoceptive disturbances, emotion suppression, and relapse in anorexia nervosa spectrum disorder. The authors argue that vasoconstriction distorts the sensory signals the brain's insula uses to register hunger, temperature, and visceral cues, potentially fueling pathological exercise and anxiety. To test the theory, they introduce a wearable-based multimodal detector combining electrodermal activity, blood volume pulse, and skin temperature into a continuous measure of vascular tone.",
+      "why_it_matters": "If vasoconstriction is confirmed as a key mechanism in anorexia, it could shift how researchers think about why patients struggle to recognize hunger and why relapse rates remain so high despite current treatments.",
+      "caveats": "observational design, no active control group, preprint",
+      "fact_check_note": "This is a theoretical/review manuscript \u2014 no empirical study participants; no N to verify. 'Preprint' flag removed as it is published in a peer-reviewed journal. Caveats revised accordingly.",
+      "relevance_score": 7,
+      "relevance_score_reason": "Novel mechanistic framing for a lethal, high-relapse condition; wearable biomarker angle adds public relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "STAT News",
+          "headline": "Could a Blood Vessel Response Be One Reason Anorexia Is So Hard to Treat?",
+          "hook": "A new theoretical framework suggests that the body's own vascular system may be scrambling hunger signals in people with anorexia \u2014 and a wearable sensor could soon measure it in real time.",
+          "pitch_angle": "Researchers propose that vasoconstriction distorts the interoceptive signals the brain relies on to register hunger and body state, potentially explaining why patients with anorexia nervosa so often fail to perceive internal cues accurately. The theory, paired with a prototype wearable detector, positions vascular tone as a candidate biomarker that could eventually inform treatment monitoring."
+        },
+        {
+          "publication_type": "The Atlantic",
+          "headline": "Anorexia May Hijack the Body's Own Blood Vessels to Silence Hunger",
+          "hook": "Researchers think a reflex that narrows peripheral blood vessels may be one reason people with anorexia lose touch with their own hunger \u2014 and why recovery so often fails.",
+          "pitch_angle": "A new theoretical model reframes anorexia not just as a psychological condition but as one partly maintained by the body's autonomic nervous system distorting the very signals the brain needs to sense hunger and safety. The idea challenges the field to look beyond cognition and behavior toward physiology as a driver of one of psychiatry's most lethal disorders."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Behavioral Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42456341",
+      "headline": "Brain imaging may have misled researchers on how we stop ourselves from acting impulsively",
+      "journal": "Cortex",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.cortex.2026.06.023",
+      "groundbreaking": "Overturns prior research / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A methodological critique published in Cortex argues that the dominant brain imaging tool used to study response inhibition \u2014 BOLD-fMRI \u2014 is poorly suited to the task due to a mismatch between its temporal resolution and the millisecond-scale neural dynamics of stopping behavior. The author, a cognitive neuroscientist at the University of Iowa, reviews more than 25 years of fMRI studies and argues that key experimental comparisons needed to understand inhibitory control are almost never conducted in fMRI research. The paper proposes two alternative methodological avenues to rescue the field.",
+      "why_it_matters": "Response inhibition underlies impulsivity in ADHD, addiction, OCD, and other high-prevalence psychiatric conditions \u2014 if the neuroscience has been built on a flawed methodological foundation, it could reshape how researchers target treatments.",
+      "caveats": "observational design, single-center",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Methodological critique with real implications for ADHD and impulse-control disorder research.",
+      "pitch_angles": [
+        {
+          "publication_type": "STAT News",
+          "headline": "25 Years of Brain Scans on Impulse Control May Have Been Asking the Wrong Questions",
+          "hook": "A leading cognitive neuroscientist argues that fMRI \u2014 the field's workhorse tool \u2014 is fundamentally ill-suited to studying how the brain stops impulsive actions.",
+          "pitch_angle": "The temporal mismatch between fMRI's sluggish blood-flow signal and the millisecond speed of inhibitory neural circuits means decades of influential findings may be systematically misleading, with direct consequences for understanding ADHD, addiction, and compulsive behavior. The paper calls for a methodological reckoning and outlines alternative approaches that could finally resolve long-standing debates."
+        },
+        {
+          "publication_type": "The Atlantic",
+          "headline": "The Brain Imaging Tool Behind Decades of Impulse-Control Research Has a Fundamental Problem",
+          "hook": "Some of the most-cited findings in cognitive neuroscience \u2014 on why humans struggle to stop themselves \u2014 may rest on a tool that simply can't keep up with the brain.",
+          "pitch_angle": "A new analysis suggests fMRI, despite its cultural dominance in brain science, is poorly matched to the speed of inhibitory control circuits, raising questions about what we actually know about impulsivity, self-regulation, and conditions like ADHD and addiction. The stakes are high: these findings have shaped both public understanding and research funding for a generation."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Neurology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42457003",
+      "headline": "The brain gets more efficient as it learns a skill \u2014 EEG is finally revealing how",
+      "journal": "Neuroscience and Biobehavioral Reviews",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.neubiorev.2026.106873",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This systematic review analyzed 23 EEG studies of motor sequence learning \u2014 how the brain converts deliberate movements into automatic habits \u2014 to identify consistent neural signatures of skill acquisition. Across studies, learning was associated with reduced midline theta activity (suggesting less top-down effort), alpha-band changes supporting better prediction, and beta-band shifts reflecting motor planning, pointing to a pattern of increasing neural efficiency. The authors flag significant methodological inconsistency across the field and call for standardized experimental designs.",
+      "why_it_matters": "Understanding how the brain automates learned movements has implications for rehabilitation after stroke or injury, and for understanding how cognitive flexibility breaks down in OCD and other compulsive disorders.",
+      "caveats": "observational design, secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Low direct mental health relevance; primarily motor neuroscience with limited behavioral disorder application.",
+      "pitch_angles": [
+        {
+          "publication_type": "Scientific American",
+          "headline": "EEG Studies Reveal a Common Brain Signature for Getting Good at Something",
+          "hook": "Across 23 studies, the brain shows the same pattern as a skill clicks into place: less effortful top-down control, better prediction, and more efficient motor planning.",
+          "pitch_angle": "A new review synthesizes EEG evidence to show that skill learning consistently produces a shift toward neural efficiency \u2014 the brain quite literally does less work as a sequence becomes automatic. The finding has implications for understanding how deliberate practice becomes habit, and what goes wrong when compulsive behavior takes hold."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Behavioral Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "41885877",
+      "headline": "A popular idea for making fear extinction more durable may not hold up in humans",
+      "journal": "Journal of Experimental Psychology: Animal Learning and Cognition",
+      "pubdate": "2026 Oct",
+      "doi": "10.1037/xan0000430",
+      "groundbreaking": "Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers tested whether novelty-facilitated extinction \u2014 pairing a feared stimulus with a neutral novel object \u2014 produces fear reduction that is more resistant to relapse than standard extinction or counterconditioning, using human participants in a rapid-trial predictive learning paradigm. Two experiments found no meaningful differences between the three methods in how well fear reduction held up when tested in a new context (ABC renewal). Counterconditioning altered emotional valence more than the other methods, but only when testing occurred in the same context as treatment.",
+      "why_it_matters": "The findings suggest that novelty-facilitated extinction, which has been proposed as a way to improve exposure-based therapies for fear and anxiety, may not offer the relapse-prevention advantage previously theorized.",
+      "caveats": "observational design, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic), laboratory analog (not clinical population), short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Overturns a proposed advantage for anxiety treatment; human subjects; but lab analog limits clinical translation.",
+      "pitch_angles": [
+        {
+          "publication_type": "STAT News",
+          "headline": "A Theorized Upgrade to Exposure Therapy Falls Flat in Human Testing",
+          "hook": "Novelty-facilitated extinction \u2014 pairing feared cues with novel neutral stimuli to prevent fear from returning \u2014 showed no advantage over standard extinction in new human experiments.",
+          "pitch_angle": "The study challenges a growing body of animal-based optimism about a simple tweak to exposure therapy, and underscores the persistent gap between fear-conditioning lab models and real-world clinical outcomes."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42150987",
+      "headline": "Peer-led 'recovery college' cuts self-stigma and boosts empowerment in people with mental illness",
+      "journal": "L'Enc\u00e9phale",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.encep.2026.02.016",
+      "groundbreaking": "Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers evaluated CoFoR, France's first Recovery College \u2014 an educational peer-support program \u2014 using a mixed-methods approach across four academic terms (2018\u20132020) with adults living with mental disorders. Pre-post comparisons found significant reductions in self-stigma and improvements in empowerment and hope among participants. Qualitative data highlighted gains in mental health literacy and a shift in how participants related to healthcare professionals.",
+      "why_it_matters": "Recovery Colleges represent a low-coercion, peer-driven model that could complement traditional psychiatric care by addressing the self-stigma that often blocks people from seeking or continuing treatment.",
+      "caveats": "small sample (N<100), observational design, single-center, self-reported outcomes, no active control group, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic), short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Peer support and recovery model with mental health relevance; weakened by no control group and small French sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "Psychology Today / Monitor on Psychology",
+          "headline": "Going Back to School Helped People With Mental Illness Shake Off Shame",
+          "hook": "A French peer-led 'recovery college' where people with mental illness learn alongside each other measurably reduced self-stigma and boosted a sense of personal power.",
+          "pitch_angle": "CoFoR, France's first Recovery College, found that educational peer-support programs \u2014 not therapy \u2014 may be a powerful tool for dismantling the internalized shame that keeps people stuck. The model's success suggests that reframing mental health care as learning, rather than treatment, could open doors for people who resist traditional psychiatric settings."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Neurology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42813471",
+      "headline": "New fathers' brains recruit reward circuits when processing fearful faces \u2014 and that predicts how well they bond with their babies",
+      "journal": "Journal of Neuroendocrinology",
+      "pubdate": "2026 Oct",
+      "doi": "10.1111/jne.70276",
+      "groundbreaking": "First-in-class human study / Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used fMRI to scan first-time fathers before and ~8 months after their child's birth while they viewed fearful facial expressions, finding that the transition to fatherhood was associated with recruitment of reward-related brain regions (dorsal striatum, nucleus accumbens) in response to fear cues. The longitudinal sample included 38 expectant fathers prenatally and 34 postpartum (mean age ~32\u201333). Higher dorsal striatum activation to fearful faces after birth was associated with fewer father-infant bonding problems, suggesting the paternal brain may be wired to approach \u2014 rather than withdraw from \u2014 a distressed child.",
+      "why_it_matters": "Understanding how the male brain adapts to caregiving may help identify fathers at risk for bonding difficulties before problems become entrenched.",
+      "caveats": "small sample (N<100), single-center, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic), observational design, purely neuroimaging with no behavioral outcome beyond recognition task",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Novel longitudinal fMRI in fathers, clear bonding/mental health relevance, but small N and imaging-only.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "The Paternal Brain Is Built to Approach a Crying Child \u2014 Not Retreat",
+          "hook": "A new brain-imaging study finds that first-time fathers don't just learn to respond to distress \u2014 their reward circuits actually light up when they see fear.",
+          "pitch_angle": "The transition to fatherhood appears to rewire men's brains to find fearful expressions motivating rather than aversive, a finding that challenges the idea that maternal caregiving instincts are unique. If confirmed in larger studies, this could reshape how we talk about paternal involvement and bonding support."
+        },
+        {
+          "publication_type": "NYT Well",
+          "headline": "What Happens Inside a New Dad's Brain When He Sees His Baby in Distress",
+          "hook": "For new fathers, the brain regions tied to reward \u2014 not just fear \u2014 activate when they encounter a frightened face, and that predicts stronger bonding with their infant.",
+          "pitch_angle": "A small longitudinal study scanned men's brains before and after becoming fathers, finding a shift toward reward-circuit engagement with fearful faces postpartum. The finding suggests the paternal brain is biologically primed to approach a distressed child, offering a new lens on why some fathers bond more easily than others."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Neurology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "41983343",
+      "headline": "Brain-reading technology may soon decode the inner lives of patients thought to be unconscious",
+      "journal": "The Neuroscientist",
+      "pubdate": "2026 Oct",
+      "doi": "10.1177/10738584261434939",
+      "groundbreaking": "Major mental health or behavioral implication / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers reviewed advances in neural reconstruction \u2014 technology that translates brain signals into images, text, and speech \u2014 and examined its potential application to patients with disorders of consciousness (DoC), such as vegetative or minimally conscious states. The review (no original patient cohort) synthesizes neuroimaging and deep learning literature to assess how reconstruction methods could reveal whether unresponsive patients retain hidden awareness. Authors warn that misapplied reconstruction could misrepresent a patient's inner life and undermine their autonomy.",
+      "why_it_matters": "Some patients behaviorally diagnosed as unconscious may have rich inner experiences, and this technology could eventually give them a voice \u2014 but misuse risks profound ethical harm.",
+      "caveats": "observational design, no active control group, review article (no original data)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Compelling consciousness-and-mind angle; review only, no original human data.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "What If the Patient You Think Is Gone Is Still in There?",
+          "hook": "Brain-decoding technology that can reconstruct speech and images from neural signals may soon be used to unlock the hidden inner lives of people diagnosed as vegetative.",
+          "pitch_angle": "Advances in neuroimaging and deep learning are making it feasible to 'read' mental experience from brain activity \u2014 and scientists now want to apply this to patients with disorders of consciousness who may be aware but unable to show it. The ethical stakes are enormous: done wrong, the technology could mischaracterize a person's inner world and strip them of autonomy."
+        },
+        {
+          "publication_type": "The Transmitter",
+          "headline": "Neural Reconstruction Is Coming for Disorders of Consciousness \u2014 and the Field Isn't Ready",
+          "hook": "A new review maps the scientific and ethical minefield of applying brain-decoding AI to patients in vegetative or minimally conscious states.",
+          "pitch_angle": "Deep learning models can already translate neural signals into images and speech; extending that to unresponsive patients could reveal hidden awareness \u2014 but researchers warn that model validation and patient autonomy protections are not yet in place. The review outlines a framework for responsible development before clinical deployment."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "40338513",
+      "headline": "Autistic students say fear of making mistakes in front of peers \u2014 not curriculum difficulty \u2014 is their biggest classroom barrier",
+      "journal": "Journal of Autism and Developmental Disorders",
+      "pubdate": "2026 Oct",
+      "doi": "10.1007/s10803-025-06861-5",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used video-stimulated recall interviews \u2014 showing students footage of their own lessons and capturing their real-time reactions \u2014 to explore classroom experiences of 13 autistic secondary school students in mainstream schools in the Netherlands and Mexico. Students valued structured teaching that gave them a clear sense of mastery, but consistently identified fear of negative peer reactions to mistakes as a primary source of distress. Approachable, supportive teachers significantly shaped students' willingness to engage, and students relied on both teachers and peers to clarify tasks.",
+      "why_it_matters": "Autistic students' own accounts suggest that social anxiety around peer judgment \u2014 not cognitive load alone \u2014 may be a central driver of school disengagement, pointing to classroom culture as a key intervention target.",
+      "caveats": "small sample (N<100), qualitative design, WEIRD sample (Netherlands/Mexico secondary schools), no active control group, observational design",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Youth mental health relevance, autistic voices centered; very small qualitative sample limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Psychology Today",
+          "headline": "Autistic Students Say It's Not the Schoolwork That's Hard \u2014 It's the Fear of Getting It Wrong in Front of Everyone",
+          "hook": "When researchers showed autistic teenagers footage of their own classrooms, a clear theme emerged: fear of peer judgment when making mistakes was a bigger barrier to learning than any academic challenge.",
+          "pitch_angle": "Using an innovative video-interview method, autistic students in the Netherlands and Mexico described how classroom culture \u2014 not curriculum complexity \u2014 shaped their ability to engage; a teacher's approachability and clear structure made the difference between participation and withdrawal. The finding suggests that reducing social threat in classrooms may matter as much as academic accommodations for autistic learners."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42143913",
+      "headline": "Autism-linked genes and negative symptoms in psychosis may share overlapping biological roots",
+      "journal": "European Neuropsychopharmacology",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.euroneuro.2026.112859",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This exploratory longitudinal study examined the genetic architecture underlying autistic traits and negative symptoms (such as social withdrawal and flat affect) in people experiencing a first episode of non-affective psychosis. The sample was drawn from a Spanish multicenter clinical cohort. Findings suggested that autistic traits and negative symptoms in early psychosis may share overlapping genetic pathways, which could help explain why these features so often co-occur in schizophrenia spectrum disorders.",
+      "why_it_matters": "Understanding shared genetic roots between autistic traits and negative symptoms in psychosis could eventually inform how clinicians distinguish and treat these overlapping presentations in early-stage schizophrenia spectrum conditions.",
+      "caveats": "exploratory study, single-center (multi-site but Spain only), small sample likely (N not specified in abstract), observational design, WEIRD sample",
+      "fact_check_note": "Abstract describes the study as 'exploratory' \u2014 this is noted. Sample size not specified in the available abstract text; caveat flagged accordingly.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Clinically relevant psychosis topic; exploratory design, limited sample detail, and neurogenetics framing reduce score.",
+      "pitch_angles": [
+        {
+          "publication_type": "STAT News",
+          "headline": "Autism Traits and Psychosis Negative Symptoms May Share a Genetic Blueprint, Early Study Suggests",
+          "hook": "A new longitudinal study hints that the social withdrawal and flat affect seen in early schizophrenia may be genetically intertwined with autistic traits \u2014 a finding that could reshape how clinicians think about overlapping diagnoses.",
+          "pitch_angle": "Spanish researchers examining first-episode psychosis patients found preliminary evidence of shared genetic architecture between autistic traits and negative symptoms, suggesting these co-occurring features are not coincidental; if replicated, this could shift diagnostic and treatment frameworks for schizophrenia spectrum disorders."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42134004",
+      "headline": "Substance use disorder carries a self-harm risk more than 22 times higher than the general population \u2014 surpassing every other mental health diagnosis studied",
+      "journal": "European Neuropsychopharmacology",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.euroneuro.2026.112860",
+      "groundbreaking": "First-in-class human study / Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a 16-year territory-wide cohort study in Hong Kong using electronic health records, comparing 322,922 people with a first-recorded mental disorder diagnosis against 888,031 primary-care controls. Across all 14 diagnostic categories studied, people with any mental disorder had more than 10 times the self-harm risk of controls, with substance use disorder carrying the highest risk (HR 22.86), followed by alcohol use disorder (HR 14.59); self-harm risk was especially elevated in youth aged 24 and under and in females across most diagnoses.",
+      "why_it_matters": "The finding that substance use disorder poses the highest self-harm risk of any mental disorder \u2014 well above depression or bipolar disorder \u2014 challenges clinical assumptions about which patient groups most urgently need suicide and self-harm vigilance.",
+      "caveats": "observational design, single-center (Hong Kong only \u2014 findings may not generalize to other health systems), self-reported outcomes not applicable (record-based), WEIRD sample consideration (Hong Kong-specific healthcare context)",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Massive population N, counterintuitive SUD finding, high-prevalence conditions, clean longitudinal record-based design.",
+      "pitch_angles": [
+        {
+          "publication_type": "STAT News",
+          "headline": "Doctors May Be Underestimating Self-Harm Risk in Their Most Dangerous Patients",
+          "hook": "A 16-year study of over a million people found that substance use disorder carries a self-harm risk more than 22 times higher than the general population \u2014 nearly triple the risk associated with major depression.",
+          "pitch_angle": "Using Hong Kong's entire public health record system, researchers found that clinicians may systematically underestimate self-harm risk in patients with substance use disorders, who topped every other psychiatric diagnosis including personality disorders and depression; the study also found youth and females face disproportionate risk across most diagnoses."
+        },
+        {
+          "publication_type": "Psychology Today",
+          "headline": "Why Addiction May Be the Mental Health Condition Most Likely to Lead to Self-Harm",
+          "hook": "A sweeping new study tracking over a million people for 16 years found that people diagnosed with substance use disorder face self-harm rates more than 22 times higher than the general population \u2014 higher than any other mental health condition.",
+          "pitch_angle": "The findings challenge a widespread clinical assumption that depression and personality disorders represent the apex of self-harm risk, suggesting that substance use disorders \u2014 often treated primarily as behavioral or medical problems \u2014 may require urgent integration of self-harm prevention into standard care."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42385294",
+      "headline": "Psychedelics probably won't fix autism's core social deficits \u2014 but they might help with the anxiety and emotional pain that come with it",
+      "journal": "Journal of Psychiatric Research",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.jpsychires.2026.06.035",
+      "groundbreaking": "Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative review examined the mechanistic rationale and available clinical and preclinical evidence for using psychedelic compounds \u2014 including psilocybin, LSD, MDMA, and ketamine \u2014 in autism spectrum disorder (ASD). Researchers found that current evidence does not support psychedelics as treatments for core ASD symptoms such as social communication deficits or repetitive behaviors. However, they found that psychedelics may hold greater promise for co-occurring conditions common in ASD, including social anxiety, emotional dysregulation, cognitive rigidity, and mood symptoms.",
+      "why_it_matters": "The distinction between core ASD symptoms and co-occurring psychiatric distress is clinically important, as it suggests psychedelic-assisted therapy research in autism should focus on emotional and anxiety dimensions rather than attempting to alter neurodevelopmental traits.",
+      "caveats": "narrative review, animal or cell study evidence included, no active control group, pediatric evidence absent, preprint not applicable",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Psychedelic-assisted therapy topic fit, nuanced finding; narrative review limits evidence strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "The Psychedelic Therapy Hype Has Reached Autism \u2014 Here's What the Science Actually Says",
+          "hook": "Researchers say psychedelics are unlikely to change autism's core social traits \u2014 but they might meaningfully help with the anxiety, emotional dysregulation, and depression that so often accompany it.",
+          "pitch_angle": "As psychedelic-assisted therapy expands into new diagnostic territories, a new review draws a critical line: psilocybin, MDMA, and ketamine may help autistic people cope with co-occurring psychiatric suffering, but the idea that they could alter fundamental neurodevelopmental traits lacks scientific support and raises serious ethical questions about treating neurodivergence as a problem to fix."
+        },
+        {
+          "publication_type": "Scientific American",
+          "headline": "Psychedelics and Autism: Promising for Anxiety and Mood, Not for Core Social Deficits",
+          "hook": "A new mechanistic review finds that psychedelics' effects on serotonin and neuroplasticity are better matched to autism's psychiatric comorbidities than to its defining neurodevelopmental features.",
+          "pitch_angle": "By mapping the biological mechanisms of psilocybin, MDMA, LSD, and ketamine against what is known about autism neurobiology, researchers conclude that these compounds' therapeutic potential in ASD likely lies in addressing co-occurring anxiety and emotional dysregulation \u2014 and that rigorous clinical trials must now define those boundaries carefully, especially given the absence of pediatric safety data."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42379070",
+      "headline": "Stronger peer bonds in a digital depression app predict greater engagement with therapy content \u2014 and gender doesn't change that",
+      "journal": "Journal of Psychiatric Research",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.jpsychires.2026.06.036",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers developed a coding tool to detect spontaneous expressions of therapeutic alliance (TA) between peers in a digital mental health intervention called Rebound, designed for youth aged 15\u201325 (N=109, 61% female) in remission from major depressive disorder. The coding protocol showed acceptable reliability for bond and task elements of therapeutic alliance, and peer-to-peer TA significantly predicted greater online engagement with therapy content. Importantly, gender did not moderate this relationship, suggesting peer bonds drive engagement similarly across genders.",
+      "why_it_matters": "The finding suggests that fostering peer-to-peer connection in digital mental health tools may be a meaningful driver of youth engagement with therapy content \u2014 a persistent challenge for digital interventions.",
+      "caveats": "small sample (N<100 effective analytic sample), observational design, single-center (Australia), WEIRD sample, self-reported outcomes, short follow-up, remission sample only (not active MDD)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Youth mental health and digital intervention topic fit; small sample and narrow remission-only population limit generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Verywell Mind",
+          "headline": "What Actually Gets Teens to Use Mental Health Apps? Feeling Connected to Peers",
+          "hook": "A new study found that the stronger the bond young people felt with peers inside a digital depression program, the more they engaged with its therapy content \u2014 suggesting connection, not features, may be the real driver of digital mental health app use.",
+          "pitch_angle": "Researchers studying a peer-supported digital therapy for young people with depression found that spontaneous expressions of peer alliance significantly predicted how much users engaged with online therapy content, pointing to social connection as a potentially underutilized design principle for mental health apps struggling with user dropout."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychiatry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42095443",
+      "headline": "Pilots say current training leaves them unprepared for the truly unexpected",
+      "journal": "Human Factors",
+      "pubdate": "2026 Oct",
+      "doi": "10.1177/00187208261449578",
+      "groundbreaking": "Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted knowledge-elicitation interviews with 50 pilots to identify the most common unexpected in-flight events, how pilots manage them, and gaps in current training. Pilots most frequently reported aircraft system malfunctions, environmental uncertainties, and human-related incidents as unexpected events. Findings suggest that managing these situations requires both technical skills and judgment expertise \u2014 and that current simulator-based training falls short of preparing pilots for genuinely novel scenarios.",
+      "why_it_matters": "As cockpits grow more automated and complex, understanding how cognitive overload and stress undermine pilot performance under uncertainty has broad implications for human performance training across high-stakes professions.",
+      "caveats": "small sample (N<100), self-reported outcomes, qualitative design, single occupational group",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Occupational human factors study; limited direct mental health or psychiatric relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Monitor on Psychology",
+          "headline": "Why Pilots Can't Train Their Way Out of the Truly Unexpected",
+          "hook": "Experienced pilots say the most dangerous moments in the cockpit are the ones no checklist prepared them for.",
+          "pitch_angle": "A qualitative study of 50 pilots found that managing genuinely novel in-flight crises requires judgment expertise that current simulator training largely ignores. The findings speak to a broader psychology of performance under uncertainty \u2014 relevant to any high-stakes profession where cognitive overload can be fatal."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42028656",
+      "headline": "Where you place a hospital monitor on a screen may save lives \u2014 position matters more than display type",
+      "journal": "Human Factors",
+      "pubdate": "2026 Oct",
+      "doi": "10.1177/00187208261445900",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers tested how the spatial placement and type of visual patient-monitoring displays affected reaction time, accuracy, and workload in 30 participants performing a simulated clinical monitoring task. Participants used both numeric and configural (shape-based) displays presented at varying positions and screen distances. Placing a configural display to the right of center and close to the screen's center improved multitasking performance and reduced cognitive workload, regardless of display type.",
+      "why_it_matters": "In high-pressure clinical settings, how information is spatially arranged on a screen \u2014 not just what that information shows \u2014 may meaningfully affect clinician error rates and cognitive strain.",
+      "caveats": "small sample (N<100), laboratory/simulation study, WEIRD sample, single-center",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Clinical human factors, no direct mental health angle; modest sample and lab setting.",
+      "pitch_angles": [
+        {
+          "publication_type": "STAT News",
+          "headline": "It's Not Just What's on the Monitor \u2014 It's Where It Sits on the Screen",
+          "hook": "A small simulation study suggests that the physical position of a patient monitor display on a screen measurably affects how quickly and accurately clinicians catch emergencies.",
+          "pitch_angle": "Researchers found that placing configural displays to the right and close to screen center sped up response times and improved multitasking accuracy in a simulated ICU monitoring task. As hospitals redesign digital interfaces, spatial ergonomics may be as important as the data itself."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "41940892",
+      "headline": "Mobile crisis workers say they're the face of a system they can't fix \u2014 and it's breaking them",
+      "journal": "Community Mental Health Journal",
+      "pubdate": "2026 Oct",
+      "doi": "10.1007/s10597-026-01609-6",
+      "groundbreaking": "Major mental health or behavioral implication / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a qualitative study drawing on first-hand accounts from a national sample of 364 U.S. mobile crisis (MC) workers to document the challenges they face following the 2020 creation of the 988 Suicide & Crisis Hotline. Workers reported five overlapping challenge domains: structural conditions of MC work, resource limitations, workplace and workforce issues, their own mental health, and systemic failures at the intersection of behavioral health and criminal justice. Findings suggest that structural challenges compound and worsen all other domains, and that the MC workforce itself urgently needs trauma-informed support and clearer role definitions.",
+      "why_it_matters": "As the 988 hotline drives surging demand for mobile crisis services, this study reveals a workforce in distress \u2014 raising serious questions about whether expanding crisis services without supporting crisis workers may be unsustainable.",
+      "caveats": "qualitative design, self-reported outcomes, no active control group",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Large national sample, 988/crisis system relevance, workforce mental health angle, timely public policy fit.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "The People America Sends Instead of Police Are Burning Out",
+          "hook": "The workers at the heart of the 988 mental health crisis system say they're absorbing the weight of a broken system \u2014 and it's affecting their own mental health.",
+          "pitch_angle": "A national qualitative study of 364 mobile crisis workers found that structural dysfunction, resource gaps, and role ambiguity are compounding into a workforce mental health crisis of its own. As the U.S. bets billions on crisis diversion away from policing, this research asks whether the people doing that work are being left behind."
+        },
+        {
+          "publication_type": "STAT News",
+          "headline": "988 Is Expanding Fast. The Workers Staffing It Are Struggling to Keep Up.",
+          "hook": "A first large-scale look at the mobile crisis workforce finds that the people dispatched to mental health emergencies are themselves experiencing significant psychological strain.",
+          "pitch_angle": "Interviews with 364 mobile crisis workers across the U.S. revealed five overlapping challenge domains \u2014 including threats to workers' own mental health \u2014 that could undermine the long-term viability of the 988 system. Researchers say trauma-informed workplaces and clearer policies are needed before further expansion."
+        },
+        {
+          "publication_type": "NPR Health",
+          "headline": "Who Takes Care of the People Who Respond to Mental Health Crises?",
+          "hook": "Mobile crisis workers sent to respond to mental health emergencies say they're struggling with their own mental health \u2014 and feel powerless to change the system they're asked to represent.",
+          "pitch_angle": "A qualitative study of 364 U.S. mobile crisis workers found that systemic failures, resource shortages, and emotional burden are converging into a workforce well-being crisis. As demand for 988-linked services grows, the study suggests that worker support must be built into expansion plans \u2014 not added as an afterthought."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42712060",
+      "headline": "It's not just the trauma: Rural first responders say stoicism culture and workplace sexism are as damaging to mental health as the job itself",
+      "journal": "International Journal of Mental Health Nursing",
+      "pubdate": "2026 Oct",
+      "doi": "10.1111/inm.70349",
+      "groundbreaking": "Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Using participatory action research and qualitative interviews with rural and remote first responders in Australia, researchers explored how individual, organizational, and structural factors intersect to shape mental health experiences. Participants described cumulative psychological strain driven not only by traumatic exposures but also by workplace cultures of stoicism, 'hero' narratives, gender discrimination and misogyny, geographic isolation, small team dynamics, and severely limited access to trauma-informed mental health services. The study found that trauma exposure alone does not explain the burden of distress in rural first responder settings \u2014 the organizational and cultural environment is central.",
+      "why_it_matters": "The findings challenge the dominant 'resilience-building' approach to first responder mental health by showing that organizational culture and structural inequities \u2014 including gender discrimination \u2014 are key drivers of psychological harm that individual-focused interventions cannot fix.",
+      "caveats": "small sample (N<100), qualitative design, single-center, self-reported outcomes, specific to rural Australia",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive organizational framing; workplace mental health relevance; qualitative limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic / General health",
+          "headline": "The Mental Health Crisis in Firehouses Isn't About Trauma Alone \u2014 It's About the Culture",
+          "hook": "Rural first responders say misogyny, hero worship, and enforced stoicism are just as damaging to their mental health as the traumatic events they respond to.",
+          "pitch_angle": "A qualitative study from Australia finds that workplace culture \u2014 not just the horrors of the job \u2014 drives psychological harm among first responders, and that fixing this will require organizational reform, not more resilience training. The finding has broad implications for any high-risk profession where silence and toughness are treated as virtues."
+        },
+        {
+          "publication_type": "Women's Health / HuffPost Health",
+          "headline": "Female First Responders Face a Double Burden: The Job and the Misogyny",
+          "hook": "Women in rural emergency services describe gender discrimination and misogyny as a significant \u2014 and underreported \u2014 source of psychological harm on top of trauma exposure.",
+          "pitch_angle": "A new qualitative study finds that gender-based workplace hostility compounds the mental health toll of an already high-risk profession, and that mental health resources rarely address this dimension. Researchers argue that psychological safety for women in emergency services requires structural change, not individual coping strategies."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "41431170",
+      "headline": "Narcissism isn't one thing \u2014 and the type you have predicts completely opposite mental health outcomes",
+      "journal": "Journal of Personality",
+      "pubdate": "2026 Oct",
+      "doi": "10.1111/jopy.70044",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A pre-registered three-level meta-analysis of 229 studies (N = 185,137) examined how grandiose and vulnerable narcissism relate to mental health outcomes. Grandiose narcissism \u2014 characterized by confidence and dominance \u2014 was associated with better self-reported mental health and showed no significant link to negative mental health; vulnerable narcissism \u2014 marked by entitlement and sensitivity to criticism \u2014 was strongly associated with poor mental health (r = 0.39 for negative outcomes). The findings, based almost entirely on self-report measures, suggest that narcissism's relationship to psychological wellbeing depends almost entirely on which dimension is being measured.",
+      "why_it_matters": "The study challenges the popular assumption that narcissism is uniformly psychologically costly, suggesting that grandiose narcissism may function as a psychological buffer \u2014 at least as people report their own wellbeing.",
+      "caveats": "self-reported outcomes, WEIRD sample (majority of studies likely Western/student samples), findings may reflect self-report bias inherent to narcissism measurement",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Counterintuitive, large N meta-analysis, high public interest topic, self-report bias is a notable limitation.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic / Psychology Today",
+          "headline": "Narcissism Can Be a Shield or a Wound \u2014 It All Depends on the Type",
+          "hook": "A sweeping meta-analysis of 185,000 people finds that the bravado-driven narcissist reports surprisingly good mental health, while the thin-skinned, entitled type is strongly linked to anxiety, depression, and distress.",
+          "pitch_angle": "The study dismantles the monolithic view of narcissism as a uniformly self-destructive trait, showing that grandiosity may function as a psychological armor \u2014 at least in how people perceive themselves \u2014 while vulnerable narcissism is among the personality features most consistently tied to internalizing disorders. The finding reshapes how clinicians and the public should think about ego and emotional suffering."
+        },
+        {
+          "publication_type": "Scientific American / Monitor on Psychology",
+          "headline": "A Meta-Analysis of 185,000 People Finds Narcissism Cuts Two Very Different Ways for Mental Health",
+          "hook": "Grandiose narcissism correlates with positive self-reported mental health across 229 studies \u2014 while vulnerable narcissism shows one of the strongest links to anxiety and depression seen in personality research.",
+          "pitch_angle": "The largest synthesis of narcissism and mental health to date clarifies a long-standing paradox in personality psychology: the 'classic' narcissist appears buffered from distress by inflated self-regard, while the wounded, hypersensitive subtype carries disproportionate psychological burden. Researchers note that the findings hinge on self-report, raising questions about whether grandiose narcissists' apparent wellbeing reflects genuine resilience or a blind spot in self-perception."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42547987",
+      "headline": "Stereotypes form because categories create them \u2014 not just because new information is novel",
+      "journal": "British Journal of Social Psychology",
+      "pubdate": "2026 Oct",
+      "doi": "10.1111/bjso.70120",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Three preregistered experiments tested whether the tendency to prioritize distinctive group traits in stereotype formation is driven by categorization itself or simply by a general novelty preference. Participants learned social traits assigned either to a single group or distributed across two groups, with novel traits marking intergroup differences only in the two-group condition. Results showed that memory enhancement and typicality judgments for novel traits occurred only when groups were present, suggesting categorization \u2014 not novelty \u2014 drives stereotype differentiation.",
+      "why_it_matters": "Showing that stereotype formation is an active cognitive byproduct of how we categorize groups \u2014 not just a passive response to what's new \u2014 has implications for understanding and potentially disrupting bias at its source.",
+      "caveats": "WEIRD sample (Western, Educated, Industrialized, Rich, Democratic), laboratory experiment with artificial stimuli, limited generalizability to real-world intergroup contexts",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Preregistered, counterintuitive finding on stereotype formation; WEIRD lab sample limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Psychology Today",
+          "headline": "Your brain doesn't form stereotypes because something is new \u2014 it forms them because it sees a group",
+          "hook": "Three controlled experiments found that people's tendency to lock onto distinctive group traits as 'typical' only kicked in when a social category was present \u2014 not when the same novel information appeared without a group label.",
+          "pitch_angle": "The finding suggests that stereotyping is less about being dazzled by novelty and more about a deeply wired cognitive drive to define what makes groups different from each other, which may help explain why bias is so hard to shake even with exposure to counter-stereotypical information."
+        },
+        {
+          "publication_type": "Scientific American",
+          "headline": "Stereotypes are a feature of categorization, not a bug of novelty-seeking, new research finds",
+          "hook": "A series of preregistered experiments isolates categorization \u2014 not the allure of new information \u2014 as the engine behind stereotype formation.",
+          "pitch_angle": "By carefully controlling for novelty, the study overturns a common assumption in social cognition research and points to categorization itself as the mechanism that makes stereotypes stick, with broad implications for bias reduction strategies."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42247879",
+      "headline": "The brain starts mentally relaxing before an easy task even begins \u2014 and that slows you down right now",
+      "journal": "Cognition",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.cognition.2026.106606",
+      "groundbreaking": "First-in-class human study / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers had participants complete a cognitive conflict task (similar to Stroop) in pairs of trials, with cues signaling whether the upcoming second trial would be easy or hard, testing whether anticipating a future easy trial changes performance on the current trial. When participants knew a relaxed mental state was coming, their cognitive control on the immediately preceding trial loosened \u2014 a pattern the authors call 'prospective relaxation of control.' The study provides first direct evidence that the brain proactively winds down effort in anticipation of a future low-demand moment, not just reactively after an easy trial.",
+      "why_it_matters": "It suggests that anticipating a mental 'break' can subtly impair focus on what you're doing right now, with potential implications for understanding attentional lapses in real-world multitasking and performance settings.",
+      "caveats": "WEIRD sample (Western, Educated, Industrialized, Rich, Democratic), laboratory analog, small convenience sample implied, no behavioral or clinical population",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Counterintuitive first-in-class cognitive finding; human subjects; limited direct mental health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Psychology Today",
+          "headline": "Your Brain Checks Out Early When It Knows a Break Is Coming",
+          "hook": "New research shows that simply knowing an easier task is next causes the brain to begin relaxing its focus \u2014 before that easier task has even arrived.",
+          "pitch_angle": "The study offers the first direct evidence of 'prospective' mental downshifting, suggesting that anticipating relief may be enough to cost you focus in the present moment \u2014 a finding relevant to anyone who has ever mentally clocked out before the workday ended."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "40232770",
+      "headline": "Emotion regulation may slow biological aging in Black adults exposed to trauma \u2014 but not in the same way for white adults",
+      "journal": "Psychological Trauma: Theory, Research, Practice and Policy",
+      "pubdate": "2026 Oct",
+      "doi": "10.1037/tra0001888",
+      "groundbreaking": "Counterintuitive finding / Major mental health or behavioral implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Yale researchers enrolled 459 healthy adults (21% Black) in a cross-sectional study measuring emotion regulation difficulties, lifetime adversity including assaultive trauma, and biological aging via the GrimAge epigenetic clock. Despite Black participants reporting better average emotion regulation than white participants, the link between assaultive trauma and emotion regulation difficulties was stronger in Black participants. Critically, emotion regulation was associated with protection against adversity-driven biological aging acceleration specifically in Black adults \u2014 a three-way interaction not observed in white participants.",
+      "why_it_matters": "The findings suggest that psychological resilience factors like emotion regulation may have race-specific protective effects on physical health and longevity, pointing to the need to study resilience within the context of racialized trauma exposure rather than as a universal buffer.",
+      "caveats": "observational design, cross-sectional design, single-center, self-reported outcomes (emotion regulation, adversity), WEIRD sample (Western, Educated, Industrialized, Rich, Democratic)",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Counterintuitive race-specific resilience finding; trauma, biological aging, and health disparities; N=459 human sample.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "The Hidden Cost of Resilience: For Black Adults, Emotional Strength May Be Doing Double Duty Against a Biology Shaped by Trauma",
+          "hook": "A new study finds that emotion regulation appears to slow biological aging in Black adults exposed to trauma \u2014 but the same protective effect wasn't seen in white adults, raising hard questions about why resilience works differently across racial lines.",
+          "pitch_angle": "The research suggests that structural exposure to assaultive trauma may be so distinctly patterned by race that even the biology of aging responds differently \u2014 and that resilience is not a universal lever but one shaped by the specific nature of what people have survived."
+        },
+        {
+          "publication_type": "STAT News",
+          "headline": "Epigenetic Aging Data Reveals Race-Specific Protective Role for Emotion Regulation After Trauma",
+          "hook": "Emotion regulation was associated with slower epigenetic aging in Black adults who experienced adversity \u2014 but not in white adults \u2014 pointing to a complex, racialized relationship between psychological resilience and biological health.",
+          "pitch_angle": "Using the GrimAge epigenetic clock, Yale researchers found a significant three-way interaction between race, adversity, and emotion regulation on biological aging, suggesting that the health-protective effects of psychological resilience may be shaped by the racialized nature of trauma exposure itself."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Psychology",
+      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -55,213 +1402,6 @@
       "run_date": "2026-09-29",
       "category": "Psychology",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42788798",
-      "headline": "The main tool used to assess sexual behavior problems in adolescent boys has serious measurement flaws, researchers warn",
-      "journal": "Journal of Child Sexual Abuse",
-      "pubdate": "2026 Sep 25",
-      "doi": "10.1080/10538712.2026.2736208",
-      "groundbreaking": "Counterintuitive finding / Major mental health or behavioral implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers at the University of Pittsburgh applied exploratory factor analysis to the Adolescent Clinical Sexual Behavior Inventory (ACSBI) using data from 236 male youth referred by juvenile courts for treatment of problematic sexual behavior. The analysis revealed that the ACSBI has significant structural and conceptual shortcomings \u2014 its items do not organize into coherent, clinically meaningful factors in this population. The authors argue that the field lacks a psychometrically sound tool for assessing this behavior in youth, creating both clinical and legal risks.",
-      "why_it_matters": "Clinical and legal decisions about adolescents with problematic sexual behavior are being made using a measure that may not accurately capture what it claims to measure, raising concerns about the fairness and accuracy of those decisions.",
-      "caveats": "observational design, single-center, self-reported outcomes, male-only sample, secondary analysis, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Methodological critique of a niche clinical tool; limited broader public relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Monitor on Psychology",
-          "headline": "The tool clinicians use to assess sexual behavior problems in teens may be fundamentally flawed",
-          "hook": "A widely used inventory for evaluating problematic sexual behavior in adolescent boys fails basic psychometric standards \u2014 yet it continues to inform clinical and court decisions.",
-          "pitch_angle": "A University of Pittsburgh study finds the Adolescent Clinical Sexual Behavior Inventory lacks the structural validity needed for reliable clinical use, spotlighting a broader problem: the field has no well-validated measure for a behavior pattern that regularly enters both treatment and legal contexts. The piece would examine what this means for psychologists working at the intersection of youth mental health and juvenile justice."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42790730",
-      "headline": "Common antihistamine and antiparasitic drug unexpectedly dials down a key serotonin receptor",
-      "journal": "Neuropharmacology",
-      "pubdate": "2026 Sep 25",
-      "doi": "10.1016/j.neuropharm.2026.111196",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used electrophysiology and computational modeling to test whether hydroxyzine (a widely used antihistamine/anxiolytic) and piperazine (an antiparasitic) interact with the human 5-HT3A serotonin receptor. Both drugs were found to act as previously unrecognized negative allosteric modulators (NAMs) of the receptor, binding at two distinct sites on the protein. The finding raises the possibility that some of hydroxyzine's anxiolytic or sedative effects may partly involve 5-HT3 receptor inhibition \u2014 a connection not previously appreciated.",
-      "why_it_matters": "Understanding that a commonly prescribed anxiety medication may work through an additional serotonin-receptor mechanism could eventually inform how clinicians think about drug selection and side-effect profiles in anxiety and psychiatric care.",
-      "caveats": "animal or cell study, small sample (N<100), no active control group",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Interesting mechanistic find but lab-only, no human subjects or behavioral outcomes.",
-      "pitch_angles": [
-        {
-          "publication_type": "Scientific American / The Transmitter",
-          "headline": "Your Anxiety Pill May Work on Serotonin in a Way Researchers Didn't Know About",
-          "hook": "Hydroxyzine, prescribed for decades to treat anxiety, turns out to quietly suppress a serotonin receptor through a mechanism no one knew existed.",
-          "pitch_angle": "Lab work shows hydroxyzine acts as a negative allosteric modulator of the 5-HT3A receptor \u2014 a finding that could reframe how we understand this drug's calming effects and open new paths for designing more targeted psychiatric medications."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Neurology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42786262",
-      "headline": "Psychiatric patients may have an immune-driven brain condition that looks like schizophrenia or bipolar disorder \u2014 and most clinicians aren't testing for it",
-      "journal": "Molecular Psychiatry",
-      "pubdate": "2026 Sep 25",
-      "doi": "10.1038/s41380-026-03871-2",
-      "groundbreaking": "Major mental health or behavioral implication / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "A large German clinical network (GENERATE) developed consensus recommendations for detecting autoimmune encephalitis \u2014 an immune system attack on the brain \u2014 in patients presenting with psychiatric symptoms such as psychosis, mania, or severe cognitive changes. The paper reviews diagnostic challenges, outlines clinical red flags, and highlights which patients in psychiatric settings should receive immunological workup. The key finding is that autoimmune encephalitis remains systematically underdiagnosed in psychiatry, meaning some patients currently treated for schizophrenia or bipolar disorder may have a treatable neurological condition.",
-      "why_it_matters": "A missed diagnosis of autoimmune encephalitis in a psychiatric patient means months or years of ineffective psychiatric treatment when immunotherapy might resolve symptoms entirely.",
-      "caveats": "single-center, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic), consensus/expert opinion rather than primary data, German clinical network only",
-      "fact_check_note": "",
-      "relevance_score": 8,
-      "relevance_score_reason": "High-stakes diagnostic gap; major implication for psychosis and mood disorder misdiagnosis.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "Some 'psychiatric' patients have an immune disorder attacking their brain \u2014 and psychiatry still isn't looking for it",
-          "hook": "A condition where the immune system attacks the brain can look indistinguishable from schizophrenia or a first manic episode \u2014 and a major German clinical network says psychiatrists are routinely missing it.",
-          "pitch_angle": "New consensus recommendations from the GENERATE network lay out when and how psychiatrists should test for autoimmune encephalitis, a potentially reversible condition that mimics serious mental illness. The piece would explore why the diagnostic gap persists, what a missed diagnosis costs patients, and what systemic changes in psychiatric workup could catch these cases earlier."
-        },
-        {
-          "publication_type": "The Atlantic",
-          "headline": "What if your 'mental illness' is actually your immune system attacking your brain?",
-          "hook": "For some patients diagnosed with psychosis or bipolar disorder, the real culprit may be an immune-driven brain inflammation \u2014 and it's treatable, if anyone thinks to look.",
-          "pitch_angle": "The story of autoimmune encephalitis in psychiatric settings reveals a fault line between neurology and psychiatry: patients whose symptoms look psychiatric but whose underlying cause is immunological often fall through the diagnostic cracks for years. This piece would probe what that gap reveals about how medicine carves up the mind and brain \u2014 and who bears the cost of getting it wrong."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42788222",
-      "headline": "A digital therapy platform may ease loneliness and distress in caregivers of people with first-episode psychosis",
-      "journal": "Journal of Mental Health",
-      "pubdate": "2026 Sep 25",
-      "doi": "10.1080/09638237.2026.2732880",
-      "groundbreaking": "Major mental health or behavioral implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers tested Altitudes, a blended digital platform combining psychoeducation, therapy content, and peer social networking, in a 6-month feasibility trial with caregivers of people experiencing first-episode psychosis. The study enrolled caregivers who completed assessments at baseline, 3 months, and 6 months. Participants reported reduced distress, increased self-compassion, more positive caregiving experiences, and lower loneliness, though wide confidence intervals call for cautious interpretation.",
-      "why_it_matters": "Family caregivers of people with first-episode psychosis are a chronically underserved group, and early evidence that a scalable digital platform can address their own mental health needs \u2014 not just the person they care for \u2014 could reshape how support is delivered in this critical window.",
-      "caveats": "small sample (N<100), no active control group, observational design, self-reported outcomes, short follow-up, preprint, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic)",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "First-episode psychosis angle, digital mental health, underserved caregiver population; limited by feasibility design.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "A digital therapy app for psychosis caregivers shows early promise \u2014 but the real test is still ahead",
-          "hook": "Most family interventions for first-episode psychosis focus on the patient \u2014 a new digital platform targets the caregivers themselves, and early data suggest it may help.",
-          "pitch_angle": "The Altitudes platform blends peer networking, psychoeducation, and therapy content to address caregiver distress and loneliness, a need rarely centered in FEP care. The feasibility results are encouraging, but without a control group the field is still waiting for a rigorous test of effectiveness."
-        },
-        {
-          "publication_type": "Psychology Today",
-          "headline": "When a loved one has a first psychotic episode, caregivers are often left to struggle alone \u2014 this app tried to change that",
-          "hook": "Caring for someone through a first episode of psychosis is isolating and emotionally exhausting, yet almost no programs are built specifically to support the caregiver's own mental health.",
-          "pitch_angle": "A six-month pilot of the Altitudes digital platform found that caregivers reported feeling less lonely, less distressed, and more compassionate toward themselves \u2014 suggesting that purpose-built digital tools could fill a significant gap. Experts caution the study was small and lacked a comparison group, but the findings point to a population whose needs have long been overlooked."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Psychology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42790401",
-      "headline": "Delusions may make the legal standard for psychiatric treatment consent logically impossible to meet \u2014 or fail",
-      "journal": "International Journal of Law and Psychiatry",
-      "pubdate": "2026 Sep 25",
-      "doi": "10.1016/j.ijlp.2026.102286",
-      "groundbreaking": "Counterintuitive finding / Major mental health or behavioral implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Canadian psychiatrists revisited the landmark Supreme Court of Canada case Starson v. Swayze \u2014 involving a person with psychosis who refused treatment \u2014 to examine how delusional thinking creates a logical paradox within existing legal standards for treatment capacity. Using the Ontario Health Care Consent Act's 'appreciation' standard as a framework, the authors argue that delusions may render the capacity assessment for psychiatric treatment internally incoherent: a person cannot meaningfully 'appreciate' the consequences of refusing treatment for a condition whose very nature distorts their ability to appreciate it. The paper is a legal and philosophical analysis rather than an empirical study, aimed at psychiatrists, lawyers, and policymakers.",
-      "why_it_matters": "This legal paradox affects real people with serious mental illness who may be denied or forced into treatment based on a standard that, by this analysis, cannot be coherently applied \u2014 with implications for psychiatric policy well beyond Canada.",
-      "caveats": "observational design, single-center, no empirical data, legal/philosophical analysis only, Canadian jurisdiction (findings may not transfer to other legal systems)",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive legal-psychiatric tension; no empirical data limits broader pitch appeal.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic",
-          "headline": "The law says psychiatric patients must 'appreciate' their illness to refuse treatment. Delusions make that standard absurd.",
-          "hook": "A Canadian legal case reveals a profound paradox at the heart of psychiatric law: the very symptom that might warrant treatment \u2014 delusional thinking \u2014 is the same one that makes the legal test for refusing it impossible to fairly apply.",
-          "pitch_angle": "Revisiting a landmark Supreme Court of Canada ruling, two psychiatrists argue that existing legal standards for treatment capacity become logically incoherent when applied to people experiencing delusions, because the illness itself distorts the ability to meet the standard. The piece would explore what this means for autonomy, forced treatment, and how societies decide when \u2014 and whether \u2014 to override a person's stated wishes about their own psychiatric care."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Psychiatry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42785918",
-      "headline": "PTSD's sweating and racing heart at night are largely invisible to existing sleep tools \u2014 a new scale aims to fix that",
-      "journal": "Journal of Sleep Research",
-      "pubdate": "2026 Sep 24",
-      "doi": "10.1111/jsr.70439",
-      "groundbreaking": "First-in-class human study / Major mental health or behavioral implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers developed and validated the STARSS Scale, an 11-item self-report tool designed to capture trauma-related sleep disturbances that include autonomic symptoms like palpitations and sweating \u2014 features largely missing from existing measures. The scale was validated in 830 healthcare workers and first responders who worked during the COVID-19 pandemic. STARSS showed strong correlations with established measures of PTSD, anxiety, depression, and insomnia, and strong internal consistency, suggesting it captures a clinically meaningful dimension of trauma-related sleep disruption.",
-      "why_it_matters": "Better measurement of autonomic sleep symptoms after trauma could help researchers and clinicians track a dimension of PTSD that current tools routinely miss.",
-      "caveats": "observational design, single occupational sample (healthcare workers/first responders), self-reported outcomes, WEIRD sample, no active control group",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Sleep and PTSD intersection, large N, novel validated tool; occupational sample limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News / Monitor on Psychology",
-          "headline": "The heart-pounding, sweat-soaked nights of PTSD have been flying under the radar of standard sleep assessments",
-          "hook": "Standard tools for measuring trauma-related sleep problems largely ignore the autonomic symptoms \u2014 racing heart, sweating, physical thrashing \u2014 that many trauma survivors say are most distressing.",
-          "pitch_angle": "A new validated scale called STARSS may finally give researchers a way to quantify the full physiological dimension of PTSD sleep disruption. Validated in over 800 healthcare workers and first responders, the tool could open new avenues for tracking treatment response in ways current measures cannot."
-        },
-        {
-          "publication_type": "NPR Health / NYT Well",
-          "headline": "PTSD doesn't just cause nightmares \u2014 the physical symptoms at night have been nearly impossible to measure until now",
-          "hook": "For trauma survivors, waking up drenched in sweat with a pounding heart may be as disabling as the nightmares themselves \u2014 but science has had almost no standardized way to count or track it.",
-          "pitch_angle": "A team at the VA Puget Sound developed a new self-report scale specifically designed to capture the body's stress response during sleep after trauma, filling a gap that researchers say has hampered both treatment evaluation and basic understanding of PTSD's nighttime toll."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Neurology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42786065",
-      "headline": "Hippocampal 'place cells' may be the brain's engine for generating entirely new thoughts \u2014 not just navigating space",
-      "journal": "Trends in Cognitive Sciences",
-      "pubdate": "2026 Sep 24",
-      "doi": "10.1016/j.tics.2026.09.002",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This is a theoretical review proposing that hippocampal place cells \u2014 long studied for their role in spatial navigation \u2014 may also scaffold the generation of entirely new mental states by linking relational memory codes to cortical content representations. No new empirical data or human participants are reported; the paper synthesizes existing neuroscience literature. The central argument suggests hippocampal-cortical 'indexing' could explain how the brain constructs novel ideas and abstract thought from prior experience.",
-      "why_it_matters": "If supported by future empirical work, this framework could reshape how scientists think about imagination, creativity, and the cognitive deficits seen in conditions that affect the hippocampus, such as depression, PTSD, and Alzheimer's disease.",
-      "caveats": "animal or cell study, no active control group, preprint",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Theoretically rich but speculative review; no human data, limited direct mental health application.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Transmitter",
-          "headline": "A New Theory Says Place Cells Don't Just Map Space \u2014 They May Build Thoughts From Scratch",
-          "hook": "The hippocampal cells that help you navigate a city may also be the brain's engine for generating entirely new ideas.",
-          "pitch_angle": "A new theoretical framework proposes that hippocampal 'place cells' generate novel mental states by acting as an index linking relational memory codes to cortical content \u2014 essentially scaffolding imagination itself. If empirically validated, the model could reframe how neuroscientists understand creative cognition and the memory-imagination deficits seen in depression and PTSD."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Psychology",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -8305,33 +9445,6 @@
       "status": "new"
     },
     {
-      "pmid": "42667920",
-      "headline": "Bilingual kids' brains track their heritage language just as actively as their dominant one \u2014 even without formal instruction",
-      "journal": "Brain and Language",
-      "pubdate": "2026 Aug 29",
-      "doi": "10.1016/j.bandl.2026.105833",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used fNIRS neuroimaging and a computational measure of word predictability to examine how 88 Spanish-English bilingual children (ages 7\u201312) processed naturalistic Spanish stories. The study found that children's brains successfully tracked linguistic predictability in their heritage language, suggesting they form rich mental representations in Spanish despite English being their dominant societal language. Reading and listening comprehension abilities showed trends toward modulating this neural tracking, but no effects were statistically reliable.",
-      "why_it_matters": "The finding suggests that bilingual children retain deeper heritage-language processing capacity than their outward fluency might imply, with potential implications for how schools and clinicians assess language development in minority-language households.",
-      "caveats": "small sample (N<100), observational design, single-center, WEIRD sample (Western, Educated, Industrialized, Rich, Democratic), purely neuroimaging with limited behavioral outcome clarity",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Language neuroscience with child development angle; limited direct mental health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "NPR Health / General health",
-          "headline": "Heritage language kids' brains are more bilingual than their mouths let on",
-          "hook": "Even when bilingual children rarely speak their family's home language, their brains are quietly building sophisticated linguistic maps of it.",
-          "pitch_angle": "A new neuroimaging study found that Spanish-English bilingual children's brains track word predictability in Spanish nearly as well as monolingual processing research would predict, suggesting heritage-language capacity is underestimated. This has real implications for how educators and clinicians evaluate bilingual children's language skills and potential."
-        }
-      ],
-      "run_date": "2026-09-04",
-      "category": "Neurology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42667135",
       "headline": "A rare connective tissue disorder is hiding in plain sight \u2014 and its vascular risks can be fatal before adulthood",
       "journal": "Journal of Neuromuscular Diseases",
@@ -9332,33 +10445,6 @@
           "headline": "The Warning Signs That Best Predict a Child's Suicide Attempt? Clinicians Already Have Them.",
           "hook": "Researchers found that a simple set of clinical risk factors \u2014 anxiety, impulsivity, access to guns or medications, how intensely a child thinks about suicide \u2014 predicted first suicide attempts in 9-year-olds better than brain scans did.",
           "pitch_angle": "The study offers an evidence-based case for redirecting early suicide prevention toward assessing and reducing modifiable risks in young children, rather than waiting for adolescence \u2014 or investing in high-tech tools that may not add predictive value."
-        }
-      ],
-      "run_date": "2026-08-08",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42557604",
-      "headline": "A statistical illusion may be hiding suicide trends in veterans \u2014 and distorting prevention policy",
-      "journal": "Psychiatric Services",
-      "pubdate": "2026 Aug 6",
-      "doi": "10.1176/appi.ps.20240228",
-      "groundbreaking": "Counterintuitive finding / Major mental health or behavioral implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers from the VA's Serious Mental Illness Treatment Resource and Evaluation Center examine how Simpson's Paradox \u2014 a statistical phenomenon in which a trend visible in aggregate data reverses or disappears when data are broken into subgroups \u2014 can distort suicide surveillance findings in veteran populations. The analysis, drawing on VA data, argues that combining demographic or risk subgroups can obscure real changes in suicide rates that matter for targeted prevention. The paper calls for disaggregated analysis in suicide surveillance to avoid misleading conclusions about which groups are at rising or falling risk.",
-      "why_it_matters": "If suicide surveillance systems systematically mask diverging trends across subgroups, prevention resources may be misallocated away from the veterans most at risk.",
-      "caveats": "observational design, single-center (VA system), abstract-only \u2014 full methods not available for verification",
-      "fact_check_note": "Full abstract was not provided; summary is based on available title, author affiliations, and partial metadata. Key claims could not be fully verified against abstract text.",
-      "relevance_score": 6,
-      "relevance_score_reason": "Methodologically important for suicide prevention policy; limited abstract available.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "The way the VA counts veteran suicides may be hiding who's actually at growing risk",
-          "hook": "A statistical artifact called Simpson's Paradox can make suicide rates appear stable in the aggregate even as they climb sharply within specific subgroups \u2014 and VA researchers say it may be distorting national surveillance data.",
-          "pitch_angle": "The finding matters because suicide prevention funding and policy targets are often set using population-level trend data; if those trends are artifacts of how subgroups are combined, the most at-risk veterans may be systematically overlooked. The paper is a rare methodological critique aimed squarely at a high-stakes public health surveillance system."
         }
       ],
       "run_date": "2026-08-08",
@@ -12271,33 +13357,6 @@
       "status": "new"
     },
     {
-      "pmid": "42537444",
-      "headline": "Getting into psychosis care faster \u2014 and receiving more targeted therapy \u2014 improves recovery odds in first-episode patients",
-      "journal": "Schizophrenia Research",
-      "pubdate": "2026 Jul 31",
-      "doi": "10.1016/j.schres.2026.07.017",
-      "groundbreaking": "Major mental health or behavioral implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers evaluated a multicomponent early intervention program for first-episode psychosis (FEP) across the Emilia-Romagna region of Italy, analyzing real-world data from 1,085 patients aged 18\u201335 over a mean follow-up of 2.5 years. Shorter duration of untreated psychosis was associated with better recovery, and patients who received more than 36 FEP-specific interventions (such as CBT or psychoeducation) had 74% higher odds of remission. The study also found equity gaps: foreign-born patients showed higher baseline and follow-up severity, while being single or having lower education was associated with lower remission likelihood.",
-      "why_it_matters": "The findings suggest that both speed of access to care and the intensity of specialized treatment matter for psychosis recovery \u2014 and that social disadvantage compounds illness burden in ways early intervention programs may not yet fully address.",
-      "caveats": "observational design, single-center (single region), WEIRD sample (Western, Educated, Industrialized, Rich, Democratic), findings tied to Italian regional healthcare system with limited generalizability to US context",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Large real-world FEP cohort; equity angle adds value but Italy-specific system limits US pitch.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "Early, intensive psychosis care improves recovery \u2014 but only if patients can actually access it",
-          "hook": "A large Italian study finds that both how quickly patients reach psychosis care and how much specialized treatment they receive shape whether they recover \u2014 but immigrants and less-educated patients are systematically falling behind.",
-          "pitch_angle": "Real-world data from over 1,000 first-episode psychosis patients shows that timely, targeted intervention is associated with significantly better outcomes, yet the program reveals persistent equity gaps along lines of citizenship and education. The findings reinforce calls for early psychosis programs to treat fairness as a clinical metric, not an afterthought."
-        }
-      ],
-      "run_date": "2026-08-07",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42543049",
       "headline": "A blood protein may predict how soon a Parkinson's patient will experience their first fall",
       "journal": "Journal of Neuroimmunology",
@@ -12739,39 +13798,6 @@
       "run_date": "2026-08-06",
       "category": "Psychology",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42533557",
-      "headline": "Video-game balance training may slow a key Alzheimer's biomarker in people with early memory decline",
-      "journal": "Games for Health Journal",
-      "pubdate": "2026 Jul 30",
-      "doi": "10.1177/2161783X261461636",
-      "groundbreaking": "First-in-class human study / Major mental health or behavioral implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "In a four-arm randomized trial, 97 adults with mild cognitive impairment (MCI) were assigned to eight weeks of exergame balance training at mild, moderate, or high difficulty, or a Wii Fit control, for 40 minutes three times per week. Compared to controls, higher-difficulty exergame groups showed significant increases in serum BDNF (a brain growth factor) and reductions in p-tau181 (a blood-based Alzheimer's biomarker), alongside improvements in attention, abstraction, and visuospatial skills. Greater cognitive and neurobiological effects were seen in the moderate and high-difficulty groups, suggesting that cognitive-motor challenge intensity matters.",
-      "why_it_matters": "The finding that a cognitively demanding, game-based exercise intervention may shift Alzheimer's-related blood biomarkers in people already showing cognitive decline points to a potentially accessible, low-cost intervention strategy worth investigating further.",
-      "caveats": "small sample (N<100), short follow-up, single-center, no active control group matched for cognitive demand, conducted in Pakistan \u2014 generalizability to other populations unclear",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "RCT in clinical MCI sample with biomarker and cognitive outcomes; high public relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "NPR Health",
-          "headline": "Playing Balance Video Games Could Shift Alzheimer's Biomarkers in People With Early Memory Loss",
-          "hook": "A randomized trial found that cognitively challenging exergame training reduced a key Alzheimer's blood marker in people already experiencing mild cognitive impairment \u2014 and the harder the game, the bigger the effect.",
-          "pitch_angle": "Researchers in Pakistan assigned nearly 100 adults with mild cognitive impairment to different levels of balance-based video game training and found that more challenging sessions were linked to lower levels of p-tau181 \u2014 a biomarker associated with Alzheimer's disease progression \u2014 as well as gains in attention and spatial skills. While the trial is small and short, it adds to growing evidence that cognitively demanding physical exercise may offer a low-cost, accessible tool for slowing cognitive decline."
-        },
-        {
-          "publication_type": "The Atlantic",
-          "headline": "Could a Video Game Slow the Clock on Alzheimer's? A Small Trial Offers a Tantalizing Clue",
-          "hook": "A new randomized trial suggests that the harder you push your brain and body simultaneously, the more you may be able to shift the biology of early Alzheimer's disease \u2014 at least according to blood markers.",
-          "pitch_angle": "Eight weeks of cognitively demanding balance video games reduced a blood-based Alzheimer's biomarker and improved cognitive test scores in adults with mild cognitive impairment, with stronger effects at higher difficulty levels. The finding raises a broader question about why conventional exercise research so often treats physical and mental challenge as separate variables \u2014 and whether the combination is where the real therapeutic signal lies."
-        }
-      ],
-      "run_date": "2026-08-06",
-      "category": "Psychology",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -13495,33 +14521,6 @@
       "status": "new"
     },
     {
-      "pmid": "42507372",
-      "headline": "Unpublished lab experiments reveal a 'file drawer' effect has been hiding a real phenomenon in speech research",
-      "journal": "Journal of Experimental Psychology: Human Perception and Performance",
-      "pubdate": "2026 Jul 27",
-      "doi": "10.1037/xhp0001443",
-      "groundbreaking": "Overturns prior research",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a meta-analysis of published picture-picture interference studies \u2014 experiments testing how semantically related distractor images affect picture-naming speed \u2014 and found the pooled effect was near zero (2 ms). However, when the team added 14 of their own previously unpublished experiments, the pooled estimate rose to 9 ms, suggesting publication bias had masked a real and consistent semantic interference effect. The findings highlight how file-drawer effects can lead the field to incorrectly conclude a phenomenon is unreliable or absent.",
-      "why_it_matters": "This is a concrete demonstration of how publication bias distorts the scientific record in cognitive psychology, with implications for how researchers and journals should treat null or inconsistent findings.",
-      "caveats": "single-center (all unpublished experiments from one lab), WEIRD sample, lab-based experimental design, effect size is small (9 ms)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Methodologically important replication science finding but no direct mental health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "A Lab Opened Its File Drawer \u2014 and Found the Effect Science Had Written Off Was Real All Along",
-          "hook": "Fourteen unpublished experiments from one psychology lab overturned a field consensus that a core speech-production effect was inconsistent and unreliable.",
-          "pitch_angle": "A new meta-analysis found that the published literature on picture-based semantic interference was near zero \u2014 but adding years of unreported null and positive results from one lab's files revealed a consistent, real effect. The study is a striking case study in how publication bias actively shapes \u2014 and distorts \u2014 what scientists believe to be true."
-        }
-      ],
-      "run_date": "2026-08-01",
-      "category": "Psychology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42503482",
       "headline": "A gene linked to childhood brain disease now found to cause a rare adult muscle disorder \u2014 rewriting what we know about CLN8",
       "journal": "Brain Pathology",
@@ -13686,39 +14685,6 @@
       ],
       "run_date": "2026-07-14",
       "category": "Behavioral Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42424747",
-      "headline": "A suite of digital games can reliably detect early cognitive decline \u2014 and people actually play them",
-      "journal": "The Journal of Prevention of Alzheimer's Disease",
-      "pubdate": "2026 Jul 9",
-      "doi": "10.1016/j.tjpad.2026.100642",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers at Massachusetts General Hospital evaluated the MIND GamePack, a digital game platform, in 60 adults split into two cohorts \u2014 one with no cognitive complaints and one with subjective complaints, mild cognitive impairment, or mild dementia \u2014 over 3\u20136 months. Specific game features showed moderate to strong correlations with validated neuropsychological tests including the MoCA, RBANS, and Trail Making Test. The platform demonstrated high compliance and excellent test-retest reliability, and at baseline, game scores distinguished cognitively normal from impaired participants across nearly all cognitive domains.",
-      "why_it_matters": "An engaging, home-based digital tool that reliably flags early cognitive decline could broaden access to Alzheimer's screening beyond clinical settings \u2014 though this feasibility study is a first step, not a validated diagnostic.",
-      "caveats": "small sample (N<100), single-center, short follow-up, industry funding [AbbVie Inc.], WEIRD sample (Western, Educated, Industrialized, Rich, Democratic)",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Alzheimer's early detection with accessible digital tool; small N and industry funding limit score.",
-      "pitch_angles": [
-        {
-          "publication_type": "NYT Well",
-          "headline": "Could Playing Digital Games at Home Replace a Trip to the Neurologist for Memory Testing?",
-          "hook": "A small but promising study found that a suite of digital games designed to feel like leisure activities could accurately distinguish people with early memory problems from those without \u2014 all from home.",
-          "pitch_angle": "Researchers found that specific gameplay patterns \u2014 like how quickly and accurately someone completes a memory-matching game \u2014 correlated strongly with scores on standard clinical memory tests, suggesting digital games could eventually serve as a low-barrier screening tool for Alzheimer's risk. The study was small and partially funded by a pharmaceutical company, but it adds to growing evidence that the way people play games may reveal cognitive changes before clinical symptoms are obvious."
-        },
-        {
-          "publication_type": "Psychology Today",
-          "headline": "Your Brain's Decline Might Show Up in How You Play a Game \u2014 Researchers Are Paying Attention",
-          "hook": "Subtle patterns in how someone moves pieces in a digital memory game may be early signals of cognitive decline, a new feasibility study suggests.",
-          "pitch_angle": "The MIND GamePack study found that cognitively healthy adults improved at digital games over three months while those with mild impairment did not \u2014 a difference that could serve as a sensitive, continuous measure of brain health over time. For the millions worried about memory changes, tools like these could eventually offer a low-stakes, accessible way to monitor cognition without a clinical visit."
-        }
-      ],
-      "run_date": "2026-07-14",
-      "category": "Neurology",
       "chunk": "2/2",
       "status": "new"
     },
@@ -13984,39 +14950,6 @@
       "status": "new"
     },
     {
-      "pmid": "42415253",
-      "headline": "Implantable brain devices for psychiatric conditions raise urgent ethical and practical questions",
-      "journal": "The American Journal of Psychiatry",
-      "pubdate": "2026 Jul 8",
-      "doi": "10.1176/appi.ajp.20251187",
-      "groundbreaking": "Major mental health or behavioral implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers from Massachusetts General Hospital and Harvard Medical School examined the landscape of implantable neuromodulation devices \u2014 such as deep brain stimulators \u2014 being developed or used in psychiatric care, focusing on issues of human fidelity (how well devices preserve patient identity and autonomy) and real-world implementation challenges. The article is a perspectives/analysis piece rather than an empirical study with a defined participant sample. It highlights tensions between the therapeutic promise of these technologies and complex ethical, technical, and patient-identity concerns.",
-      "why_it_matters": "As implantable brain devices edge closer to psychiatric use, understanding their ethical and human dimensions is essential for patients, clinicians, and policymakers.",
-      "caveats": "No empirical data or patient sample \u2014 opinion/perspectives piece, single-center authorship",
-      "fact_check_note": "No abstract with empirical data to verify against; this appears to be a commentary or perspectives article.",
-      "relevance_score": 6,
-      "relevance_score_reason": "High-stakes psychiatric tech ethics topic; limited by absence of original empirical data.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic",
-          "headline": "What Happens to Your Sense of Self When a Device Controls Your Mood?",
-          "hook": "Implantable brain devices are moving from neurology into psychiatry \u2014 and experts say the field isn't ready for what that means for human identity.",
-          "pitch_angle": "As neuromodulation devices inch toward treating depression and other psychiatric conditions, researchers are raising alarms about 'human fidelity' \u2014 whether these technologies alter who patients fundamentally are. The ethical terrain here is almost entirely unmapped, and the stakes are high."
-        },
-        {
-          "publication_type": "STAT News",
-          "headline": "Brain Implants for Psychiatric Disorders Face a Thicket of Implementation Barriers, Experts Warn",
-          "hook": "A new analysis in the American Journal of Psychiatry flags major unresolved challenges in deploying implantable neuromodulation devices for mental health conditions.",
-          "pitch_angle": "From patient consent to device maintenance to identity disruption, the clinical and ethical hurdles for psychiatric brain implants remain poorly addressed \u2014 even as the technology advances rapidly. Experts argue the field needs frameworks now, before widespread adoption begins."
-        }
-      ],
-      "run_date": "2026-07-14",
-      "category": "Psychiatry",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42424791",
       "headline": "Blood thinners dramatically raise the odds that a brain bleed will require a second surgery",
       "journal": "Clinical Neurology and Neurosurgery",
@@ -14254,33 +15187,6 @@
       "run_date": "2026-07-14",
       "category": "Psychology",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42413308",
-      "headline": "In Japan, fewer than 2% of first-episode schizophrenia patients receive long-acting injectable antipsychotics \u2014 even though guidelines recommend them",
-      "journal": "Schizophrenia Research",
-      "pubdate": "2026 Jul 7",
-      "doi": "10.1016/j.schres.2026.07.004",
-      "groundbreaking": "Major mental health or behavioral implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Using a large Japanese insurance claims database (N=24,226 patients), researchers tracked long-acting injectable antipsychotic (LAI) initiation patterns among people with newly diagnosed schizophrenia over up to 19 years. Only 1.8% of patients ever received an LAI, and the annual rate remained below 2% throughout the study period; the median time from diagnosis to first LAI was 12 months. Among those who switched from oral antipsychotics to LAIs, 26.9% had been hospitalized in the prior year, suggesting LAIs were often initiated only after treatment difficulties emerged.",
-      "why_it_matters": "The stark underuse of long-acting injectables \u2014 which evidence suggests improve medication adherence in schizophrenia \u2014 points to a persistent gap between clinical guidelines and real-world psychiatric practice.",
-      "caveats": "observational design, single-center (Japan-specific claims database), industry funding [AbbVie, AstraZeneca, Eisai, and others], findings tied to Japanese healthcare system context with limited direct generalizability to US/global settings",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Large cohort; schizophrenia is high-prevalence, but Japan-specific healthcare context limits US relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "STAT News",
-          "headline": "A Proven Tool for Schizophrenia Adherence Goes Almost Unused \u2014 Even in a New Diagnosis",
-          "hook": "A study of 24,000 first-episode schizophrenia patients in Japan found that fewer than 2% ever received long-acting injectable antipsychotics \u2014 a treatment widely recommended to reduce relapse.",
-          "pitch_angle": "The findings from Japan's national insurance data echo concerns raised in the US and Europe about the persistent underuse of LAIs in early schizophrenia, despite strong evidence for their role in supporting treatment continuity. The pattern suggests systemic and cultural barriers to adoption that transcend any single healthcare system."
-        }
-      ],
-      "run_date": "2026-07-14",
-      "category": "Psychiatry",
-      "chunk": "1/2",
       "status": "new"
     },
     {
