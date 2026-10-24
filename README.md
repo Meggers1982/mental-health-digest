@@ -1,5 +1,7 @@
 # Mental Health & Psychiatry Research Digest
 
+> **Retired 2026-10-23.** The daily workflow is disabled (`gh workflow enable mental-health-digest.yml` brings it back) and the dashboard is frozen at its last good run. It had failed every day from 10/19 on API credits. Its journals now feed the New Scientist pitch routine in `Meggers1982/weekly-pitches` (`ns/journals.py`), which screens them daily on the Claude subscription. The dashboard's save and delete clicks are still in Supabase (`study_status`); nothing was deleted. See MEA-1757 and MEA-1758.
+
 A GitHub Actions workflow that searches curated psychiatry, psychology, behavioral science, and neuroscience research relevant to mental health journals on PubMed, filters out widely covered stories, runs a single Claude pass for journalist-ready summaries and pitch angles, and publishes results to a GitHub Pages dashboard.
 
 ## How it works
